@@ -1,0 +1,4 @@
+ssh -i /home/gdu3/cs411/aws_key/cs411.pem ubuntu@52.36.81.226
+
+run on VM:
+python manage.py runserver 0.0.0.0:8000
