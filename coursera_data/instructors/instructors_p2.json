@@ -1,0 +1,765 @@
+{
+    "elements": [
+        {
+            "bio": "<p>Lars\nOve Dragsted is a professor of Biomedicine and Nutrigenomics and has been\ninvolved in several large/multicentre studies on health promoting foods and\ndiets. Two of these are specifically related to defining and testing Nordic\ndiets; these include the studies conducted at the Nordea Foundation OPUS\n\u00a0Research Centre 2009-14, and the studies under the Nordic Council of\nMinisters\u2019 SYSDIET Centre of Excellence 2008-13.</p>\n\n<p><span>Professor\nDragsteds main research interests are the mechanisms behind the positive health\neffects of Fruit and Vegetables and the development of the new metabolomics\ntechnologies for elucidating nutritional biochemistry and developing better\nbiomarkers for monitoring compliance in nutrition research. Metabolomics and\nbiomarker applications are also his main role in the two Nordic diet studies.</span></p>",
+            "department": "Department of Nutrition, Exercise and Sports",
+            "fullName": "",
+            "id": "5195939",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2d/89db9e998d975c9e6158e82a5718c6/Lars-Ove-Dragsted.png",
+            "title": "Professor, Head of Section for Bioactive Foods and Health"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "237513",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Sanders joined the faculty at Georgia Tech after serving 5 years as a Materials Science and Engineering faculty member at Purdue University. He has worked as a Research Scientist at Alcoa Technical Center (1974-78) and the Mechanical  Properties Research Laboratory at Georgia Tech (1979-1980).\nDr. Sanders has been actively engaged in various aspects of the physical  metallurgy of aluminum alloys, focusing primarily on precipitation hardening  aluminum alloys. He and his graduate students have worked in the areas of phase transformations, corrosion, stress corrosion cracking, fatigue and fatigue crack growth, fracture toughness, computer modeling of the development of  microstructure during aging in Al-Li alloys, and the kinetics of recrystallization.\nOver the past several years, Dr. Sanders has studied the relationships between microstructure and solidification parameters. This interest developed initially from his work on rapidly solidified aluminum and cobalt base alloys. He is currently studying the kinetics of the homogenization process in cast aluminum alloys.\n\nIn addition to his work on aluminum alloys, Dr. Sanders has been involved in calculations of phase diagrams in glass oxide systems and in precipitation kinetics in nickel-base super-alloys. The computer modeling of thermodynamic properties of phases makes it possible to extend equilibrium data to metastable data and vice versa, and to calculate phase equilibria in multicomponent systems from binary data. These techniques are being employed to calculate binary phase diagrams, metastable subliquids miscibility gaps, and metastable subliquidus miscibility gaps in ternary systems. To date, the emphasis has been on alkali-borosilicate systems.  Nickel base superalloys are used in turbine applications which require their high temperature strength and resistance to environmental attack. A limiting factor in  improving turbines has been the capability of superalloys to withstand yet higher operating temperatures. Therefore, researchers are continuously looking for methods to increase the life and operating temperatures of superalloys . For this reason, improving resistance to creep crack growth and creep-fatigue crack growth have become important. An approach which has shown promise for improvement of cracking resistance of several nickel base superalloys has been the  formation of microstructures containing serrated grain boundaries. An objective of these studies is to better understand the formation of dendritic and serrated grain boundaries in nickel base superalloys and to increase understanding of dendritic growth in the solid state.\n\nDr. Sanders is a member of TMS and ASM and is and ASM Fellow; Program evaluator for TMS (ABET); and has organized or co-organized ten international conferences on aluminum alloys. He has published more than 100 journal and conference articles. He was awarded a Research Fulbright Fellowship to work at  ONERA in Paris France in 1992. In 1994, he received the W. Roane Beard Outstanding Teacher Award.",
+            "department": "School of Materials Science and Engineering",
+            "fullName": "Thomas H. Sanders, Jr.",
+            "id": "16957846",
+            "title": "Regents' Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3077500",
+            "title": ""
+        },
+        {
+            "bio": "Magnus Egerstedt is the&nbsp;Schlumberger Professor&nbsp;in the&nbsp;<a href=\"http://www.ece.gatech.edu/\" target=\"_blank\">School of Electrical and Computer Engineering</a>, where he has been on the faculty since 2001. He is an award-winning teacher, with awards from both Georgia Tech and Harvard University. Egerstedt received a MS in Engineering Physics and a PhD in Applied Mathematics from the Royal Institute of Technology, Stockholm, Sweden, and a BA in Philosophy from Stockholm University. Egerstedt's research interests include motion planning, control, and coordination of teams of mobile robots, and he is the director of the Georgia Robotics and Intelligent Systems Laboratory (GRITS Lab). He is also a Fellow of the IEEE and a recipient of a CAREER Award from the U.S. National Science Foundation.<br>",
+            "department": "School of Electrical and Computer Engineering",
+            "fullName": "",
+            "id": "247285",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2e/2e7d34edd24275668ab90a1c32a245/magnusegerstedtphoto.png",
+            "title": "Professor"
+        },
+        {
+            "bio": "<p>Jimeng\n Sun is an Associate Professor of School of Computational Science and \nEngineering at College of Computing at Georgia Institute of Technology. \nHis research focuses on medical informatics, especially in applying \nlarge-scale predictive modeling and similarity analytics on biomedical \napplications.</p>\n<p>Dr.\n Sun has extensive research records on data mining: big data analytics, \nsimilarity metric learning, social network analysis, predictive \nmodeling, tensor analysis, and visual analytics. He also applies data \nmining to healthcare applications such as heart failure onset prediction\n and hypertension control management.</p>\n<p>He\n has published over 70 papers, filed over 20 patents (5 granted). He has\n received ICDM best research paper in 2008, SDM best research paper in \n2007, and KDD Dissertation runner-up award in 2008. Dr. Sun received his\n B.S. and M.Phil. in Computer Science from Hong Kong University of \nScience and Technology in 2002 and 2003, and PhD in Computer Science in \nCarnegie Mellon University in 2007. Prior to joining Georgia Tech, He \nwas a research staff member at IBM TJ Watson Research Center.</p><br>",
+            "department": "School of Computational Science and Engineering | College of Computing ",
+            "fullName": "",
+            "id": "9794966",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/86/5a41d050cc11e4af9c5fddd3224b35/JimengSun.jpg",
+            "title": "Associate Professor "
+        },
+        {
+            "bio": "Nicolai Wewer Albrechtsen is trained as a medical doctor (MD) and currently works as a PhD student at Professor Holst lab investigating the physiology of gut hormones, such as the incretin GLP-1, and their linkage to diseases.\n\nSince his BSc he has been involved in medical research including endocrinology, pathology and clinical biochemistry. His research focusses on identification and characterization of gut hormones and as well other regulatory peptides. Nicolai\u2019s passion is in clinical biochemistry and its applicability in basic and clinical science. He has together with Professor Mann (Max-Planck Institute, Munich, Germany) created a platform for identification of peptide hormones (biomarkers) using state of the art mass-spectrometry based proteomic.\n\nNicolai has been teaching medical students since 2010, including mentoring for several fellows. He has published more than 18 papers in peer-review international journals, received several awards for young researchers (latest a EMBO scholarship) and has recently completed a 1 year program at Harvard Medical School (GCSRT certified, elected member of the Harvard Alumni). ",
+            "department": "Department of Biomedical Sciences & NNF Center for Basic Metabolic Research",
+            "fullName": "Nicolai Jacob Wewer Albrechtsen",
+            "id": "2823522",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/da/6f5340524811e5bdbe2fb511176e31/nico.jpg",
+            "title": "MD, GCSRT, PhD student"
+        },
+        {
+            "bio": "",
+            "department": "Social Sciences",
+            "fullName": "Sanne Hoekstra",
+            "id": "13453777",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/3f/845cf07bbe11e5a8463d6f813e119c/2014-05-23-21.03.06-1.jpg",
+            "title": "MSc"
+        },
+        {
+            "bio": ".",
+            "department": "",
+            "fullName": "",
+            "id": "2696316",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "8337646",
+            "title": ""
+        },
+        {
+            "bio": "<p>Joris\nZufferey obtained a Bachelor of Sciences (Ethnology and Biology) from the\nUniversity of Neuch\u00e2tel (Switzerland). In 2009, he completed his Master\u2019s\nDegree in Development Studies at the Graduate Institute of International and\nDevelopment Studies in Geneva. His research was focused on the sustainability\nof biofuels production in Brazil.</p>\n\n<p>In February\n2011, he joined the Human Ecology Group at the Institute of Environmental Sciences\nof the University of Geneva. He is participating in the management of a French-speaking\nplatform on sustainable development (is@dd) and in the implementation of\ninnovative teaching activities (flipped classroom) as part of an\ninterdisciplinary course.</p>\n\n<p>Since 2012,\nhe has been involved in the EU-FP7 PHENOTYPE project on the benefits of outdoor\nnatural environments for human health and well-being.</p>\n\n<br><br><br><br>",
+            "department": "",
+            "fullName": "",
+            "id": "8488409",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/90/5662304a1011e4bb67af909bf5321c/zufferey_500x500.jpg",
+            "title": ""
+        },
+        {
+            "bio": "\u5218\u5bb6\u745b\uff0c\u535a\u58eb\uff0c\u5317\u4eac\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u6280\u672f\u7814\u7a76\u6240\u526f\u6559\u6388\u30022010\u5e746\u6708\u6bd5\u4e1a\u4e8e\u5317\u4eac\u5927\u5b66\u8ba1\u7b97\u673a\u5e94\u7528\u6280\u672f\u4e13\u4e1a\uff0c\u83b7\u7406\u5b66\u535a\u58eb\u5b66\u4f4d\u30022007\u5e74\u81f32008\u5e74\u8d74\u7f8e\u56fd\u5357\u52a0\u5dde\u5927\u5b66\u591a\u5a92\u4f53\u901a\u8baf\u5b9e\u9a8c\u5ba4\u505a\u8bbf\u95ee\u5b66\u8005\u30022010\u5e747\u6708\u7559\u6821\u4efb\u6559\uff0c\u52a0\u5165\u5317\u4eac\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u6280\u672f\u7814\u7a76\u6240\u4ece\u4e8b\u79d1\u7814\u6559\u5b66\u5de5\u4f5c\u3002\u7814\u7a76\u9886\u57df\u4e3b\u8981\u5173\u6ce8\u4e8e\u56fe\u50cf\u89c6\u9891\u5904\u7406\u4e0e\u7f16\u7801\u4f18\u5316\uff0c\u5df2\u53d1\u8868\u5b66\u672f\u8bba\u658740\u4f59\u7bc7\uff0c\u7533\u8bf7\u53d1\u660e\u4e13\u5229\u8fd120\u9879\uff0c\u5176\u4e2d7\u9879\u5df2\u6388\u6743\u3002\u66fe\u83b7\u5f97\u201c\u5317\u4eac\u5927\u5b66\u9752\u5e74\u6559\u5e08\u6559\u5b66\u57fa\u672c\u529f\u6bd4\u8d5b\u201d\u4e00\u7b49\u5956\uff0c\u201c\u6559\u5b66\u4fe1\u606f\u5316\u5148\u8fdb\u4e2a\u4eba\u201d\u3002<br><br>Jiaying Liu is an Associate Professor with the Institute of Computer Science and Technology, Peking University. She received the Ph.D. degree with the Best Graduate Honor in computer science from Peking University in 2010. She was a Visiting Scholar with the University of Southern California, Los Angeles, from 2007 to 2008. Her current research interests include image processing, sparse signal representation, and video compression. Dr. Liu has published 40+ research papers, and filed 20+ patents with 7 granted.&nbsp;",
+            "department": "\u8ba1\u7b97\u673a\u79d1\u5b66\u6280\u672f\u7814\u7a76\u6240 Institute of Computer Science & Technology",
+            "fullName": "",
+            "id": "4914899",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/8e/e738e0817d11e3b3ba197ace7ec4cd/ljy.jpg",
+            "title": "\u526f\u6559\u6388 Associate Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2599998",
+            "title": ""
+        },
+        {
+            "bio": "Tom Morley is a professor in the&nbsp;<a href=\"http://www.math.gatech.edu/\" target=\"_blank\" title=\"Link: http://www.math.gatech.edu/\">School of Mathematics</a>. When he is not busy writing over 60 papers and two books on applied mathematics, electrical engineering, physics, operations research, and education, he can probably be found riding a bicycle as fast as he can. At other times, Morley can be found playing piano, bass, guitar, mandolin, mandola, octyave mandolin, or mandocello. Or playing games.<br>",
+            "department": "School of Mathematics",
+            "fullName": "",
+            "id": "2468250",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7f/49c98daa0aed8b9d60d0c06813cd78/tommorleyphoto.png",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9679944",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1616994",
+            "title": ""
+        },
+        {
+            "bio": "<b>Guido Palazzo</b> is a professor of Business Ethics at the University of Lausanne. He studied business administration and has a PhD in philosophy from the University of Marburg in Germany. In his research, he is passionate about the dark side of the force and examines unethical decision making from various angles. He is mainly known for his studies in globalization, in particular on human rights violations in global value chains, but he also studies the reasons for unethical behaviour in organization and the impact of organized crime on business and society.<br><p></p><ul><li>Basu, K. & Palazzo, G. (2008). Corporate Social Responsibility: A process model of sensemaking. <i>Academy</i><i> of  Management</i><i> Review</i><b>,</b> 33 (1):122-136.<br></li><li>Scherer, A.G. & Palazzo, G. (2011). A new political role of business in a globalized world - a review and research agenda. <i>Journal of Management Studies</i><b>, </b>48 (4): 899-931.<br></li><li>Palazzo, G., Krings, F. & Hoffrage, U. (2012). <span>Ethical blindness. <i>Journal of Business Ethics</i>, 109: 323\u2013338</span><br></li></ul><p></p>",
+            "department": "Faculty of Business and Economics (HEC-Lausanne)",
+            "fullName": "",
+            "id": "4582049",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e4/15a9b3e10881b6ca0b08ff4bdc23d8/palazzo_600_600.png",
+            "title": "Professor of Business Ethics"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2963620",
+            "title": ""
+        },
+        {
+            "bio": "Polk Wagner focuses his research and teaching in intellectual\nproperty law and policy, with a special interest in patent law. He has\nwritten over 20 articles (<a target=\"_blank\" href=\"http://ssrn.com/author=26248\">see them here</a>) on topics ranging from an empirical\nanalysis of judicial decision-making in the patent law to the First Amendment\nstatus of software programs. His work has appeared in the Stanford Law\nReview, Columbia Law Review, and the University of Pennsylvania Law Review,\namong several others and is the author (with Professor Craig Nard) of Patent\nLaw: Concepts and Insights (Foundation Press 2008). He is a frequent lecturer\non intellectual property topics worldwide. Prior to joining the Penn Law\nfaculty in 2000, Wagner served as a clerk to Judge Raymond C. Clevenger\nIII of the U.S. Court of Appeals for the Federal Circuit. He holds degrees\nfrom Stanford Law School, the University of Michigan, the College of Charleston,\nand was the 1994-95 Roger M. Jones Fellow at the London School of Economics.",
+            "department": "Law School",
+            "fullName": "",
+            "id": "1968775",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ae/201b4f5f33bc5b7059fb65980212c1/rpw_full_length_cropped_2-square.png",
+            "title": "Professor of Law"
+        },
+        {
+            "bio": "MSc., Eng. Imanol Zabaleta is and Agricultural and Environmental Engineer. He has a bachelor\u2019s degree in Agricultural Engineering from the Public University of Navarre, Spain, and Master\u2019s degree in Urban Environmental Management and Technology from the Wageningen University, Netherlands, where his thesis focused on nutrient and energy balances regarding organic waste management in a regional level. Since 2013, he works at Sandec as a project officer and researcher. He conducted field work on Solid Waste Management in Bolivia, Philippines and Tanzania in collaboration with local partners as well as participated in conferences and workshops in Indonesia, Colombia and Brazil. His current work focuses on organic waste treatment strategies. He also lectures at EPFL and ETHZ on \u201cSolid Waste Management in Developing Countries\u201d as well as supervises students conducting their internships and other study related projects.",
+            "department": "Sanitation, Water and Solid Waste for Development / Sandec",
+            "fullName": "Imanol Zabaleta",
+            "id": "7293234",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f3/cbb18062ba11e598803b480ebe66f1/portrait-Imanol2.jpg",
+            "title": ""
+        },
+        {
+            "bio": "Brendan May, VP Strategy for SnapShot GmbH is responsible for strategic planning and key functions such as Market Research and Planning as well as Partnerships.  \n\nHis role is to reduce friction for SnapShot\u2019s clients and partners alike while cultivating the growing hotel data economy.  \n\nPrior to joining SnapShot, Brendan helped hotel solve difficult challenges in Revenue Management for 6 years with IDeaS \u2013 A SAS Company.  \n\nBrendan gained operational experience with various hotels in Europe and North America including both chains and independent properties, such as the prestigious Hotel im Wasserturm in Cologne and Hilton Hotels. \n",
+            "department": "SnapShot",
+            "fullName": "Brendan May",
+            "id": "16190443",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/62/a4ada08c5011e5a492a9ec468a6ea2/Brendan.jpg",
+            "title": "VP Strategy"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3846968",
+            "title": ""
+        },
+        {
+            "bio": "<p><span>Cindy\nCarbajal, M.S. Instructional Design and Technology, is the Manager of Blended\nProgram Implementation for Connections Learning and works with the teachers of\nthe Nexus Academy schools.&nbsp; She was a\nvirtual teacher at Capistrano Connections Academy for 8 years, instrumental in\ndeveloping a program for synchronous online lessons for all elementary\nstudents, and training teachers in online learning best practices.&nbsp; Cindy has taken online courses from Cal State\nSan Marcos, Cal State Fullerton, Boise State University, National University,\nUCI Extension, and Coursera.&nbsp; She has\nalso taught online for University of Phoenix and has been a presenter in person\nand online for iNACOL, CUE, NAGC, ASCD, and ESS by CUE and CLRN.</span></p>",
+            "department": "UC Irvine Extension ",
+            "fullName": "",
+            "id": "2333330",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4b/cd28427b8fd6a34dcd882715228cab/Cindy.jpg",
+            "title": "Instructor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4069217",
+            "title": ""
+        },
+        {
+            "bio": "Jeffrey Pomerantz is an independent consultant and evaluator with over \n15 years' experience working with information organizations of all \nkinds. He is the author of the book <a \nhref=\"https://mitpress.mit.edu/books/metadata-0\" \ntarget=\"_blank\">Metadata</a>, from the MIT Press. Pomerantz is an \nAssociate Editor of the <a \nhref=\"http://oad.simmons.edu/oadwiki/Main_Page\" target=\"_blank\">Open \nAccess Directory</a>, and is active in the OA movement. He received his \nPhD in Information Science from Syracuse University, and his Masters in \nLibrary & Information Science from Simmons College. Pomerantz was an Associate Professor in the School of Information and Library Science at the University of North Carolina at Chapel Hill during the development and initial offering of this course.",
+            "department": "School of  Information and Library Science",
+            "fullName": "Dr. Jeffrey Pomerantz",
+            "id": "2690251",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/27/9a16f08e1711e5a550295aa070bb4d/Pomerantz1.jpg",
+            "title": "Information Scientist "
+        },
+        {
+            "bio": "Catherine Gao has an advanced degree in music awesomeness.",
+            "department": "Music History",
+            "fullName": "",
+            "id": "651377",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/6f/a27180e3ea04c50fbd9c12bd335c8e/IMG_1385.JPG",
+            "title": "Professor Emeritus"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "7399960",
+            "title": ""
+        },
+        {
+            "bio": "<b>Ulrich Hoffrage</b> is a professor of Decision Theory at the University of Lausanne. He studied psychology in Konstanz (Germany), and obtained his PhD from the University of Salzburg (Austria). His research focuses, among other things, on simple heuristics as models of bounded rationality, in particular in the social world. Moreover, he conducted research on cognitive illusions, risk communication, and consumer decision making. He is fascinated by the complex interplay between the co-evolution of individuals and their environments. <br><p></p><ul><li>Hertwig, R., Hoffrage, U., &amp; the ABC Research Group (2013). <i>Simple Heuristics in a Social World.</i><i> </i>Oxford University Press.<br></li><li><span>\n  <span>\n    Gonin\n M., Palazzo G. &amp; Hoffrage U. (2012). Neither Bad Apple nor Bad \nBarrel: How the Societal Context Impacts Unethical Behavior in \nOrganizations. <i>Business Ethics: A European Review</i>, <i>21</i>(1), 31-46.</span></span></li><li>Hoffrage, U., Lindsey, S., Hertwig, R., &amp; Gigerenzer, G. (2000). <span>Communicating statistical information. <i>Science, 290, </i>2261\u20132262. doi: 10.1126/science.290.5500.2261.</span><br></li></ul><br>",
+            "department": "Faculty of Business and Economics (HEC-Lausanne)",
+            "fullName": "",
+            "id": "5175119",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5b/b5c260411311e4b76b7d986f2c7bd1/UlrichHoffrage_-Photo-P-M-Delessert-_-DSC_2034_7087---600-600.JPG",
+            "title": "Professor of Decision Theory "
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1572040",
+            "title": ""
+        },
+        {
+            "bio": "<div>Arun Micheelsen conducted his food sociological PhD-study at the OPUS Research Centre (2009-2013). His research has centred on whether and how Danish consumers and intervention participants would accept and appropriate the New Nordic Diet<br></div><div><br></div>",
+            "department": "Former post-doc at Department of Food and Resource Economics",
+            "fullName": "",
+            "id": "5195993",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7e/ec38180ac09b28c0a98c005b2fb66e/Arun-Micheelsen.png",
+            "title": "PhD in sociology of Food "
+        },
+        {
+            "bio": "Larry Rosenstock, J.D., M.Ed, L.H.D, is Dean of the HTH GSE as well as a core faculty member. He is also CEO and founding principal of High Tech High, a network of twelve K-12 public charter schools in California. Larry taught carpentry in urban high schools in Boston and Cambridge and was principal of the Rindge School of Technical Arts, and of the Cambridge Rindge and Latin School. A member of the Massachusetts and U.S. Supreme Court Bars, he served as an attorney at the Harvard Center for Law and Education, and served as lecturer at the Harvard Graduate School of Education and Visiting Professor at UC Berkeley School of Education. He directed the federal New Urban High School Project, and was president of the Price Charitable Fund. He is a winner of the Ford Foundation Innovations in State and Local Government Award, an Ashoka Fellow, and recipient of the McGraw Prize in Education.",
+            "department": "High Tech High",
+            "fullName": "",
+            "id": "11809205",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/dc/657d00c8d711e48be3f19d5ff67d5e/Larry.png",
+            "title": "Chief Executive Officer"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5292723",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "Department of Criminal Justice",
+            "fullName": "Michael Bachmann",
+            "id": "15944402",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "8654880",
+            "title": ""
+        },
+        {
+            "bio": "Emma Jakoi is an Associate Research Professor in the Department of Cell Biology at Duke University. She has a Ph.D. in Physiology from Duke University. She has been teaching cell biology and cell/systems physiology to graduate students and medical students at Duke University Medical Center and others for more than 20 years and is the co-author of Physiology: Review for the National Boards. Dr. Jakoi has received several teaching awards including Golden Apples and Master Clinician/Teacher Award from Duke University Medical School. She is currently the course director and course coordinator of the Duke medical school course, Normal Body, and the course director of two graduate courses, Human Structure and Function and Introductory Physiology. ",
+            "department": "Department of Cell Biology",
+            "fullName": "",
+            "id": "920567",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e2/b8e2f1618cb0b3e16ab53edbc03fa8/Emma-Jakoi.jpeg",
+            "title": "Associate Research Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "7402100",
+            "title": ""
+        },
+        {
+            "bio": "Google\nIntuit\nCoursera\nColibri Learning\nApigee\nRocket Lawyer\nUpstartle (Writely",
+            "department": "Content Experience & Teaching",
+            "fullName": "Jennifer Mazzon",
+            "id": "16018263",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a4/519c50831211e5bd7435bcb9836468/jen-smiling.jpg",
+            "title": "Director of Product Management"
+        },
+        {
+            "bio": "<p><a href=\"http://www.mssm.edu/profiles/avi-maayan\" target=\"_blank\">Avi Ma\u2019ayan PhD</a>&nbsp;is a Professor at the&nbsp;<a href=\"http://www.mssm.edu/\" target=\"_blank\">Icahn School of Medicine at Mount Sinai</a>&nbsp;in the&nbsp;<a href=\"http://www.mssm.edu/departments-and-institutes/pharmacology-and-systems-therapeutics\" target=\"_blank\" title=\"Link: http://www.mssm.edu/departments-and-institutes/pharmacology-and-systems-therapeutics\">Department of Pharmacology and Systems Therapeutics</a>. Dr. Ma\u2019ayan is also a Principal Investigator of the <a href=\"http://lincs-dcic.org/#/\" target=\"_blank\" title=\"Link: http://lincs-dcic.org/#/\">BD2K-LINCS Data Coordination and Integration Center (DCIC)</a>, and a Principal Investigator of&nbsp;the Knowledge Management Center (KMC) for the Illuminating the Druggable Genome (IDG) project. Dr. Ma'ayan's research interests are in applying graph theory algorithms, machine learning, dynamical modeling, and visualization methods for integrating -omics datasets collected from mammalian sources to better understand biological regulation at a global scale.</p><p><span>For more information, please visit the Ma\u2019ayan Laboratory website:&nbsp;<a href=\"http://www.mssm.edu/labs/maayan\" target=\"_blank\">http://www.mssm.edu/labs/maayan</a></span>.<br></p>",
+            "department": "Department of Pharmacology and Systems Therapeutics, BD2K-LINCS Data Coordination and Integration Center",
+            "fullName": "Avi Ma\u2019ayan, PhD",
+            "id": "1305172",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/8c/f2399a303ff23cba6015aa591bf044/maayan_photo.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "Lisa Mazzola has been working in the field of Museum Educator for over\n17 years. In her current role as the Assistant Director of School and Teacher\nPrograms she develops programs, resources (<span>analog and digital)&nbsp;</span>for K- 12 teachers and students\nthat relate to MoMA's collections and museum based teaching practice. &nbsp;Current digital projects include the award winning <a href=\"http://www.moma.org/learn/moma_learning\" target=\"_blank\">MoMA Learning</a>&nbsp;site and the series <a href=\"http://www.youtube.com/watch?v=ZSc7V9otjaE\" target=\"_blank\">Art Hangs with MoMA Learning</a>. &nbsp;In\naddition to her role in School and Teacher Programs, she has taught in\nan adjunct capacity for NYU and Columbia Teacher\u2019s College in their Arts\nAdministration and Arts Education masters programs. Prior to her work at\nMoMA, Lisa coordinated gallery education and special projects at the Cooper-Hewitt\nNational Design Museum, Smithsonian Institution in New York City and the\nU.S. Holocaust Memorial Museum in Washington, D.C.. Lisa received\na B.A. from the State University of New York, College at Oswego, where\nshe majored in Art History and minored in Museum Studies and an M.A. in\nLiberal Studies/Urban Education from the CUNY Graduate Center in New York\nCity.",
+            "department": "Department of Education",
+            "fullName": "",
+            "id": "3219339",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/6b8aebfee8aa2728d59254bf9eaa25/IMG_3506.jpg",
+            "title": "Assistant Director, School and Teacher Programs"
+        },
+        {
+            "bio": "Dr. Kinzler is Senior Director of Science Education, and Co-Director of the MAT program at the American Museum of Natural History. Before joining the Museum\u2019s Education Division, Dr. Kinzler\u2019s research career involved investigating planetary differentiation through melting at Columbia\u2019s Lamont Doherty Earth Observatory and in the Museum\u2019s Earth and Planetary Sciences Department. In 1999, Dr. Kinzler co-curated the Museum's Gottesman Hall of Planet Earth, and then joined the Museum\u2019s National Center for Science Literacy, Education and Technology. With a mission to take the Museum\u2019s unparalleled resources beyond its walls, the National Center creates a full spectrum of science education products that integrate authentic science with standards-based curriculum design and innovative use of technology. In 2010 Dr. Kinzler assumed senior management of the Gottesman Center for Science Teaching and Learning.",
+            "department": "Science Education",
+            "fullName": "",
+            "id": "3298066",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e7/65f646247bb20f20a687315a4c8595/bio_kinzler.jpg",
+            "title": "Senior Director"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Jason Denison",
+            "id": "13780941",
+            "title": ""
+        },
+        {
+            "bio": "Julian Fleet has experience and training in both public health and in law. He currently serves as Director of the Department of Human Resources Management in the Joint United Nations Programme on HIV/AIDS (UNAIDS).<br><br>Julian began his career in community-based health planning in Boston, USA, and then served for three years as Health Planning and Management Adviser in the Ministry of Health, Government of Swaziland through an international NGO, International Human Assistance Programs, Inc. <br><br>After practicing law as an attorney in the litigation department of the Boston firm of Palmer &amp; Dodge, in 1989 Mr. Fleet joined the Office of the UN High Commissioner for Refugees (UNHCR) where he held various field and headquarters posts including staff assistant in the Executive Office of the High Commissioner; Deputy Representative and head of the legal section, Washington, D.C.; Legal Officer, Es Showak, Sudan; and emergency team officer, Kisangani, Democratic Republic of the Congo.<br><br>In 1998, Mr Fleet joined UNAIDS where he has served as Senior Adviser for Human Rights, Law and Ethics; Senior Policy Adviser and Chief (a.i.), Office of the Executive Director; Senior Adviser, Care and Public Policy; and Team Leader, Universal Access.&nbsp; <br><br>While on secondment from UNAIDS, Julian worked with the United Nations Development Programme (UNDP) as Chief, HIV/AIDS Liaison Unit and Global Coordinator (a.i.) in the HIV/AIDS Group, Bureau for Development Policy. From February 2008 to August 2010, Julian served as Deputy Executive Director and Chief Operating Officer of Roll Back Malaria, a public-private partnership hosted by the World Health Organization in Geneva.<br><br>Since returning to UNAIDS in August 2010, Julian has served as Director, Department of Organizational Development and played a leading role in two major change management initiatives. He has served in his current position as Director, Human Resources Management, since April 2012.<br><br>Julian was awarded the degrees of Juris Doctor, Northeastern University Law School; Master of Science in Public Health, University of Massachusetts; and Bachelor of Arts, The Johns Hopkins University. <br>",
+            "department": "International Organizations MBA",
+            "fullName": "",
+            "id": "4326838",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/61/d3c96c1f80866190844e15abab878c/Fleet_Julian.jpg",
+            "title": "Visiting professor"
+        },
+        {
+            "bio": "\u041a\u0438\u0440\u0438\u044f \u0418\u043b\u044c\u044f \u0412\u0430\u0434\u0438\u043c\u043e\u0432\u0438\u0447\n\u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442 \u0436\u0443\u0440\u043d\u0430\u043b\u0438\u0441\u0442\u0438\u043a\u0438 \u041c\u0413\u0423 \u0438\u043c. \u041c.\u0412. \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0430 \u0438 \u0430\u0441\u043f\u0438\u0440\u0430\u043d\u0442\u0443\u0440\u0443 \u044d\u0442\u043e\u0433\u043e \u0436\u0435\n\u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0443 \u0413\u0440\u0435\u043d\u043e\u0431\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 (\u0424\u0440\u0430\u043d\u0446\u0438\u044f) \u0432 \u0441\u0444\u0435\u0440\u0435\n\u043d\u0430\u0443\u043a \u043e\u0431 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u0438. \u0417\u0430\u0449\u0438\u0442\u0438\u043b \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442\u0441\u043a\u0443\u044e \u0434\u0438\u0441\u0441\u0435\u0440\u0442\u0430\u0446\u0438\u044e \u043d\u0430 \u0442\u0435\u043c\u0443 \u00ab\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0435\n\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438\u00bb, \u0430 \u043f\u043e\u0437\u0434\u043d\u0435\u0435 \u043f\u0440\u043e\u0448\u0435\u043b \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0432 \u0434\u043e\u043a\u0442\u043e\u0440\u0430\u043d\u0442\u0443\u0440\u0435 \u0413\u0440\u0435\u043d\u043e\u0431\u043b\u044c\u0441\u043a\u043e\u0433\u043e\n\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0438 \u0437\u0430\u0449\u0438\u0442\u0438\u043b \u0434\u043e\u043a\u0442\u043e\u0440\u0441\u043a\u0443\u044e \u0434\u0438\u0441\u0441\u0435\u0440\u0442\u0430\u0446\u0438\u044e \u043d\u0430 \u0442\u0435\u043c\u0443 \u00ab\u041f\u043e\u0441\u0442\u043e\u044f\u043d\u0441\u0442\u0432\u043e \u043d\u0435\u0440\u044b\u043d\u043e\u0447\u043d\u044b\u0445\n\u0444\u0430\u043a\u0442\u043e\u0440\u043e\u0432 \u0432 \u043c\u0435\u0434\u0438\u0430\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0435 \u0420\u043e\u0441\u0441\u0438\u0438\u00bb. \u0421 2003 \u0433\u043e\u0434\u0430 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u043b \u0432 \u041c\u0413\u0423, \u0441 2007 \u2013 \u0432\n\u0412\u044b\u0441\u0448\u0435\u0439 \u0448\u043a\u043e\u043b\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438. \u041a\u043b\u044e\u0447\u0435\u0432\u043e\u0439 \u0441\u0444\u0435\u0440\u043e\u0439 \u0435\u0433\u043e \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432 \u0431\u044b\u043b\u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435\n\u043c\u0435\u0434\u0438\u0430\u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u043e\u0432 \u0441 \u0441\u043e\u0446\u0438\u0443\u043c\u043e\u043c \u0438 \u0440\u043e\u043b\u044c \u043c\u0435\u0434\u0438\u0430 \u0432 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f\u0445. \u041e\u0434\u0438\u043d \u0438\u0437\n\u0430\u0432\u0442\u043e\u0440\u043e\u0432 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 \u00ab\u041c\u0435\u0434\u0438\u0430\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u0438\u00bb. \u041a\u0443\u0440\u0441\u044b \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0442\u0435\u043e\u0440\u0438\u0438\n\u043c\u0435\u0434\u0438\u0430 (\u0438\u043b\u0438 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0430\u0441\u043f\u0435\u043a\u0442\u043e\u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f\n\u043c\u0435\u0434\u0438\u0430\u0441\u0438\u0441\u0442\u0435\u043c) \u0447\u0438\u0442\u0430\u0435\u0442 \u0441 2004 \u0433\u043e\u0434\u0430. \u0410\u0432\u0442\u043e\u0440 \u043c\u043e\u043d\u043e\u0433\u0440\u0430\u0444\u0438\u0439 \u0438 \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0441\u0442\u0430\u0442\u0435\u0439 \u043d\u0430\n\u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u043c, \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c, \u0438\u0441\u043f\u0430\u043d\u0441\u043a\u043e\u043c \u0438 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0430\u0445.&nbsp; &nbsp;&nbsp;<br>",
+            "department": "Department of Media",
+            "fullName": "",
+            "id": "9613508",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/9f/3b15205ab411e4a140ad65f697d22c/IMG_02611.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5911461",
+            "title": ""
+        },
+        {
+            "bio": "Antoine Geissbuhler is a Professor of Medicine, Chairman of the Department\nof Radiology and Medical Informatics at Geneva University, Director of\nthe Division of eHealth and Telemedicine at Geneva University Hospitals.\nHe is also President of the executive committee of the Health-On-the-Net\nFoundation, and President of the International Medical Informatics Association.\n<br>\n<br>He trained as a physician at Geneva University where he specialized in\ninternal medicine, then, after a post-doctoral fellowship, became Associate\nProfessor of biomedical informatics at Vanderbilt University. In 1999,\nhe returned to Geneva to take the responsibility of medical information\nsystems at Geneva University Hospitals. In 2005, his efforts in developing\ntelemedicine and tele-education are recognized by the creation of the UNESCO\nchair for telemedicine and multidisciplinary teaching, and, in 2010, of\nthe World Health Organization collaborating center for eHealth and telemedicine.\n<br>\n<br>Author of more than 120 original scientific publications, his current\nresearch focuses on the development of innovative, knowledge-enabled information\nsystems and computer-based tools for improving the quality, safety and\nefficiency of care processes, at the local level of the hospital, the regional\nlevel of a community healthcare informatics network, the implementation\nof the national eHealth strategy for Switzerland, at the global level with\nthe Health-On-the-Net Foundation (<a target=\"_blank\" href=\"http://www.hon.ch\">http://www.hon.ch</a>)\nand with the development of a large telemedicine network in developing\ncountries (<a target=\"_blank\" href=\"http://raft.hcuge.ch\">http://raft.hcuge.ch</a>).\nHe is also leading an effort by Geneva University Hospitals to develop\na world-class medical tele-expertise network.\n<br>",
+            "department": "Department of Radiology and Medical Informatics",
+            "fullName": "",
+            "id": "2511245",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/5b9ea3e04c6e409cffd35af2d8dd99/Geissbuler.jpg",
+            "title": "Professor of Medicine"
+        },
+        {
+            "bio": "<b>Michael Gold, Ph.D.,</b>&nbsp;is an Associate Professor Emeritus, Graduate\nSchool of Public and International Affairs, University of Pittsburgh. He\nis an expert in designing and implementing technology to aid communications.\n<br>\n<br>Professors Swigart and Gold have traveled throughout Asia and Africa learning\nabout the cultures and health care in those areas of the world. In their\nclassrooms and interactions they have seen international students struggle\nto adapt to the American English language and the specific medical terminology\nthat those in the health care field must understand \u2014 especially under\nstressful conditions. They provide this course to help international students\ncoming to the U.S. to be more comfortable, learn more efficiently, practice\nmore safely, and start to communicate more effectively with American medical\npersonnel.&nbsp;&nbsp;\n<br>",
+            "department": "Graduate School of Public and International Affairs",
+            "fullName": "",
+            "id": "1600503",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/71/6de23e1cf5d3944c5bcbfd2a7fc2e7/Michael-Gold_sm.jpg",
+            "title": "Associate Professor Emeritus"
+        },
+        {
+            "bio": "<p>\n\n<span><span><strong>Larry Barkley</strong> has been teaching for nearly 35 years at\nboth public and private colleges and universities. For the last 24 years he has\ntaught various levels of English at MSJC. His publications have appeared in <i>Fine\nGardening, The Carousel News &amp; Trader, Gissing Newsletter, Chaucer Review,\ninside english, </i>and<i> TETYC</i>. He has presented at the League for\nInnovation in Community Colleges\u2019 Conference on Information Technology, the\nECCTYC Statewide Conference, NISOD, </span>International Wizard of Oz Club\nConference, <span>and Cengage Learning\u2019s\nTeamUP Developmental Education Conference. He co-authored, with Rise Axelrod\nand Charles Cooper, the 4th and 5th editions of <i>Sticks and Stones and Other\nStudent Essays</i>. His newest book, co-authored with Christine Sandoval, <i>Grammar\nand Usage, Naturally</i>, from Cengage Publishing, was released December\n2013.</span></span><br></p>",
+            "department": "",
+            "fullName": "",
+            "id": "2653254",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ce/0824d7d9ee275e390818cb7caae53c/larry.jpg",
+            "title": "Professor of English"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9054970",
+            "title": ""
+        },
+        {
+            "bio": "\u80e1\u65b9\u6674",
+            "department": "Center of Educational Technology",
+            "fullName": "",
+            "id": "5145569",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/06/dae930496211e48c1d7ba32481dc58/photo.jpg",
+            "title": "Engineer"
+        },
+        {
+            "bio": "<p>\n\n</p><p><span>Hans Henrik Lidgard is\nsince 1997 a professor of Private Law at the Lund University and a HC professor\nat HCMC Law University, Vietnam. He has been a practicing attorney (1972-1984) in\nAdvokatfirman Vinge and been responsible for EU affairs within Pharmacia AB\n(1985-1997). His legal writings focuses on innovation market related problems\nin the intersection between antitrust and IPR. HHL teaches law on an advanced\nlevel and has been responsible for the Master of European Affairs program. In\naddition, HHL serves as an arbitrator in international arbitration proceedings\nand is also the founder and chair of Magle\n AB and a board member in several\nhigh tech companies.</span></p><p>\nFurthermore, he has extensive teaching experience in the\nfields of <span>EU Law, International Law, Contract law,\nMarketing law (including competition law and IPR) on master level and supervising Swedish and foreign PhD and Masters\nstudents.</span></p><p>\n\n</p><p>He is a member m<span>ember of the\nSwedish Competition Council 2003-2011 and the Swedish Network of European\nStudies and a member of the editing board of Europar\u00e4ttslig Tidskrift (ERT).\nSince 2001 Teacher in the SIDA sponsored program \u201cEmpowering Legal Education in\nVietnam\u201d coordinated by the Lund University Law Faculty.</span></p><p></p><p></p><span><p>\n\n</p><p><span><span><strong>Primary publications: </strong><i>Sverige-EEC och Konkurrensen</i>, Dissertation, 240 p., Juridiska\nF\u00f6reningen Lund (1977); &nbsp;</span><i>A survey of Commercial Agency</i><span>, (Ed. with Rohwer, C.D. and Campbell, D.), Kluwer 718 p., (1984); &nbsp;</span><i>Licensavtal i EU</i><span>, Kommentar till kommissionens f\u00f6rordning 240/96\nom till\u00e4mpning av Romf\u00f6rdragets artikel 85.3 p\u00e5 vissa grupper om avtal om\nteknik\u00f6verf\u00f6ring, 479 p., Publica (1997); &nbsp;</span><i>EU Competition Classics</i>, 450 p., (2001) (under revision Magle Publishing, 2015.)<span>;&nbsp; </span><i>Parallellhandel,</i><span> konsumtion av immaterialr\u00e4tt i Europa och\nUSA, 405 p., Norstedts (2004), &nbsp;</span><i>Protecting and Transferring\nBiotech Inventions</i><span>, (Ed.), 308 p., Studentlitteratur,\n(2004); &nbsp;<i>National Developments in the Intersection of IPR and Competition Law,</i>\nFrom Maglite to Pirate Bay,</span></span><span>\n(Ed.) Hart Publishing 2011;&nbsp; </span><i>Sustainable Technology\nTransfer</i><i> </i>(ed. with Atik, J &amp; Nguyen\nThanh Tu) </p><span><p>Kluwer 2012)<span>,\n&nbsp;<i>Licensing\nin an International Context</i> (with Jeff Atik), (Magle Publishing 2015)</span>. A</p><span><p>rticles\nregarding primarily competition and intellectual property rights in Swedish and\nforeign law journals. (<a title=\"Link: http://papers.ssrn.com/sol3/results.cfm\" href=\"http://papers.ssrn.com/sol3/results.cfm\">http://papers.ssrn.com/sol3/results.cfm</a>, <a title=\"Link: http://www.jur.lu.se/#!jur-hli\" href=\"http://www.jur.lu.se/#!jur-hli\">http://www.jur.lu.se/#!jur-hli</a>)</p><p>\n\n</p></span><p></p></span><p></p></span>",
+            "department": "Faculty of Law",
+            "fullName": "Hans Henrik Lidgard",
+            "id": "10552253",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/44/bdaf50846611e49eeebf5b875b15d6/Hans_Henrik_Lidgard_Coursera.jpg",
+            "title": "Senior Professor "
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5082677",
+            "title": ""
+        },
+        {
+            "bio": "Judy Halbert and Linda Kaser are co-directors of the Centre for Innovative Educational Leadership at Vancouver Island University in British Columbia, Canada where they teach in the graduate program. They are the co-leaders of Networks of Inquiry and Innovation and the Aboriginal Enhancement Schools Network&nbsp;in British Columbia and serve as the Canadian representatives to the OECD international research program on Innovative Learning Environments. Linda and Judy have served as teachers, principals, district leaders and senior policy advisors to the Ministry of Education. In 2005 they each received a Distinguished Service Award from the BC School Superintendents\u2019 Association for outstanding contributions to public education.&nbsp;They are the authors of&nbsp;<i>Spirals of Inquiry</i>&nbsp;(2013),&nbsp;<i>Leadership Mindsets: Innovation and Learning in the Transformation of Schools</i>&nbsp;(2009), and&nbsp;<i>Leading Professional Inquiry</i>&nbsp;with Helen Timperley (in press, 2014). They have worked intensively with school leadership groups in Canada, Wales, England and Australia and are active members of the International Congress of School Effectiveness and Improvement.",
+            "department": "Vancouver Island University, British Columbia, Canada",
+            "fullName": "",
+            "id": "6262539",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/3e/8b8260875f11e38eb04502a7e4202b/Linda-Kaser.jpeg",
+            "title": "Co-director of the Centre for Innovative Educational Leadership"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5953353",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2258152",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2072858",
+            "title": ""
+        },
+        {
+            "bio": "Leah Hackman works on machine learning and artificial intelligence as a PhD student in <a href=\"https://www.cs.ualberta.ca/\" target=\"_blank\">computing science</a> at the <a target=\"_blank\" title=\"null\" href=\"ualberta.ca\">University of Alberta</a>. Along with her studies, Leah also helps to teach Cmput 274 and 275, the Tangible Computing introductory classes in the department. She helps out with the board-game design course that is part of the <a href=\"https://www.cs.ualberta.ca/prospective-students/undergraduate-studies/certificates\" target=\"_blank\">video game certificate</a> program. She is also dedicated to mentoring women in computing science.",
+            "department": "Computing Science",
+            "fullName": "",
+            "id": "8579630",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/92/20f4a0111b11e4b2981524a334639b/leahhackmanbiopic.jpg",
+            "title": ""
+        },
+        {
+            "bio": "n/a",
+            "department": "MELS",
+            "fullName": "",
+            "id": "4867988",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4018094",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4654027",
+            "title": ""
+        },
+        {
+            "bio": "Tim Roughgarden is an Associate Professor of Computer Science and (by courtesy) Management Science and Engineering at Stanford University, where he holds the Chambers Faculty Scholar development chair. At Stanford, he has taught the Design and Analysis of Algorithms course for the past eight years. His research concerns the theory and applications of algorithms, especially for networks, auctions and other game-theoretic applications, and data privacy. For his research, he has been awarded the ACM Grace Murray Hopper Award, the Presidential Early Career Award for Scientists and Engineers (PECASE), the Shapley Lecturership of the Game Theory Society, a Sloan Fellowship, INFORM's Optimization Prize for Young Researchers, and the Mathematical Programming Society's Tucker Prize.<br/>",
+            "department": "Computer Science",
+            "fullName": "",
+            "id": "768",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/39/5f06ad710dbaa7be59c8272d8902bd/landing_roughgarden.png",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "<p>Patrick Le Gal\u00e8s, is CNRS Research Professor of Sociology and Politics, at Sciences Po Paris, Centre d\u2019\u00e9tudes europ\u00e9ennes and founding Dean of Sciences Po Urban School.&nbsp; He also co chairs the \u201cCities are back in town\u201d research group. He is a corresponding Fellow of the British Academy, a former editor of the <i>International Journal of Urban and regional Research</i>, a past president of SASE (Society for Advanced Socio economics), a trustee of the <i>Foundation for Urban and Regional Research</i>.&nbsp; He was educated at Sciences Po Paris, Nuffield College Oxford (M.litt.) and the University of Paris X Nanterre. He was a visiting professor or researcher in particular at King\u2019s College London, UCLA, Nuffield College Oxford, the Max Planck Institute for the Study of Society in Cologne, the Universities of Milan Bicocca, Venise, &nbsp;the University of Sao Paolo (Centre for Metropolian Studies), &nbsp;the Collejio of Mexico, Ashoka University in Delhi, Northwestern.</p><p>His research deals, with 1) Comparative Public policy, &nbsp;policy instruments and the &nbsp;political sociology of the state ; 2) Comparison of&nbsp; large&nbsp; global metropolis and European cities (middle classes, governance, urban conflicts, mobility, economic development, inequalities) 3) Economic sociology/political economy \u2013 the making of a market society and the sociology of Europe with a special interest for the UK. He currently develops a project comparing modes of governance and urban development in Paris, London, Sao Paolo, Mexico. With Desmond King he works with a group on the reconfiguration of European states.</p><p>\n\n\n</p><p>He published or edited <i>Regions in Europe the paradox of power (</i>ed.with C.Lequesne, Routledge, 1997), <i>Politiques urbaines et d\u00e9veloppement local en France et UK</i> (L\u2019Harmattan, 1993) ; &nbsp;<i>Les r\u00e9seaux de l'action publique</i> (ed.with M.Thatcher, Paris, L\u2019Harmattan 1995) &nbsp;; <i>Cities in contemporary Europe </i>(ed. with A.Bagnasco), CUP 2000, ; <i>Local industrial systems in Europe, rise or demise ?</i> (with C.Crouch and al., OUP, 2002) ; <i>The changing governance of local economies in Europe</i> (with C.Crouch and al.. OUP, 2004) ; <i>European Cities, social conflicts and governance</i> (OUP, 2002), &nbsp;<i>Developments in French Politics 3 and 4</i> (eds with J.Levy and A.Cole, Palgrave, 2005, 2008) ; <i>Gouverner par les instruments</i> (with P.Lascoumes Presses de Sciences Po 2004) ; <i>Sociologie de l\u2019action publique </i>(with P.Lascoumes Colin, 2008, second edition 2012 , T<i>he New Labour experiment</i> (with Florence Faucher King, Standford University Press 2010); <i>L\u2019instrumentation de l\u2019action publique</i> (with C.Halpern, P.Lascoumes), Presses de Sciences Po 2014? Forthcoming in English).&nbsp;&nbsp; <i>Globalising minds, roots in the cities, upper middle classes in EUrope?</i>(with Alberta &nbsp;Andreotti and Javier Moreno Fuentes)&nbsp; Wiley/ Blackwell 2015. He is currently working on two edited books about what is governed and not governed in Mexico and in Paris.</p><p>Masters in Urban Affairs at Sciences Po :&nbsp;<a href=\"http://www.sciencespo.fr/affaires-urbaines/en/content/home\" title=\"Link: http://www.sciencespo.fr/affaires-urbaines/en/content/home\">http://www.sciencespo.fr/affaires-urbaines/en/content/home</a></p><p><br></p>",
+            "department": "Centre d'\u00e9tudes europ\u00e9ennes",
+            "fullName": "",
+            "id": "10385423",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/76/18bb40756011e4a6ed718c26049668/ID-LeGales.png",
+            "title": ""
+        },
+        {
+            "bio": "Eduardo Guerra atua profissionalmente como pesquisador no Instituto nacional de Pesquisas Espaciais (INPE) onde tamb\u00e9m faz parte do conselho do curso de p\u00f3s-gradua\u00e7\u00e3o em Computa\u00e7\u00e3o Aplicada. Desenvolve pesquisa na \u00e1rea de desenvolvimento de frameworks, design e arquitetura de software e metodologias \u00e1geis. Atuou como editor-chefe da revista MundoJ por muitos anos. Foi professor do Instituto Tecnol\u00f3gico de Aeron\u00e1utica (ITA) por 6 anos, onde tamb\u00e9m concluiu sua gradua\u00e7\u00e3o, mestrado e doutorado. Possui diversas certifica\u00e7\u00f5es da plataforma Java e experi\u00eancia como arquiteto de software. Participa de projetos open-source, como SwingBean, Esfinge e ClassMock e \u00e9 autor dos livros \"Design Patterns com Java - Projeto Orientado a Objetos Guiado por Padr\u00f5es\" e \"Componentes Reutiliz\u00e1veis em Java com Reflex\u00f5es e Anota\u00e7\u00f5es\". Ele acredita que um bom software se faz mais com criatividade do que com c\u00f3digo e vive em busca de melhores formas para seu desenvolvimento.",
+            "department": "",
+            "fullName": "Eduardo Guerra",
+            "id": "14963182",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d8/946c70c47d11e587f4abe69fa3e93d/eduardo-guerra.jpg",
+            "title": "Professor Colaborador"
+        },
+        {
+            "bio": "<p><span>Jeanette McCarthy, MPH, PhD is a Visiting Associate Professor\nof medicine at the University of California San Francisco, division of medical\ngenetics. She currently leads the effort to develop and implement a framework\nfor precision medicine education at UCSF, including courses and webinars for\npracticing health care providers.&nbsp; She trained as a genetic epidemiologist\nat UC Berkeley under geneticist Mary-Claire King, followed by a Fulbright\nfellowship studying HIV/AIDS in Barcelona, and has spent her career in both\nindustry and academia, most recently at Duke University.&nbsp; Her research on\nthe genetic underpinnings of infectious and chronic diseases has led to over 50\npublications in peer-reviewed journals.&nbsp; She recently co-authored a\ncomprehensive review on the field of genomic medicine, published in <i>Science\nTranslational Medicine</i>.&nbsp; Professor McCarthy is a passionate educator\nand has developed and taught courses in her field both nationally and\ninternationally, and received a Golden Apple Award for her teaching at San\nDiego State University. In addition to her work at UCSF, she is an Adjunct Associate\nProfessor at the Duke University Center for Personalized and Precision Medicine,\nEditor-in-Chief of a patient-centered magazine from Big Science Media, <i>Genome,</i>\naimed at educating and informing patients in the area of genomic medicine, and\na consultant in precision medicine education (<a href=\"http://precisionmedicineadvisors.com/\" target=\"_blank\">precisionmedicineadvisors.com</a>).</span></p>",
+            "department": "Division of Medical Genetics, UCSF School of Medicine",
+            "fullName": "",
+            "id": "5245839",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/66/4b7289e296ec7e2198cab78d500930/photo10sq.jpg",
+            "title": "Visiting Associate Professor"
+        },
+        {
+            "bio": "Lynn is the Senior Vice President of&nbsp;Program Innovations and&nbsp;Operations&nbsp;for the New Teacher Center (NTC), a national non-profit&nbsp;organization dedicated to improving student learning by accelerating the effectiveness of teachers and school leaders. She oversees development and delivery of online and in person professional development services for new teachers, mentors and administrators. She has served in a variety of roles at NTC including the Director on Online Professional Development, a founding developer of the e-Mentoring for Student Success program, and a professional development presenter. Prior to joining the NTC, Lynn was the Coordinator of the Credential Programs at UC Santa Cruz. She has a Doctorate in Education from UC Riverside with a research focus on teacher development and a Masters in Science Education from Cal State Fullerton. She taught high school science, courses in pre-service programs, and served as a district mentor teacher.",
+            "department": "Program Innovations and Operations",
+            "fullName": "",
+            "id": "611232",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5d/f7f5e599dd5d9eb02341b025ba9e53/LynnCoursera.jpg",
+            "title": "Senior Vice President"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "882723",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9187629",
+            "title": ""
+        },
+        {
+            "bio": "Katherine researches the design and control of robotic systems that enable a user to touch virtual objects and distant environments as though they were real and within reach. These haptic interfaces combine electromechanical sensors and actuators with high-speed computer control to fool the human sense of touch. By studying applications such as robot-assisted surgery, tablet computers, stroke rehabilitation, and personal robots, Katherine seeks to improve our understanding of haptic feedback and uncover new opportunities for its use in interactions between humans, computers, and machines.",
+            "department": "Penn Engineering",
+            "fullName": "",
+            "id": "14865386",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/33/11a6a0562d11e5b1a7532d203618da/KK.png",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "Rachel qualified from Bristol in 1988 and spent 15\nyears working in small animal practice, 11 of those running her own practice.\nAfter selling the practice she went on to work for VetFocus - a veterinary\nbusiness consultancy giving advice to practices on business management. She\njoined the R(D)SVS in March 2007 and is now a senior lecturer in professional\nskills. She works closely with final year and leads the professional skills\ncourse across the curriculum with a particular focus on improving the employability\nof our graduates by ensuring they are well prepared with all the skills the\nprofession needs.<br><br><br>",
+            "department": "Lecturer in Professional Skills",
+            "fullName": "",
+            "id": "5776490",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e0/4ca0b0778911e3ad02638fbe3439a4/Rachel-Whittington.jpg",
+            "title": "BVSC MRCVS"
+        },
+        {
+            "bio": "<span><span>Charles\nF. Kennel was educated in astronomy and astrophysics at Harvard and Princeton.\nHe joined the UCLA Department of Physics and eventually became the UCLA\nExecutive Vice Chancellor, its chief academic officer.&nbsp; From 1994 to 1996, Kennel was Associate Administrator\nat NASA in charge of <i>Mission to Planet\nEarth</i>, the world's largest Earth science program. He later became the ninth\nDirector of the Scripps Institution of Oceanography and Vice Chancellor of\nMarine Sciences at the University of California, San Diego, serving from 1998\nto 2006. Dr. Kennel was the founding director of the UCSD Environment and\nSustainability Initiative, and the 2007 C.P. Snow Lecturer at the University of\nCambridge. &nbsp;He presently co-directs a UCSD/Cambridge project on the sustainable\nmanagement of the historical city of Venice and its Lagoon.<br>\n&nbsp;<br>\nA member of the National Academy of Sciences, the American Academy of Arts and\nSciences, the American Philosophical Society, and the International Academy of\nAstronautics, Kennel has served on many national and international boards and\ncommittees, including the Pew Oceans Commission; he has chaired the National\nAcademy's Board on Physics and Astronomy, and committees on global change\nresearch and controlled fusion research. He presently chairs the Space Studies\nBoard of the US National Academy of Sciences, and is an <i>ex officio</i>&nbsp;member\nof the NASA Advisory Council.</span>&nbsp;</span>",
+            "department": "",
+            "fullName": "",
+            "id": "4183904",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fd/657ef6034ed1325d8ae7df727268fe/Kennel-photo-sq.jpg",
+            "title": ""
+        },
+        {
+            "bio": "Professor R L Widmann, currently a Reader and research scholar at the Folger Shakespeare library, Washington D.C., is a Shakespeare scholar and has taught online courses since 1993 at the University of Colorado Boulder.&nbsp; She is a passionate gardener, reads a whole LOT of mysteries, and enjoys knitting sweaters.&nbsp; She lives in Madison Wisconsin, Washington DC, and London, England.&nbsp; When in London, she goes to the English National Opera and various theatre productions.<br><br><br><br><br>",
+            "department": "Division of Continuing Studies",
+            "fullName": "",
+            "id": "9015891",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a4/ff3080e93a11e49a0967495144cfd0/IMG_0100.jpg",
+            "title": "Guest Instructor for University of Wisconsin-Madison"
+        },
+        {
+            "bio": "\u4e00\u76f4\u4ece\u4e8b\u8f6f\u4ef6\u5de5\u7a0b\u9886\u57df\u7684\u6559\u5b66\u548c\u79d1\u7814\u5de5\u4f5c\uff0c\u6307\u5bfc\u5b66\u751f\u591a\u6b21\u83b7\u5f97\u5168\u56fd\u6216\u56fd\u9645\u7ade\u8d5b\u5956\u52b1\uff0c\u5f00\u5c55\u521b\u65b0\u6027\u7684\u8bfe\u7a0b\u6559\u5b66\uff0c\u5e76\u4e0e\u534e\u4e3a\u3001\u5fae\u8f6f\u3001IBM\u7b49\u516c\u53f8\u5f00\u5c55\u79d1\u7814\u6559\u5b66\u5408\u4f5c\u9879\u76ee\u3002\u79d1\u7814\u5de5\u4f5c\u4e2d\u5c06\u57fa\u7840\u7814\u7a76\u4e0e\u9762\u5411\u4f01\u4e1a\u670d\u52a1\u76f8\u7ed3\u5408\u3002\u6559\u5b66\u8fc7\u7a0b\u4e2d\u575a\u6301\u591a\u79cd\u6559\u5b66\u6cd5\u7684\u7efc\u5408\u8fd0\u7528\uff0c\u5f00\u53d1\u5404\u79cd\u6559\u5b66\u6848\u4f8b\uff0c\u6ce8\u91cd\u8bfe\u7a0b\u7684\u5b9e\u7528\u6027\uff0c\u5411\u5b66\u751f\u4f20\u6388\u6700\u524d\u6cbf\u7684\u77e5\u8bc6\u548c\u6280\u672f\u3002 <p>2000.9-2004.3\u5317\u4eac\u5927\u5b66\u4fe1\u606f\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662 \u8ba1\u7b97\u673a\u8f6f\u4ef6\u4e0e\u7406\u8bba\u7406\u5b66\u535a\u58eb</p><li><p>2004.4-2006.4\u6e05\u534e\u5927\u5b66 \u4fe1\u606f\u6280\u672f\u7814\u7a76\u9662 \u8ba1\u7b97\u673a\u79d1\u5b66\u6280\u672f \u535a\u58eb\u540e</p></li><li><p>2006.5-\u5317\u4eac\u5927\u5b66\u8f6f\u4ef6\u4e0e\u5fae\u7535\u5b50\u5b66\u9662 \u4efb\u6559 \u4ece\u4e8b\u6559\u5b66\u79d1\u7814\u5de5\u4f5c</p></li><li><p>2010.11-2011.2\u4f5c\u4e3a\u8bbf\u95ee\u5b66\u8005\u5728\u5fae\u8f6f\u4e9a\u6d32\u7814\u7a76\u9662\u8fdb\u884cWeb\u4e09\u7ef4\u5bcc\u5ba2\u6237\u7aef\u6280\u672f\u53ca\u5b66\u672f\u641c\u7d22\u6280\u672f\u7684\u7814\u7a76\u4e0e\u5f00\u53d1</p></li>",
+            "department": "\u8f6f\u4ef6\u4e0e\u5fae\u7535\u5b50\u5b66\u9662",
+            "fullName": "",
+            "id": "6102094",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/08/b7a0e0805e11e3af279b48f4519db4/jyb.jpg",
+            "title": "\u526f\u6559\u6388"
+        },
+        {
+            "bio": "Brian M. Winn is an Associate Professor in the Department of Media and Information and Director of the Games for Entertainment and Learning (GEL) Lab at Michigan State University. Winn designs, creates, and researches interactive media, including game design, digital game-based learning and interactive health communication. Winn's expertise is in designing \u201cmeaningful games\u201d that combine play and serious objectives. Winn\u2019s award-winning interactive media work has been presented, exhibited, and experienced around the world. Winn is an accomplished teacher who became an Apple Distinguished Educator in 2001 and a Lilly Teaching Fellow in 2005. Winn is a co-founder and director of the undergraduate Game Design and Development program at Michigan State University, which is rated in the top game programs in North America by Princeton Review. Winn serves as a member of the Michigan Film Office Advisory Council and a faculty advisor of the MSU SpartaSoft game developers student group.",
+            "department": "Media and Information",
+            "fullName": "Brian Winn",
+            "id": "13538984",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c5/08ea10250811e5af5155f2c0303b37/winn-brian-headshot-462x462.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "6822588",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "A a",
+            "id": "645102",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "fullName": "Norma Gorham",
+            "id": "13626196"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2647927",
+            "title": ""
+        },
+        {
+            "bio": "Dani\u00ebl Jansma is a teacher of Anatomy and E-learning developer at the Leiden University Medical Center (LUMC). Together with his colleague Paul Gob\u00e9e he develops highly specialized computer programmes designed to facilitate teaching of both gross and microscopic anatomy. Examples of their in-house developed programme Clinical Anatomical Skills (CASK) can be found on the web portal www.caskanatomy.info. Dani\u00ebl Jansma studied Biology at the Leiden University and was working as an scientist, teacher and E-learning developer at the institute of Biology Leiden before joining the department of Anatomy of the LUMC.",
+            "department": "Leiden University Medical Centre",
+            "fullName": "Dani\u00ebl Jansma, MSc",
+            "id": "9832101",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/66/bd3f40bb6f11e4a27403616a88f761/Daniel-Jansma.jpg",
+            "title": "E-Learning developer"
+        },
+        {
+            "bio": "Bill Howe is the Director of Research for Scalable Data Analytics at the UW eScience Institute and holds an Affiliate Assistant Professor appointment in Computer Science & Engineering, where he leads a group studying data management, analytics, and visualization systems for science applications. Howe has received awards from Microsoft Research and honors for papers in scientific data management, and serves on a number of program committees, organizing committees, and advisory boards in the area, including the advisory board of the Data Science certificate program at UW. He holds a Ph.D. in Computer Science from Portland State University and a Bachelor's degree in Industrial & Systems Engineering from Georgia Tech.<br/>",
+            "department": "Scalable Data Analytics",
+            "fullName": "",
+            "id": "999946",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d0/58f238342cdd7d81bd514cd3ceec8d/Bill-Howe.png",
+            "title": "Director of Research"
+        },
+        {
+            "bio": "<p><span>Tracy\nCushing MD MPH FACEP FAWM is an Assistant Professor of Emergency Medicine at\nthe University of Colorado where she practices emergency medicine. She is a graduate\nof the Harvard/Massachusetts General Hospital wilderness medicine fellowship.\nShe is the associate editor of <i>Wilderness and Environmental Medicine</i>,\nthe peer-reviewed journal of the Wilderness Medical Society, and she has been a\ncontributor to Wilderness Medicine magazine. She will be co-editor of the\nupcoming seventh edition of Auerbach's Wilderness Medicine textbook. She is a\nmember of Colorado's Disaster Medical Assistance Team (DMAT) and is the\nfellowship director for the wilderness medicine fellowship at the University of\nColorado. She is interested in high altitude physiology, mountaineering,\nclimate change, travel medicine and health policy. She lives in Boulder CO with\nher husband, daughter, two cats, and two labradors.&nbsp;</span></p>",
+            "department": "Emergency Medicine",
+            "fullName": "",
+            "id": "11510889",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/96/e77400b4c711e4b5382f3332352fdc/cushingTracy.jpg",
+            "title": "MD, MPH, FACEP, FAWM"
+        },
+        {
+            "bio": "<p>Dr. Puckett\u2019s background includes six years of teaching and\nadministrative work in public and private secondary schools in North Carolina,\nGeorgia, and Florida. He holds a Ph.D. in education from the University of\nNorth Carolina at Chapel Hill. Before coming to Penn in 1987, Dr. Puckett was\ndirector of research and development for REAL Enterprises, a non-profit\norganization that helped catalyze school-based economic development projects in\nthe rural South. He served as associate dean of the Graduate School of\nEducation from 1998 to 2004, and again in 2006-07; he chaired the School\u2019s\nEducational Leadership Division in 1999-2000, and the Education Policy Division\nfrom 2007-11; and he served on the school\u2019s Executive Committee for eleven\nyears. &nbsp;His GSE courses and seminars include American education reform:\nhistory, policy, and practice; education and the American City; and John\nDewey.&nbsp;</p><p>Since\ncoming to Penn, Dr. Puckett has been actively involved in building University\npartnerships with West Philadelphia schools; from 1988 to 1992, he worked with\nIra Harkavy to develop the University of Pennsylvania\u2019s Center for Community\nPartnerships, now called the Netter Center. In conjunction with the Netter\nCenter and the School of Arts and Sciences\u2019s Urban Studies Program, he teaches\nundergraduate academically-based community service seminars that focus on\nschool- and neighborhood-improvement projects in West Philadephia. He has\nco-authored a number of journal articles and book chapters with Arts and\nSciences faculty affiliated with the Netter Center, advancing the development\nof university-assisted community schools and academically based community service.</p><p><span>Dr. Puckett is the author of&nbsp;<i>Foxfire Reconsidered: A\nTwenty-Year Experiment in Progressive Education</i>&nbsp;(Urbana: University\nof Illinois Press, 1989); co-author of&nbsp;<i>Leonard Covello and the Making\nof Benjamin Franklin High School: Education As If Citizenship Mattered</i>&nbsp;(Philadelphia:\nTemple University Press, 2007); co-author of&nbsp;<i>Dewey\u2019s Dream: Universities and\nDemocracies in an Age of Education Reform</i>&nbsp;(Philadelphia: Temple\nUniversity Press, 2007); and co-author of <i>Becoming\nPenn: The</i> <i>Pragmatic Urban University</i>,\n1950-2000 (Philadelphia: University of Pennsylvania Press, 2015).&nbsp;</span></p><p>\n\n\n\n\n\n\n\n</p><p>Dr.\nPuckett serves on various university, community, public school, and citywide\nadvisory boards and task forces; one of his recent projects was a successful five-year\ncommunity-organizing effort to build a new West Philadelphia High School. In\n1991\u201392, Dr. Puckett was designated a Spencer Foundation/National Academy of\nEducation postdoctoral fellow; his study centered on the history of the\ncommunity school idea from 1886 to the present. In 1996\u201397, he was designated a\nFulbright Scholar to Germany, where he lectured in American Studies at the\nOtto-von-Guericke-Universit\u00e4t in Magdeburg. He is currently a Distinguished\nFellow of the Netter Center and a frequent Bodek Lecturer for the University. &nbsp;&nbsp;</p>",
+            "department": "Graduate School of Education",
+            "fullName": "Dr. John L. Puckett",
+            "id": "4678438",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/85/9c7920548711e489bb3f5eb31af3a0/johnp.png",
+            "title": "Professor of Education"
+        },
+        {
+            "bio": "<p>Angus Mackay is a climate change adaptation specialist and lead trainer at the United Nations Institute for Training and Research.&nbsp; He heads UNITAR\u2019s climate change programme which provides training and capacity development services to public sector organisations in developing countries. Skills development is a strategic issue that underpins the effectiveness of all climate change policies, plans and programmes, as well as broader development policy.&nbsp;&nbsp;</p><p>UNITAR undertakes skills assessments to help countries better understand their learning needs and supports the development of national climate change learning strategies.&nbsp; This includes a strong focus on evaluation for results. Angus Mackay has previously worked for a range of international organisations including the UN Department for Peace Keeping Operations, United Nations Development Programme, UK Department for International Development, World Bank, as well as private sector environmental consulting firms.&nbsp;</p>",
+            "department": "",
+            "fullName": "",
+            "id": "10235928",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b5/2754206a7c11e49d79c71ec125b304/mckay_500x500.jpg",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "8591616",
+            "title": ""
+        },
+        {
+            "bio": "<br><br><br>",
+            "department": "",
+            "fullName": "",
+            "id": "8344166",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/aa/4a23d04e6011e493dc69873ff9dcf3/sarah.jpg",
+            "title": "Associate Dean, Distance Learning Center"
+        },
+        {
+            "bio": "<p>Amy Levi is the Albers Professor\nof Midwifery at the University of New Mexico College of Nursing. &nbsp;One of her first nursing jobs was as a\nCommunity Health Nurse in rural Vermont; since then she has been teaching and\npracticing midwifery, and consulting on maternal child health education and\npractice in California, New Mexico, Pennsylvania, Vermont, Guatemala, Pakistan,\nMalawi, and Tibet.&nbsp; Her current research\nfocuses on sexual and reproductive health. </p>\n\n<p>&nbsp;</p>\n\n<br><br><br><br>",
+            "department": "College of Nursing",
+            "fullName": "",
+            "id": "7513587",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d4/7b67905fa411e48e4cdf28196be72f/Levi_-Amy-closeup.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "Facultad de Ingenier\u00eda de la UNAM",
+            "fullName": "Yukihiro Minami Koyama",
+            "id": "17087057",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/cb/b3d980c16411e5baabffbc700db117/YMK_foto_Coursera.jpg",
+            "title": "Profesor titular en el \u00c1rea de Ingenier\u00eda Mec\u00e1nica"
+        },
+        {
+            "bio": "I am Professor of Cognitive Science and Dean of Social Sciences at UC San Diego",
+            "department": "",
+            "fullName": "",
+            "id": "228639",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/dd/a6bbffce2254fd6d57a1439362102c/11DSC_4206-cropped-600x600.jpg",
+            "title": "Dean of Social Sciences & Professor of Cognitive Science"
+        },
+        {
+            "bio": "Laura joined UCL as a teaching fellow in Accounting in May 2013. Prior to joining UCL, Laura was a lecturer at Brunel University. Laura has real enthusiasm for accounting and she endeavours to bring accounting to life for her students by focusing on real world cases and current issues in accounting in her teaching. Laura\u2019s research interests are predominantly in accounting regulation, corporate governance and accounting education.Laura liaises with professional accounting bodies, such as: the ACCA, CIMA and the ICAEW and incorporates activities involving these professional bodies in the modules she delivers. Laura has previously worked in industry in a large finance department and has also consulted on international accounting education projects.",
+            "department": "School of Management, UCL",
+            "fullName": "Laura Kerringan",
+            "id": "16016239",
+            "title": "Ms"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1834747",
+            "title": ""
+        },
+        {
+            "bio": "<p>Dr\nCaroline Ford is a cancer researcher based at the Lowy Cancer Research Centre.\nShe leads the Metastasis Research Group whose aim is to understand the key\nprocesses in epithelial to mesenchymal transition (EMT) and cancer metastasis,\nin order to identify targets for novel therapies. She has extensive experience\nresearching the molecular biology of breast, ovarian and colorectal cancer.&nbsp;</p><p>Dr\nFord is also an experienced university lecturer, convening courses on medical\nresearch, cancer pathology and personalised medicine. She has completed a\nGraduate Certificate in University Learning &amp; Teaching, and is passionate\nabout science communication and enhancing the health literacy of the wider\ncommunity. Dr Ford is a member of the American Association of Cancer Research,\nthe European Association for Cancer Research, the International EMT\nAssociation, and the Australian Society for Medical Research.</p>",
+            "department": "Prince of Wales Clinical School, Faculty of Medicine",
+            "fullName": "",
+            "id": "4694064",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/aad780dfe911e39aa9430757b2d567/CarolineFordProfile.jpg",
+            "title": "Senior Lecturer and Metastasis Research Group Leader "
+        },
+        {
+            "bio": "<p>Bj\u00f6rn-S\u00f6ren Gigler is a Senior\nGovernance Specialist at the World Bank. He is a political economist and his\nmain research field is the impact of ICTs on enhancing the well-being of poor\ncommunities. He coordinates the Innovations in Governance program which aims to\nleverage innovative ICTs to make development programs more open, inclusive and\neffective. </p>\n\n\n\n<p>Soren holds the position of Visiting\nAssociate Professor for Political Economy at the Edmund A. Walsh School of\nForeign Service at Georgetown University. He has taught and carried out\nresearch on multi-dimensional aspects of poverty, human development, and ICT\nfor development at the London School of Economics, Georgetown University, the\nUniversidad Cat\u00f3lica Boliviana, Bolivia and the Universidad los Andes,\nColombia. He holds a Ph.D. in Development Studies from the London School of\nEconomics, a M.S. in Economics from the University of Munich and a M.A. in\nInternational Affairs from the Elliott School, George Washington University. </p>\n\n\n\n<span>He is the editor of \u2018<a title=\"Link: https://openknowledge.worldbank.org/handle/10986/18408\" href=\"https://openknowledge.worldbank.org/handle/10986/18408\">Closing the\nFeedback Loop: Can Technology address the Accountability Gap</a>?\u2019 and \u2018Development\nas Freedom in a Digital Age: Experiences of the Rural Poor in Bolivia\u2019\n(February 2015) as well as several articles and book chapters on topics related\nto information poverty, ICT for development and open government data. </span><br>",
+            "department": "",
+            "fullName": "",
+            "id": "10612258",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/66/0b41e287bd11e4b0afef54228f490f/Bjo_rn-So_ren-Gigler600x600.jpg",
+            "title": "Senior Governance Specialist, Governance Global Practice"
+        },
+        {
+            "bio": "",
+            "department": "ELearning",
+            "fullName": "SETOE",
+            "id": "16654546",
+            "title": "Instructor"
+        },
+        {
+            "bio": "<div>\n\u5b59\u4e50\u5f3a\uff0c\u5357\u4eac\u5927\u5b66\u54f2\u5b66\u7cfb\u526f\u6559\u6388\u3001\u9a6c\u514b\u601d\u4e3b\u4e49\u793e\u4f1a\u7406\u8bba\u7814\u7a76\u4e2d\u5fc3\u7814\u7a76\u5458\uff0c\u4e2d\u56fd\u7ecf\u6d4e\u54f2\u5b66\u7814\u7a76\u4f1a\u7406\u4e8b\u30022008\u5e749\u6708\u52302009\u5e748\u6708\u5728\u82f1\u56fd\u5e03\u91cc\u65af\u6258\u5927\u5b66\u653f\u6cbb\u7cfb\u4ece\u4e8b\u8bbf\u95ee\u7814\u7a76\uff0c\u4e3b\u8981\u4ece\u4e8b\u9a6c\u514b\u601d\u4e3b\u4e49\u54f2\u5b66\u53f2\u548c\u897f\u65b9\u5de6\u6d3e\u6fc0\u8fdb\u601d\u6f6e\u7814\u7a76\u3002</div>",
+            "department": "\u54f2\u5b66\u7cfb",
+            "fullName": "",
+            "id": "11383783",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/91/f94580c94011e49c5ed5f72a99e962/_____.jpg",
+            "title": "\u526f\u6559\u6388"
+        },
+        {
+            "bio": "<p>Ko\u00e7\n\u00dcniversitesi\u2019nde Okutman olarak g\u00f6rev yapmakta olan A.Tamer G\u00fcler,<br></p>\n\n<p>Mimar\nSinan \u00dcniversitesi Devlet Konservatuvar\u0131 Oyunculuk (Tiyatro) Ana Sanat\nDal\u0131\u2019ndan mezun oldu<b><i>.\u201cAB ve T\u00fcrkiye\u2019de \u015eekerin Ekonomi Politi\u011fi\u201d </i></b>adl\u0131 teziyle\nMarmara \u00dcniversitesi Sosyal Bilimler Enstit\u00fcs\u00fc <i>Uluslararas\u0131 \u0130ktisat</i> bilim dal\u0131nda, Hali\u00e7 \u00dcniversitesi Sosyal\nBilimler Enstit\u00fcs\u00fc\u2019nde de <b><i>\u201cB\u00fcy\u00fcyen Eller-Sait</i></b> <b><i>Faik/Bir\nDramaturji \u00c7al\u0131\u015fmas\u0131\u201d</i></b> adl\u0131 teziyle <i>Tiyatro\n(Oyunculuk)</i> y\u00fcksek lisans\u0131n\u0131 tamamlad\u0131. Ayn\u0131 zamanda Anadolu \u00dcniversitesi <i>\u0130ktisat</i> mezunudur. Halen Beykent\n\u00dcniversitesi\u2019nde Sinema-TV alan\u0131nda Sanatta Yeterlik- Doktora yapmaktad\u0131r.</p>\n\n<p>Konservatuvar e\u011fitimine ba\u015flamadan \u00f6nce \u0130stanbul Belediyesi \u015eehir\nTiyatrolar\u0131\u2019nda Yard\u0131mc\u0131 Sanat\u00e7\u0131 unvan\u0131yla \u00e7al\u0131\u015fmaya ba\u015flad\u0131. Konservatuvar\nbitimine kadar toplam be\u015f sezon \u0130stanbul \u015eehir Tiyatrolar\u0131 ve \u0130stanbul Devlet\nTiyatrolar\u0131\u2019nda \u00e7al\u0131\u015ft\u0131. Konservatuvar e\u011fitimini bitirdikten sonra sinema\n-televizyon dizisi oyunculu\u011fu, radyo tiyatrolar\u0131-sinema-dizi seslendirmesi,\nseslendirme y\u00f6netmenli\u011fi yapmaya devam etti. Yirmiden fazla sinema filmi ve\ntelevizyon dizisinde oyuncu olarak (\u00f6nemli rollerde) \u00e7al\u0131\u015ft\u0131. Bir s\u00fcre protokol\nsunuculu\u011fu yapt\u0131. </p>\n\n<p>2006\ny\u0131l\u0131nda <b><i>\u201c\u015eeker Sava\u015f\u0131\u201d</i></b> adl\u0131 ara\u015ft\u0131rma-siyaset kitab\u0131 yay\u0131nland\u0131. Bu\nkitapta \u00f6zellikle \u00fcst\u00fcnde durdu\u011fu Ni\u015fasta bazl\u0131 \u015fekerlerin (NB\u015e) insan\nsa\u011fl\u0131\u011f\u0131na olumsuz etkileri, geneti\u011fi de\u011fi\u015ftirilmi\u015f organizmalar\u0131n (GDO)\nzararlar\u0131 gibi konular bug\u00fcnlerde s\u0131kl\u0131kla dile getirilmektedir. Tar\u0131m\nEkonomisi ve Sanat Ekonomisi \u00fczerine \u00e7al\u0131\u015fmalar yapt\u0131. \u00c7al\u0131\u015ft\u0131\u011f\u0131 konularda\n(tiyatro, sinema, ekonomi) yay\u0131nlanan ve yay\u0131na haz\u0131r makaleleri vard\u0131r. 2011\ny\u0131l\u0131nda Kalkedon Yay\u0131nlar\u0131 taraf\u0131ndan bas\u0131lan \u2018Etkili Konu\u015fma\u2019 adl\u0131 kitab\u0131\n2014\u2019te ikinci bask\u0131s\u0131n\u0131 yapm\u0131\u015ft\u0131r.</p>\n\n<p>M\u00fcjdat Gezen Sanat Merkezi Konservatuvar\u0131\u2019 nda ve kurslar\u0131nda, Sadri Al\u0131\u015f\u0131k\nK\u00fclt\u00fcr Merkezi\u2019nde Etkili Konu\u015fma- Oyunculuk e\u011fitimleri vermi\u015f, AKKAdemi\nTiyatro-Esra Akkaya tiyatro at\u00f6lyelerinin \u0130stanbul ve \u0130zmir \u015fubelerinde de\ne\u011fitmenlik yapm\u0131\u015ft\u0131r. Halen Ko\u00e7 \u00dcniversitesi\u2019nde \u2018Okutman\u2019 olarak \u00e7al\u0131\u015fmakta,\nBerksoy Sanat Akademisi\u2019nde Etkili Konu\u015fma, Oyunculuk, Konservatuvara Haz\u0131rl\u0131k\nalanlar\u0131nda ders vermektedir.</p>",
+            "department": "\u00d6\u011frenci Dekanl\u0131\u011f\u0131",
+            "fullName": "Aziz Tamer G\u00fcler",
+            "id": "10815125",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a4/55f250f42911e4910979fbde28eea8/TamerGuler.jpg",
+            "title": "Okutman-Instructor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "7838146",
+            "title": ""
+        },
+        {
+            "bio": "<p>Mary McNeil is a former Team Lead in the Governance\nGlobal Practice at the World Bank.&nbsp; In\nthat capacity she provided strategic advice on the mainstreaming of citizen\nengagement and open and accountable governance throughout the Bank\u2019s\nportfolio.&nbsp; She was the Task Team Lead\nfor development of the <a title=\"Link: http://www.thegpsa.org/sa/\" href=\"http://www.thegpsa.org/sa/\">Global\nPartnership for Social Accountability</a> and the <a title=\"Link: http://wbi.worldbank.org/wbi/content/affiliated-networks-social-accountability-ansa\" href=\"http://wbi.worldbank.org/wbi/content/affiliated-networks-social-accountability-ansa\">Affiliated Networks for Social\nAccountability</a> and\nhas been involved in citizen participation, community-driven development, and\nsocial accountability throughout her 20-year career at Bank. </p>\n\n\n\n<p><a></a>She is the author\nof, <a href=\"https://openknowledge.worldbank.org/bitstream/handle/10986/2478/555460PUB0Dema1EPI1978968101PUBLIC1.pdf?sequence=1\"><i>Demanding\nGood Governance: Lessons for Social Accountability Initiatives in Africa</i></a><i> </i>and founding editor\nof the Bank's <a href=\"http://wbi.worldbank.org/wbi/devoutreach/\"><i>Development Outreach</i></a><i>.\n</i>&nbsp;Past positions include managing global\nprograms on community empowerment and social inclusion and civil society\ncapacity building (World Bank Institute), and operationally in the water and\nsanitation and urban sectors. &nbsp;She has\nworked in all regions, including managing country-based programs in Ghana,\nBosnia, the Philippines and Tajikistan.</p>\n\n<p>Before joining the Bank she was a\njournalist at <a href=\"http://www.cq.com\">Congressional Quarterly</a>, the <a href=\"http://www.si.edu/\">Smithsonian\nInstitution</a> and\nthe <a href=\"http://www.nasonline.org/\">National Academy of Sciences</a>. &nbsp;She\nholds a MA in Public Administration from the John F. Kennedy School of\nGovernment at Harvard, where she was the Joel Leff Fellow in Political Economy, and a BA\nwith honors from Wake Forest University.<br></p>",
+            "department": "",
+            "fullName": "",
+            "id": "6501303",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/dd/1ace30873711e4987b4d8648f53caa/Mary-McNeil600x600.jpg",
+            "title": "Team Lead, Governance Global Practice"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "7262794",
+            "title": ""
+        },
+        {
+            "bio": "Prof.\nHau is Choh-Ming Li Professor of Educational Psychology and former President of the Educational\nPsychology Division, International Association of Applied Psychology.<br><br>Prof.\nHau's research interest includes motivation, self-concept and applied\nstatistics. Since 1995, he has conducted close to 100 national advanced applied\nstatistics workshops in mainland China to promote empirical research in social\nsciences and education.<br><br>\u4faf\u5091\u6cf0\uff1a\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u5353\u654f\u6559\u80b2\u5fc3\u7406\u5b78\u8b1b\u5ea7\u6559\u6388\uff0c\u524d\u570b\u969b\u61c9\u7528\u5fc3\u7406\u5354\u6703\u6559\u80b2\u5fc3\u7406\u5b78\u90e8\u4e3b\u5e2d\u3002\u7814\u7a76\u8208\u8da3\u5305\u62ec:\n\u5b78\u7fd2\u52d5\u6a5f\u3001\u81ea\u6211\u6982\u5ff5\u53ca\u61c9\u7528\u7d71\u8a08\u3002\u81ea1995\u5e74\u4ee5\u4f86\uff0c\u66fe\u5148\u5f8c\u5728\u5317\u4eac\u5e2b\u7bc4\u5927\u5b78\u3001\u83ef\u6771\u5e2b\u7bc4\u5927\u5b78\u3001\u6771\u5317\u5e2b\u7bc4\u5927\u5b78\u3001\u83ef\u5357\u5e2b\u7bc4\u5927\u5b78\u3001\u6d59\u6c5f\u5927\u5b78\u3001\u897f\u5357\u5e2b\u7bc4\u5927\u5b78\u3001\u897f\u5317\u5e2b\u7bc4\u5927\u5b78\u3001\u83ef\u4e2d\u5e2b\u7bc4\u5927\u5b78\u3001\u897f\u5b89\u4ea4\u901a\u5927\u5b78\u53ca\u5168\u570b\u5fc3\u7406\u5b78\u5927\u6703\u671f\u9593\u7b49\uff0c\u8209\u8fa6\u8fd1\u767e\u6b21\u5927\u578b\u7d50\u69cb\u65b9\u7a0b\u6a21\u578b\u7814\u7fd2\u73ed\uff0c\u4ee5\u63a8\u5ee3\u91cf\u5316\u7814\u7a76\u65b9\u6cd5\u5728\u793e\u6703\u79d1\u5b78\u8207\u6559\u80b2\u7684\u61c9\u7528\u3002<br>",
+            "department": "Department of Educational Psychology",
+            "fullName": "Prof. Kit Tai Hau \u4faf\u5091\u6cf0",
+            "id": "981331",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/b00939ea981f11c8934ea05352c492/kthau_150.png",
+            "title": "Choh-Ming Li Professor of Educational Psychology"
+        },
+        {
+            "bio": "<p>Paul A. Offit, MD is the Director of the Vaccine Education Center at the Children's Hospital of Philadelphia. In addition, Dr. Offit is the Maurice R. Hilleman Professor of Vaccinology and a Professor of Pediatrics at the Perelman School of Medicine of the University of Pennsylvania. He is a recipient of many awards, including the J. Edmund Bradley Prize for Excellence in Pediatrics from the University of Maryland Medical School, the Young Investigator Award in Vaccine Development from the Infectious Disease Society of America, the Maxwell\nFinland Award from the Infectious Diseases Society of America,&nbsp;the\nDistinguished Alumnus Award from the University of Maryland School of Medicine, and a Research Career Development Award from the National Institutes of Health. He is the co-inventor of the rotavirus vaccine RotaTeq, recommended for universal use in infants by the CDC. For this achievement, Dr. Offit received the Luigi Mastroianni and William Osler Awards from the University of Pennsylvania School of Medicine, the Charles M\u00e9rieux Award from the National Foundation for Infectious Diseases, and was honored by Bill and Melinda Gates during the launch of their Foundation's Living Proof Project for global health. In 2011, Dr. Offit received the Humanitarian of the Year Award from the Biologics Industry Organization (BIO), the Distinguished Medical Achievement Award from the College of Physicians of Philadelphia, the David E. Rogers Award from the American Association of Medical Colleges, the Odyssey Award from the Center for Medicine in the Public Interest, and was elected to the Institute of Medicine of the National Academy of Sciences. Dr. Offit was a member of the Advisory Committee on Immunization Practices to the Centers for Disease Control and Prevention and is a founding advisory board member of the Autism Science Foundation and the Foundation for Vaccine Research.</p><p>He is the author of many medical narratives including: The Cutter Incident: How America's First Polio Vaccine Led to Today's Growing Vaccine Crisis (Yale University Press, 2005); Vaccinated: One Man's Quest to Defeat the World's Deadliest Diseases (HarperCollins, 2007), for which he won an award from the American Medical Writers Association; Autism's False Prophets: Bad Science, Risky Medicine, and the Search for a Cure (Columbia University Press, 2008); Deadly Choices: How the Anti-Vaccine Movement Threatens Us All (Basic Books, 2011); and Do You Believe in Magic? The Sense and Nonsense of Alternative Medicine (HarperCollins, 2013).</p><p>He has made it his life's work to educate both the medical profession and the lay public on the value of vaccinations and the terrible human cost of bad science.</p>",
+            "department": "Perelman School of Medicine",
+            "fullName": "",
+            "id": "654632",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ec/ffe9dae219b9cdcc331168d5b7216c/instructor-1-12.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "<p>Professor Mattoo is the Director of Australia India Institute and a Professor of International Relations at The University of Melbourne. He concurrently serves as Professor of Disarmament Studies at the Centre for International Politics, Organisation and Disarmament at New Delhi's Jawaharial Nehru University.</p><p>Professor Mattoo has been a Member of the National Knowledge Commission, a high-level advisory group to the Prime Minister of India and the National Security Council's Advisory Board. He was the Vice-Chancellor of the University of Jammu from 2002 - 2008. He received his Doctorate from the University of Oxford and has been a visiting Professor at Stanford University, the University of Notre Dame, the University of Illinois, and the Maison des Sciences de l'Homme in Paris. He has published extensively including eight books and more than a hundred articles. He was awarded the Padma Shri, one of India's highest civilian awards, for his contribution to education and public life.</p>",
+            "department": "Australia India Institute and Faculty of Arts",
+            "fullName": "",
+            "id": "9856499",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/33/1360f054fb11e49bf9fdded6c3db08/amitabh.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "fullName": "Nick D",
+            "id": "2102510"
+        }
+    ],
+    "linked": {},
+    "paging": {
+        "next": "300",
+        "total": 4152
+    }
+}

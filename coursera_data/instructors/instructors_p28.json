@@ -1,0 +1,763 @@
+{
+    "elements": [
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4450784",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Admin Admin",
+            "id": "16896384",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Sumate Permwonguswa",
+            "id": "2087984",
+            "title": ""
+        },
+        {
+            "bio": "<p>Rebecca Stein is a senior lecturer of economics at the University of Pennsylvania. She teaches large sections of introductory microeconomics to almost a thousand students a year. Dr. Stein earned her B.A. from Hebrew University of Jerusalem and her PhD from Northwestern University. She received the University of Pennsylvania, School of Arts and Sciences, Dean\u2019s Award for Distinguished Teaching by Affiliated Faculty in 2005 the Provost\u2019s Award for Teaching Excellence by Non-Standing Faculty in 2011 and the Irving B. Kravis Prize for Distinction in Undergraduate Teaching in the Economics Department in 2012.</p><p>Her research interests are in health economics. In particular she studied risk selection in the health insurance market, the connection between health insurance and the provision of care and the link between hospitals and quality of healthcare. Recent developments in the health care industry have encouraged her to look at Hospitalist (hospital based physicians) in order to understand the growth of this specialty, the scope of their work and any implication of this change to quality of care provided in the hospital.</p><p>Dr. Stein was introduced to economics many years ago while studying to be a hotel manager. She was enthralled with the discipline that explains so much of life with these clear logical tools and decided to change her study path to follow her passion. She is thrilled to share with you, via Coursera, the insights economics has to offer.</p>",
+            "department": "Economics",
+            "fullName": "",
+            "id": "248242",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e7/4dc2c275a7d2d14c76a068a495fff9/stein.jpg",
+            "title": "Senior Lecturer"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "11828266",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Ben Tieni",
+            "id": "13778132",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Francesca Galera",
+            "id": "2894275",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9200181",
+            "title": ""
+        },
+        {
+            "bio": "Amy D. Rickman, Ph.D., RD, LDN is an Assistant Professor in the Department\nof Health and Physical Activity at the University of Pittsburgh. Dr. Rickman\nis a Registered and Licensed Dietitian in the State of Pennsylvania. Dr.\nRickman has played key roles in the development and implementation of a\ncomprehensive lifestyle approach to weight and chronic disease management\nin numerous clinical trials. Her current areas of interest focus on strategies\nfor improving the adoption and maintenance of lifestyle behaviors, which\ninclude nutrition and physical activity, on weight loss and chronic disease\noutcomes.",
+            "department": "Department of Health and Physical Activity",
+            "fullName": "",
+            "id": "2595360",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/3f/2801858f7f4a0d57c82689f757c4e5/Coursera-upload3-600x600.jpg",
+            "title": "Assistant Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1892363",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2173047",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "8655522",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2800036",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "10173989",
+            "title": ""
+        },
+        {
+            "bio": "<strong>David Hill</strong><span>&nbsp;is a New Zealand author and has been writing full-time since 1983. He writes for young adults and adults. His books have been translated into several different languages and published in New Zealand, Australia, the United Kingdom, and the United States. His multi-award winning young adult titles include:&nbsp;</span>Fat-Four-Eyed and Useless<span>,&nbsp;</span>Right Where it Hurts<span>,&nbsp;</span>Take it Easy<span>,&nbsp;</span>See Ya, Simon<span>,&nbsp;</span>Coming Back<span>, and&nbsp;</span>My Brother's War. He has had short stories published in a number of anthologies and magazines and has also had his work read on Radio New Zealand.",
+            "department": "",
+            "fullName": "",
+            "id": "11520210",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b8/0391b00e1211e58568bdc7c3624d09/David-Hill.jpg",
+            "title": "Author"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "7388331",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2878986",
+            "title": ""
+        },
+        {
+            "bio": "&nbsp;",
+            "department": "Natural History Museum of Copenhagen",
+            "fullName": "",
+            "id": "10165131",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/55/adf6a070a011e4a8210f5b097a7fb8/Arne-Thorsh_j.png",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "<span><a>Dr. Reid Whitaker</a>\u00a0is currently the Executive Director of the Center for Digital Learning and Scholarship at Rice University as well as the founder and director of STEMscopes\u2122. He began his teaching career with Teach For America as a 5</span>th\u00a0grade self-contained and elementary science teacher in Houston ISD at Port Houston Elementary.\u00a0 For his teaching, he was awarded the HEB Texas Excellence in Education Rising Star Award and the HISD Teacher of the Year Runner Up in 2005.\u00a0 Reid also has experience providing numerous hours of professional development training and coaching to teachers in Houston ISD by being a content specialist for the district and then as an Associate Director for the Center for Education at Rice University.\u00a0 Subsequently, Reid returned to Port Houston Elementary as principal.\u00a0 In his three years as principal, he raised the accountability rating of the school from Academically Acceptable to Exemplary, earning Port Houston Elementary a spot in the top 2% of all HISD schools for student growth.\u00a0 In 2009, Reid received the distinguished Houston\u2019s Emerging Leader Award from the Greater Houston Partnership.\u00a0 In the summer of 2010, Reid returned to Rice University to create STEMscopes\u2122.\u00a0<span>Reid received his undergraduate degree in communications from the University of Texas at Austin.\u00a0 He earned his Ph.D. from his alma mater in Educational Administration. \u00a0</span>",
+            "department": "Rice University Digital Learning and Scholarship",
+            "fullName": "",
+            "id": "386687",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/57/d5e26fb55a19f49b728e1450f0e353/n833600639_4549680_3085.jpg",
+            "title": "Professor in the Practice of Digital Learning"
+        },
+        {
+            "bio": "<p>Kirk Huslage currently serves as the Associate Director for the North Carolina Statewide Program for Infection Control and Epidemiology (SPICE).   He is a principal lecturer at all SPICE infection control courses; a consultant to all healthcare facilities (including nursing homes) in North Carolina on infection prevention issues; and conducts applied research projects in the area of infection prevention and environmental disinfection.</p>\n\n<p>Kirk has a BS in Zoology from North Carolina State University, a BS in Nursing from Johns Hopkins University, a MS in Public Health in Environmental Health and Microbiology and a post-graduate certificate in Occupational Health Nursing from the University Of North Carolina Gillings School Of Global Public Health.</p>",
+            "department": "North Carolina Statewide Program for Infection Control and Epidemiology (SPICE)",
+            "fullName": "Kirk  Huslage",
+            "id": "4175883",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/20/0e3410d3c411e490e839566720fc41/Kirk_Coursera.jpg",
+            "title": "Associate Director "
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3861406",
+            "title": ""
+        },
+        {
+            "bio": "Petra Bonfert-Taylor received her Ph.D. in Mathematics in 1996 from Technische Universit\u00e4t Berlin in Germany. Initially intending to study computer science, Petra got drawn to the study of mathematics through a chance encounter with the subject via a course on complex analysis taught by Professor Christian Pommerenke who later on became her doctoral advisor. Petra has lectured and taught widely, including at Technische Universit\u00e4t Berlin, Universit\u00e4t W\u00fcrzburg, the University of Michigan, Stony Brook University, Yale University, Massey University, University of Southampton, University of Pune. Petra is currently a Professor of Mathematics at Wesleyan University. Besides mathematics, Petra enjoys the outdoors, including skiing, gardening and hiking. She is an avid cook, enjoys music and loves spending time with her children and family.<br><br>",
+            "department": "Mathematics and Computer Science",
+            "fullName": "",
+            "id": "3491158",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f0/a9164dbf1f5038d399db11566f3bea/Petra.png",
+            "title": "Professor of Mathematics"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4119619",
+            "title": ""
+        },
+        {
+            "bio": "<p><b>Alexander S. Macnow</b>, MD, is a 2013 graduate of the Perelman\nSchool of Medicine at the University of Pennsylvania, where he focused in\npathology and medical education, acting as a Teaching Assistant for the <i>Cell\nand Tissue Biology</i>, <i>Human Gross Anatomy</i>, <i>Mechanisms of Disease and Therapeutic\nIntervention</i> (MDTI), <i>Endocrinology</i>, <i>Reproductive Medicine</i>, and <i>Gastroenterology</i>\ncourses for first-year medical students.</p>\n\n<p>Dr. Macnow graduated <i>summa cum laude</i> from Boston University\nin 2008, earning a B.A. in Musicology with Distinction after research in music\nsemiology in 20th Century theater, as well as induction into Phi\nBeta Kappa.</p>\n\n<p>Dr. Macnow is spending two years before residency working as\na Content Manager for MCAT Programs at Kaplan Test Prep, designing a prep\ncourse for the new MCAT 2015 exam.&nbsp; He\nhas recently been published as the primary author of <i><a target=\"_blank\" href=\"http://www.amazon.com/MCAT-2015-What-Change-Means/dp/161865358X\">MCAT 2015: What the Test\nChange Means for You Now</a></i>.</p>\n\n<p>During medical school, Dr. Macnow received the <i>Michael Harty\nAward for Excellence in Gross Anatomy</i> and <i>Dr. Freddy Stark Award for Gross\nAnatomy</i>.&nbsp; He was inducted in 2013 to the\nAlpha Omega Alpha Honor Medical Society.</p>",
+            "department": "Anatomy and Cell Biology",
+            "fullName": "",
+            "id": "3463553",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/cc/c15dfff4c42905bac840bf53c19f15/Alex-Macnow-headshot.jpg",
+            "title": "Teaching Assistant"
+        },
+        {
+            "bio": "<p><b>Antoine\nFlahault</b><span> MD, PhD in biomathematics, is professor of\npublic health at Faculty of Medicine, University of Geneva where he is the Director\nof the Institute of Global Health, at Campus Biotech (since Jan. 2014). He has\nbeen appointed founding director of the French School of Public Health (EHESP,\nRennes, 2007-2012), co-director of Centre Virchow-Villerm\u00e9 for Public Health\nParis-Berlin&nbsp; (Universit\u00e9 Descartes,\nSorbonne Paris Cit\u00e9), co-director of the European Academic Global Health Alliance\n(EAGHA), president of the Agency for Public Health Education Accreditation (APHEA).\nHe has conducted his research in mathematical modelling of communicable\ndiseases&nbsp;; has chaired the WHO collaborative centre for electronic disease\nsurveillance&nbsp;; has coordinated research on Chikungunya in Indian Ocean\n(Inserm Prize, 2006; was scientific curator of a large exhibition Epidemik, la\nCit\u00e9 des Sciences et de l\u2019Industrie (Paris, Rio and Sao Paulo). He was elected corresponding\nmember at <i>Acad\u00e9mie Nationale de M\u00e9decine</i>\n(Paris). Last Jan 2015, he had 250 scientific publication referenced in Medline.&nbsp;</span></p><p><span><br></span></p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p><b>Antoine Flahault</b><span> est docteur en m\u00e9decine, ancien interne des\nh\u00f4pitaux de Paris, et docteur (PhD) en biomath\u00e9matiques. Depuis janvier 2014, il\nest nomm\u00e9 professeur ordinaire \u00e0 la Facult\u00e9 de M\u00e9decine de l\u2019Universit\u00e9 de\nGen\u00e8ve o\u00f9 il dirige l\u2019Institut de Sant\u00e9 Globale au Campus Biotech. &nbsp;Nomm\u00e9 professeur de sant\u00e9 publique en 2002 \u00e0\nParis, il a fond\u00e9 l\u2019Ecole des Hautes Etudes en Sant\u00e9 Publique qu\u2019il a dirig\u00e9e,\n\u00e0 Rennes, de 2007 \u00e0 2012, a \u00e9t\u00e9 nomm\u00e9 co-directeur du Centre Virchow-Villerm\u00e9\nde Sant\u00e9 Publique Paris-Berlin (Universit\u00e9 Descartes, Sorbonne Paris Cit\u00e9),\nco-directeur de l\u2019Alliance Acad\u00e9mique Europ\u00e9enne pour la Sant\u00e9 Globale (EAGHA),\npr\u00e9sident de l\u2019Agence Europ\u00e9enne d\u2019Accr\u00e9ditation des Formations en Sant\u00e9\nPublique (APHEA). Il a men\u00e9 des recherches en mod\u00e9lisation math\u00e9matique des\n\u00e9pid\u00e9mies ; a dirig\u00e9 le centre collaborateur de l\u2019OMS pour la surveillance\n\u00e9lectronique des maladies ; a coordonn\u00e9 les recherches sur le Chikungunya dans\nl\u2019Oc\u00e9an Indien (Prix Inserm 2006) ; a \u00e9t\u00e9 commissaire scientifique de\nl\u2019exposition Epidemik \u00e0 la Cit\u00e9 des Sciences et de l\u2019Industrie (Paris, Rio et\nSao Paulo). Il a \u00e9t\u00e9 \u00e9lu membre correspondant de l'Acad\u00e9mie Nationale de\nM\u00e9decine (Paris). Il avait (janvier 2015) 250 publications scientifiques\nr\u00e9f\u00e9renc\u00e9es sur Medline. </span></p>",
+            "department": "Faculty of Medecine - University of Geneva",
+            "fullName": "Antoine Flahault",
+            "id": "12076727",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/71/568860d25f11e4bca8e3f6c4e7bd91/flahault2.jpg",
+            "title": "Professor of Public Health and Director of the Global Health Institute"
+        },
+        {
+            "bio": "",
+            "department": "Departamento de Matem\u00e1ticas de la Facultad de Ciencias",
+            "fullName": "Emma Lam",
+            "id": "13630715",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/0c/4e0160607f11e5a4b829946a8b58da/Emma-Lam.jpg",
+            "title": "Profesora titular"
+        },
+        {
+            "bio": "Tracy Jennings is a Senior Instructor in the Management and Entrepreneurship Division at CU where she teaches courses in management and leads global seminars in China. She holds a B.A. from Williams College, and an MBA and PhD in Cognitive Psychology, both from the University of Denver. Dr. Jennings began her career at IBM as a usability specialist. Later she took on New Product Development leadership roles at US WEST, focusing on internet service development.\n",
+            "department": "Management and Entrepreneurship Division",
+            "fullName": "Tracy Jennings",
+            "id": "13370448",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/49/e322d0b49411e589fc15915145485b/jennings.jpg",
+            "title": "Senior Instructor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Serge Rijsdijk",
+            "id": "4676665",
+            "title": ""
+        },
+        {
+            "bio": "Susan Sawyer is a Professor of Adolescent Health at the University of Melbourne and Director of the Centre for Adolescent Health at the Royal Children's Hospital, Melbourne, Australia's leading academic centre of excellence in adolescent health. She is also a research fellow at the Murdoch Childrens Research Institute. A paediatrician by training, Professor Sawyer is internationally renowned for her clinical, research and advocacy work in support of young people and their health, efforts that have helped to advance understanding of young people's health and wellbeing and the systems and health services that support them in Australia, South East Asia and beyond.<br><br>A highly regarded teacher, Professor Sawyer is known for her practical approach and 'down to earth' manner. With over 250 publications, 30 book chapters and a textbook on youth health and adolescent medicine, her clinical and research interests are increasingly focused on clinical models of 'adolescent friendly' health care.<br><br>Professor Sawyer holds senior leadership roles within international advocacy and training bodies such as the International Association of Adolescent Health and Medicine and the US Society for Adolescent Health and Medicine. She&nbsp;has held various advisory roles with the World Health Organisation, UNICEF, the World Bank and UNFPA, and played a leading role in the two adolescent health series published in the Lancet, one of the world's leading medical journals. She is also a Commissioner within the Lancet Commission on the Health and Wellbeing of Young People, an international consortium with representation from 14 countries spanning Africa, Asia, Australasia, Europe, the Middle East and North and South America that brings together experts in public health, economics, political and social science, behavioural science and neuroscience to consider strategies for advancing adolescent health globally.<br>",
+            "department": "Department of Paediatrics",
+            "fullName": "",
+            "id": "5684375",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/84/35d510af0311e382d54d156dd14b16/SusanSawyer.jpg",
+            "title": "Chair of Adolescent Health"
+        },
+        {
+            "bio": "Dr. Hale is a registered pharmacist and an Assistant Dean in the College\nof Pharmacy at the Ohio State University. He holds a B.S. in Pharmacy degree\nas well as a Master\u2019s in Educational Theory and Practice and PhD in Educational\nPolicy and Leadership. He is also a Clinical Professor in the\nDivision of Pharmacy Practice and Administration and has taught pharmacy\ncourses for over 30 years. He practiced as a pharmacist in the OSU Medical\nCenter, including specialties in clinical pharmacy, drug distribution,\nnutritional support, nuclear pharmacy, and management. He directed the\nCollege of Pharmacy\u2019s Professional Experience Program and Student Services\nin previous academic positions.\n<br>\n<br>Recently, Dr. Hale was a co-founder of the Generation Rx Initiative, a\nlearning community focusing on prescription drug abuse prevention. Dr.\nHale has received two distinguished teaching awards (selected by students)\nduring his tenure at Ohio State. He has also received a Distinguished Alumni\nAward from the College of Pharmacy, as well as Distinguished Diversity\nEnhancement and Career Services Awards from the Ohio State University. &nbsp;In 2013, Dr. Hale was&nbsp;<span>honored by the American Pharmacists Association with the Linwood F. Tice Friend of the Academy of Student Pharmacists Award, as well as the Ohio Pharmacists Association\u2019s Beal Award.</span>",
+            "department": "College of Pharmacy",
+            "fullName": "",
+            "id": "1293473",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a9/564e307d0d48ff1b2a78eea85f30f2/Kenneth-M.-Hale.png",
+            "title": "Assistant Dean"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "12604597",
+            "title": ""
+        },
+        {
+            "bio": "<a href=\"http://stat.duke.edu/~mc301/\" target=\"_blank\" title=\"Link: http://stat.duke.edu/~mc301/\">Mine \u00c7etinkaya-Rundel</a> is an Assistant Professor of the Practice at the <a href=\"http://stat.duke.edu/\" target=\"_blank\">Department of Statistical Science</a> at Duke University.\u00a0She received her Ph.D. in Statistics from the University of California, Los Angeles, and a B.S. in Actuarial Science from New York University's Stern School of Business.<br><br>Dr.\u00a0\u00c7etinkaya-Rundel\u00a0is\u00a0primarily\u00a0interested in innovative approaches to statistics pedagogy. Some of her recent work focuses on developing student-centered learning tools for introductory statistics courses, teaching computation at the introductory statistics level with an emphasis on reproducibility, and exploring the gender gap in self-efficacy in STEM fields. Her research interests also include spatial modeling of survey, public health, and environmental data. She\u00a0is a co-author of\u00a0<a href=\"http://www.openintro.org/stat/textbook.php\" target=\"_blank\">OpenIntro Statistics</a> and a contributing member of the <a href=\"http://www.openintro.org/\" target=\"_blank\">OpenIntro project</a>, whose mission is to make educational products that are open-licensed, transparent, and help lower barriers to education. She is also a co-editor of the <a href=\"http://citizen-statistician.org/\" target=\"_blank\" title=\"Link: http://citizen-statistician.org/\">Citizen Statistician blog</a>\u00a0and a contributor to the <a href=\"http://chance.amstat.org/category/columns/taking-a-chance-in-the-classroom/\" target=\"_blank\">Taking a Chance in the Classroom</a> column in <a href=\"http://chance.amstat.org/\" target=\"_blank\" title=\"Link: http://chance.amstat.org/\">Chance Magazine</a>.<br><br>",
+            "department": "Department of Statistical Science",
+            "fullName": "",
+            "id": "1549355",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b5/fcd6d8d95e823c0e13a032212a319c/mcr.JPG",
+            "title": "Assistant Professor of the Practice"
+        },
+        {
+            "bio": "I want to live in a world where people can learn by doing in messy, unusual, and inventive ways, without fear of failure. Hoping to pull that off, as a Tinkering Content Developer I help design, prototype, and facilitate hands-on making activities for the Tinkering Studio.\n\nAfter 24 consecutive years of formal education culminating in a PhD in Behavioral Neuroscience, I finally discovered informal education, constructionism, and tinkering when I became a Field Trip Explainer at the Exploratorium; I haven\u2019t missed academia since. In my work at the Tinkering Studio, I focus on developing, documenting, and sharing rich learning experiences, with the goal of creating a physical, cultural, and social space that is safe for trying out tentative ideas, not knowing the right answer, and developing the skill of posing\u2014even more than solving\u2014interesting problems.\n\nIf we ever meet in person, ask me to do a magic trick for you.",
+            "department": "",
+            "fullName": "Luigi Anzivino",
+            "id": "3260930",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/25/d51ea0ceb311e594afeb50533717ec/Luigi-cartoon-avatar-2.jpg",
+            "title": "Scientific Content Developer"
+        },
+        {
+            "bio": "\u0410\u0440\u0442\u0451\u043c \u0416\u043c\u0443\u0440\u043e\u0432 \u043e\u043a\u043e\u043d\u0447\u0438\u043b \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0445 \u0444\u0438\u0437\u0438\u043a\u043e-\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442 (\u041c\u0424\u0422\u0418) \u0432 2007 \u0433\u043e\u0434\u0443. \u0412 2011 \u043e\u043d \u0437\u0430\u0449\u0438\u0442\u0438\u043b \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442\u0441\u043a\u0443\u044e \u0434\u0438\u0441\u0441\u0435\u0440\u0442\u0430\u0446\u0438\u044e \"\u041c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u0431\u0438\u043e\u043c\u043e\u043b\u0435\u043a\u0443\u043b \u0438 \u0431\u0438\u043e\u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u043e\u0432\" \u0432 \u041c\u0424\u0422\u0418. \u041e\u0431\u043b\u0430\u0441\u0442\u044c \u0435\u0433\u043e \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432 - \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435, \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430\u0445, \u0431\u0438\u043e\u0444\u0438\u0437\u0438\u043a\u0430. \u0410\u0440\u0442\u0451\u043c \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0451\u0442 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0443 \u0438 \u043a\u0443\u0440\u0441 \u043f\u043e \u043c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u043e\u043c\u0443 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u043d\u0430 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430\u0445 \u0432 \u041c\u0424\u0422\u0418.<br>",
+            "department": "Division of Computational Mathematics",
+            "fullName": "",
+            "id": "5025864",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a3/2744b482b0ac86aceee48375495a79/zhmurov_large.JPG",
+            "title": "Research/Teaching Assotiate"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4368217",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "12628588",
+            "title": ""
+        },
+        {
+            "bio": "El Dr. Marco Antonio Serrato Garc\u00eda es Ingeniero Industrial y de Sistemas, por el Tecnol\u00f3gico de Monterrey, Campus Toluca. Curs\u00f3 Maestr\u00eda en Ciencias con especialidad en Sistemas de Calidad y Productividad por el Tecnol\u00f3gico de Monterrey, Campus Toluca.\n\nCuenta adem\u00e1s, con un Doctorado en Ingenier\u00eda Industrial por el Tecnol\u00f3gico de Monterrey, Campus Toluca.\n",
+            "department": "Rector\u00eda Tecnol\u00f3gico de Monterrey",
+            "fullName": "Dr. Marco Antonio Serrato Garc\u00eda",
+            "id": "3797127",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/db/404b204da311e59c90d5d1f3c33638/Marco_Antonio_Serrato.jpg",
+            "title": "Profesor Titular"
+        },
+        {
+            "bio": "John is a Lecturer in the Centre for Integrative Physiology at the University of Edinburgh. He specialises in the neurobiology of appetite and reward, studying how brain systems related to appetite are influenced by food, obesity and stress. John has&nbsp;many years of experience in undergraduate and postgraduate teaching and has a strong interest in&nbsp;innovative&nbsp;approaches to learning.",
+            "department": "Centre for Integrative Physiology",
+            "fullName": "",
+            "id": "741156",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7f/b84c40c3e111e4827da55e953606f1/JM-coursera-photo.jpg",
+            "title": "Dr"
+        },
+        {
+            "bio": "<p><span lang=\"EN-US\">Magnus Schmauch is&nbsp;associate professor at the university of \nUme\u00e5, Sweden. He is Of Counsel with the law firm \u00d6berg &amp; Associ\u00e9s AB, \nStockholm, Sweden.</span></p>\n<p><span lang=\"EN-US\">His work is mainly focused on State aid law and general EU \nlaw. Before, he was at the Court of Appeals for Northern \nNorrland.</span></p>\n<p><span lang=\"EN-US\">Magnus Schmauch worked for&nbsp;several years at the European \nCourt of Justice and the EFTA Court in&nbsp;Luxembourg. He&nbsp;has a PhD in law from the \nUniversity of St. Gallen, Switzerland,&nbsp;with a doctoral&nbsp;thesis on&nbsp;State aid to \nairlines. He&nbsp;also&nbsp;has an LLM from Lund University,&nbsp;specializing&nbsp;in banking \nlaw,&nbsp;and a bachelor\u2019s degree in political science.</span></p>",
+            "department": "Faculty of Law",
+            "fullName": "Magnus Schmauch",
+            "id": "7913278",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7e/a39e403ca511e496b365a3078ea962/IMG_0095.jpg",
+            "title": "Lecturer"
+        },
+        {
+            "bio": "Dr. Robert Lessick is a graduate of the Massachusetts\nInstitute of Technology in Life Sciences.&nbsp;\nAfter finishing at MIT, he took a position in the lab of Dr. Victor\nAmbros, then at Harvard University, where he studied on the developmental\ngenetics of the roundworm, <i>Caenorhabditis\nelegans</i>. A discovery made in that lab a few years later opened the door to\nthe discovery of RNA interference. Craig Mello, a graduate student in that lab,\neventually won a Nobel Prize for that discovery.<br><br>After leaving Harvard, Bob enrolled in the Ph.D. program at\nJohns Hopkins where he studied protein stability in hyperthermophilic organisms\nwith both Nobel laureate Christian Anfinsen, and later with Evangelos\nMoudrianakis, the 2009 recipient of the Bodossaki Aristeio, or the \u201cGreek Nobel\nPrize.\u201d After Hopkins, he worked for Cambridge Scientific Abstracts, where he\nhelped maintain scientific literature databases in microbiology and virology.\nSince 2001, he has been teaching in the Hopkins Krieger School of Arts and\nSciences in both the Master of Science in Biotechnology and Master of Science\nin Bioinformatics programs. He left CSA in 2004 to accept a full-time position\nat Hopkins.<br><br>Dr. Lessick has been teaching full time with\n the Johns Hopkins Center for Biotechnology Education since January 2004 and has been \nteaching courses in molecular biology, biostatistics, bioinformatics and genomics at Johns Hopkins dating back to 2001.\n\n<br><br><br>",
+            "department": "Center for Biotechnology Education",
+            "fullName": "",
+            "id": "5652307",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/70/a343c0ca4c11e393afb33ba35c9cc7/bob_profile.jpg",
+            "title": "Associate Director. Senior Lecturer"
+        },
+        {
+            "bio": "<a href=\"http://werbach.com/\" target=\"_blank\">Kevin Werbach</a>&nbsp;is a leading expert on the legal, business, and public policy aspects of the Network Age. He is an Associate Professor of Legal Studies at The Wharton School, University of Pennsylvania, and the founder of Supernova Group, a technology consulting firm. On Coursera, he is the creator and instructor of the <a href=\"https://www.coursera.org/course/gamification\" target=\"_blank\">Gamification</a> MOOC.<br><br>Werbach was a member of the Obama Administration's Presidential Transition Team, and served as an expert advisor to the U.S. Federal Communications Commission and the National Telecommunications and Information Administration. For nine years he organized Supernova, a leading executive technology conference. Werbach was previously the Editor of Release 1.0: Esther Dyson's Monthly Report, and served as Counsel for New Technology Policy at the FCC during the Clinton Administration, where he helped develop the U.S. Government's Internet and e-commerce policies.&nbsp;<br><br>A leader in the emerging field of gamification, Werbach was named Wharton\u2019s first Iron Prof for his presentation, \u201cAll I Really Needed to Know I Learned in World of Warcraft.\u201d The co-organizer of the first-ever business school gamification course, Werbach is also the co-author (with Dan Hunter) of&nbsp;<a href=\"http://wdp.wharton.upenn.edu/books/for-the-win/?utm_source=Coursera4&amp;utm_medium=website&amp;utm_campaign=forthewin\" target=\"_blank\">For the Win: How Game Thinking Can Revolutionize Your Business</a>, a guide to gamification as a business practice. <br><br>Follow him on Twitter&nbsp;at <a href=\"http://twitter.com/kwerb\" target=\"_blank\">@kwerb</a>.<br>",
+            "department": "Legal Studies & Business Ethics",
+            "fullName": "",
+            "id": "226710",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c9/259c1b5ea9553b1db32690a2dc8544/instructor-1-6.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Myo Min Thein",
+            "id": "13369623",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/45/29cc200a4011e59276bb4c2e63e572/Screen-Shot-2015-06-03-at-3.30.59-PM.jpg",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "219966",
+            "title": ""
+        },
+        {
+            "bio": "Professor Emerita of Anthropology, California State University, E.B., Hayward, California.\n<br>\n<br>\n<div>Prof. Li has an M.A. degree (1955) Anthropology of Music, Northwestern University Evanston, Illinois; a Ph.D. degree in Anthropology University of California, Berkeley (1974); a Professor of Anthropology and East Asian Studies at California State University, East Bay, Hayward, California,1973-2003; and she is a visiting professor University of California, Berkeley 2006 & 2008. She has done extensive research in social-cultural Anthropology,and translations in Kunqu musical drama. Most recent publication is an article \u201cFrom Page to Stage: Exploring Some Mysteries of Kunqu Music and Its Melodic Characteristics in CHINOPERL, Journal of Chinese Oral and Performing Literature, 2013\".\n    <br>\n    <br>\n    <div>\u674e\u6797\u5fb7\u6559\u6388\u662f\u52a0\u5dde\u5dde\u7acb\u5927\u5b78\u6771\u7063\u6d77\u6c83\u5206\u6821 \u4eba\u985e\u5b78\u7cfb\u69ae\u4f11\u6559\u6388\uff0c\u7f8e\u570b\u897f\u5317\u5927\u5b78 \u97f3\u6a02\u4eba\u985e\u5b78\u78a9\u58eb\uff081955\uff09\uff0c\u52a0\u5dde\u5927\u5b78\u67cf\u514b\u840a\u5206\u6821 \u4eba\u985e\u5b78\u535a\u58eb\uff081974\uff09\u3002\u6b77\u4efb\u52a0\u5dde\u5dde\u7acb\u5927\u5b78\u6771\u7063\u6d77\u6c83\u5206\u6821 \u4eba\u985e\u5b78\u53ca\u6771\u4e9e\u7814\u7a76\u5b78\u7cfb\u6559\u6388\uff081973-2003\uff09\uff0c\u4ee5\u53ca\u52a0\u5dde\u5927\u5b78\u67cf\u514b\u840a\u5206\u6821 \u8a2a\u554f\u6559\u6388\uff082006 & 2008\uff09\u3002\u674e\u535a\u58eb\u6b77\u5e74\u4f86\u5f9e\u4e8b\u591a\u9805\u6709\u95dc\u793e\u6703\u6587\u5316\u4eba\u985e\u5b78\u7684\u7814\u7a76\uff0c \u4ee5\u53ca\u5d11\u66f2\u5287\u4f5c\u7684\u7ffb\u8b6f\u3002\u8fd1\u671f\u8457\u4f5c\u5305\u62ec\u520a\u767b\u57282013 CHINOPERL\uff08\u4e2d\u570b\u6f14\u5531\u6587\u85dd\u5b78\u6703\u671f\u520a\uff09\u7684\u5d11\u66f2\u97f3\u6a02\u8ad6\u6587 \u201cFrom Page to Stage: Exploring Some Mysteries of Kunqu Music and Its Melodic Characteristics\u201d\u3002\n        <br>\n    </div>\n</div>",
+            "department": "Anthropology",
+            "fullName": "Prof. Lindy Li Mark \u674e\u6797\u5fb7",
+            "id": "5271925",
+            "title": "Professor Emerita"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "477300",
+            "title": ""
+        },
+        {
+            "bio": "Thomas Houy is an Associate Professor in Management Science at T\u00e9l\u00e9com ParisTech, where he teaches business strategy and entrepreneurship. His research investigates some generally accepted ideas surrounding digital start-ups. His books and articles offer results that are directly applicable by the entrepreneur community. He teaches at Paris-Dauphine University and at the \u00c9cole Nationale de la Statistique et de l\u2019Administration \u00c9conomique (ENSAE). He has founded several businesses and now offers coaching and mentoring to start-ups.",
+            "department": "Management Science ",
+            "fullName": "Thomas Houy",
+            "id": "15203984",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/71/0435e0636b11e5bcd08ba95d866416/ImageThomasHouy.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "Vikas Choudhry is a medical doctor with a degree in public health from India. His research has been in the area of sexual and reproductive health and rights among young people. His PhD research concentrated on transactional sex, sexual coercion and sexual behaviours among young people in Uganda. He is involved with teaching sexual and reproductive health and rights course in master's program in public health along with global health for medical students at Lund University.&nbsp;He is also been involved as a trainer with National Training Program for youth friendly health services in India and ongoing International Training Program for sexual and reproductive health and rights in Asia and Africa.",
+            "department": "Faculty of Medicine",
+            "fullName": "",
+            "id": "12465431",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5f/c4d330ea5211e4a4a3a553875b0d4a/Vikas-coursera---version-2.jpeg",
+            "title": "Associate Researcher"
+        },
+        {
+            "bio": "Dr. Wong, a Lecturer of Computer Science at Rice University, is an \nexperienced computer scientist, physicist and educator specializing in \nobject-oriented programming, software engineering and computer science \npedagogy. &nbsp; A Howard Hughes Ph.D. Fellow, he received his Ph.D. in \nexperimental solid state physics from M.I.T. in 1988 and worked at Bell \nLabs and Hughes Research Labs before entering academia. &nbsp; He has \npublished numerous papers and run many seminars on design patterns and \nC.S. pedagogy. &nbsp; He has designed and taught innovative introductory \n\u201cobjects-first\u201d courses leveraging the power of interactivity to teach \nfundamental C.S. concepts and skills. His research includes the use of \ndesign patterns in redesigning traditional algorithms, serious gaming \nsystems, enterprise-class information management systems and \nlarge-scale, high-fidelity simulation systems.&nbsp;",
+            "department": "Department of Computer Science",
+            "fullName": "",
+            "id": "2666903",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/76/6154fb5746d99ae03b089d19d22fac/SWong.jpg",
+            "title": "Lecturer"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "13729929",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "963987",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Lionel Coulot",
+            "id": "2547437",
+            "title": ""
+        },
+        {
+            "bio": "<p>Obtuvo su t\u00edtulo profesional de licenciatura en Inform\u00e1tica por el Instituto Tecnol\u00f3gico de Culiac\u00e1n con \u00e1rea de concentraci\u00f3n en Administraci\u00f3n de Redes de Informaci\u00f3n y Computadoras (LINF 1998). Es graduado de la Maestr\u00eda en Administraci\u00f3n de Tecnolog\u00edas de Informaci\u00f3n (MTI 2000), y de la Maestr\u00eda en Ciencias de la Informaci\u00f3n y Administraci\u00f3n del Conocimiento (MIK 2009) por el Tecnol\u00f3gico de Monterrey.&nbsp;</p><p><br></p><p>Se desempe\u00f1a como asesor en innovaci\u00f3n y tecnolog\u00edas sostenibles con amplia experiencia en la ideaci\u00f3n e integraci\u00f3n de soluciones, implementaci\u00f3n y evaluaci\u00f3n de estrategias de tecnolog\u00edas de informaci\u00f3n en educaci\u00f3n. Participa en la Comunidad Iberoamericana de Sistemas de Conocimiento auspiciada por el Centro de Sistemas del Conocimiento del Tecnol\u00f3gico de Monterrey, A.C., en la Red Abierta de Bibliotecas Digitales (RABiD) en la Corporaci\u00f3n de Universidades para el Desarrollo de Internet en M\u00e9xico (CUDI), y es Coordinador de la Comunidad Latinoamericana Abierta Regional de Investigaci\u00f3n Social y Educativa (CLARISE) auspiciada por ALICE2 y RedCLARA.</p><p><br></p><p>Ha participado en proyectos con impacto internacional, nacional e institucional como REMERI (Red Mexicana de Repositorios Institucionales) auspiciada por CUDI y CONACYT (<a href=\"http://www.remeri.org.mx)\">www.remeri.org.mx)</a>. OPORTUNIDAD (<a href=\"http://www.oportunidadproject.eu\">www.oportunidadproject.eu</a>) iniciativa auspiciada por el programa de cooperaci\u00f3n entre instituciones de educaci\u00f3n superior de la Uni\u00f3n Europea y Am\u00e9rica Latina (ALFA III). Entre otros proyectos auspiciados por CONACYT como EDUCONECTOR (<a href=\"http://www.educonector.info\" title=\"Link: http://www.educonector.info\">www.educonector.info</a>) y el primer MOOC de Am\u00e9rica Latina en el 2013 a trav\u00e9s del SINED (Sistema Nacional de Educaci\u00f3n a Distancia en M\u00e9xico) con impacto en Am\u00e9rica Latina (<a href=\"http://www.sined-clarise.org)\" title=\"Link: http://www.sined-clarise.org)\">www.sined-clarise.org)</a>; con participaci\u00f3n en COURSERA a trav\u00e9s del Tecnol\u00f3gico de Monterrey (<a href=\"http://www.coursera.org/course/innovacionrea\" title=\"Link: http://www.coursera.org/course/innovacionrea\">www.coursera.org/course/innovacionrea</a>) con la impartici\u00f3n de un curso masivo y a distancia en el 2013 con 20,400 participantes de 50 pa\u00edses.</p><p><br></p><p>Autor de libros de especialidad en tecnolog\u00eda educativa e innovaci\u00f3n con Editorial TRILLAS (2010) y Editorial LIMUSA (2007), as\u00ed como coeditor de libros en modalidad de compendios y autor de diversos cap\u00edtulos de libro (2010, 2011, 2013) y art\u00edculos de investigaci\u00f3n en innovaci\u00f3n educativa.</p>",
+            "department": "",
+            "fullName": "",
+            "id": "2645262",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/84/88351dff614b20b0345f3f54988489/jvladimir.png",
+            "title": "Asesor de Innovaci\u00f3n y Tecnolog\u00eda Educativa"
+        },
+        {
+            "bio": "",
+            "department": "Department of Entomology",
+            "fullName": "James Carey",
+            "id": "11361137",
+            "title": "Distinguished Professor "
+        },
+        {
+            "bio": "&nbsp;",
+            "department": "iDesign",
+            "fullName": "",
+            "id": "586739",
+            "title": "Instructional Designer"
+        },
+        {
+            "bio": "Dr. Wong, a Lecturer of Computer Science at Rice University, is an experienced\ncomputer scientist, physicist and educator specializing in object-oriented\nprogramming, software engineering and computer science pedagogy. A Howard\nHughes Ph.D. Fellow, he received his Ph.D. in experimental solid state\nphysics from M.I.T. in 1988 and worked at Bell Labs and Hughes Research\nLabs before entering academia. He has published numerous papers and run\nmany seminars on design patterns and C.S. pedagogy. He has designed and\ntaught innovative introductory \u201cobjects-first\u201d courses leveraging the power\nof interactivity to teach fundamental C.S. concepts and skills. He pioneered\na cutting-edge experientially-driven, discovery-learning process software\nengineering course where highly realistic software engineering situations\nthat require solutions using state-of-the-art design, information management\nand project management skills. His research includes the use design patterns\nin redesigning traditional algorithms, serious gaming systems, enterprise-class\ninformation management systems and large-scale, high-fidelity simulation\nsystems.",
+            "department": "Computer Science",
+            "fullName": "",
+            "id": "695900",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/97/864a172e6a3a7b95b7cebdc73aa794/SWong_cropped.jpg",
+            "title": "Lecturer"
+        },
+        {
+            "bio": "Maxim Sytch is an Associate Professor and a Michael R. and Mary Kay Hallman Fellow in the Department of Management and Organizations, Stephen M. Ross School of Business, University of Michigan. Previously, he was a lecturer in the Department of Management and Organizations, Kellogg School of Management, Northwestern University.\n \nSelected as one the 40 Best Business Professors under 40 in the World by Poets & Quants in 2014, Maxim Sytch is an expert on leadership and organizational issues within firms. His recent research focuses on how networks of collaboration and conflict within and between firms affect individual and firm outcomes. He examines how firms can effectively manage and leverage connectivity within and across organizational boundaries to enhance performance. This research has been published in leading journals such as Academy of Management Journal, Administrative Science Quarterly, California Law Review, California Management Review, Managerial and Decision Economics, Organization Science, Sloan Management Review, and The Wall Street Journal. His work has also been covered by AsiaOne.com, BusinessWeek, The Brunei Times, Harvard Business Review Online, Phys.org, Reuters, and Yahoo News.  In 2010, his study examining dynamics of influence in patent infringement litigation won the Best Paper Award from the Organization and Management Theory Division of the Academy of Management. In 2012, another study, which examined the relationship between network communities and firms\u2019 invention productivity, was a finalist for the Best Paper Award at the Israel Strategy Conference.\n \nIn 2009\u20132010, Maxim Sytch moderated an online Leadership Seminar in collaboration with the Washington Post. He is a member of the Academy of Management, the American Sociological Association, and the Strategic Management Society and serves on the Editorial Boards of Academy of Management Journal, Administrative Science Quarterly, Organization Science, and Strategic Management Journal. He won the Outstanding Reviewer Awards from the Academy of Management Journal and Organization Science in 2014 and 2015, respectively.\n \nIn 2014, Maxim Sytch won the Ross Executive Education Teaching Impact Award for open enrollment programs. He also advises and speaks to corporations worldwide. Some of his recent engagements include clients such as Bank of America, Bank Mandiri, Banque Saudi Fransi, Bosch, Chicago Public Schools, Chrysler-Fiat, Grainger, ICBC, Masco, Morgan Stanley, NextGen, Novartis, Oracle, Ronald McDonald House Charities, Schneider Electric, and TRW.\n \nPrior to entering academia, Maxim Sytch worked in the financial sector for Merrill Lynch and the Central Bank of the Russian Federation. He holds a Ph.D. from the Kellogg School of Management, Northwestern University.",
+            "department": "Management and Organizations, Ross School of Business",
+            "fullName": "Maxim Sytch, Ph.D.",
+            "id": "8072182",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/90/5247d0502d11e58ddc8ff4d6e0523a/SytchMaxim-3_Square.jpg",
+            "title": "Associate Professor of Management and Organizations Michael R. and Mary Kay Hallman Fellow"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "8560809",
+            "title": ""
+        },
+        {
+            "bio": "<p><span>John Holbo\nis an Associate Professor of Philosophy at the National University of Singapore\n(NUS), with a Ph.D. in Philosophy from the University of California, Berkeley,\nwhere he dissertated on Wittgenstein's <i>Tractatus Logico-Philosophicus.</i></span></p>\n\n<p>\u00a0<span>With his wife, Belle\nWaring, he is the author of <i>Reason and Persuasion: Three Dialogues By Plato</i>\n(Pearson: 2010). He is currently working on projects in aesthetics\n(pictoriality and literature) and political philosophy (liberalism and\nconservatism). He learned to draw (badly!) so he could make better PowerPoint\npresentations about Plato. As an indirect result, he is the author of <i>Squid\n& Owl </i>(Comixology, 2013), if you are curious.</span><br></p><br><br>",
+            "department": "DEPARTMENT of PHILOSOPHY",
+            "fullName": "",
+            "id": "268127",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d3/0e51907c6c11e3a4b4f30bc42cfff4/bigholboavatar.png",
+            "title": ""
+        },
+        {
+            "bio": "<strong>Education</strong><br><ul><li>BA, Augustana College<br></li><li>MS, Stanford University</li><li>PhD, University of Iowa</li></ul><strong>Interests</strong><br><ul><li>Igneous petrology</li><li>History of geology</li><li>Teaching methods for geoscience</li><li>Online education</li></ul>",
+            "department": "Geology",
+            "fullName": "",
+            "id": "902661",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5a/91eee0976211e49b6259cb03491ddf/Eileen-600.jpg",
+            "title": "Lecturer"
+        },
+        {
+            "bio": "Mario Capizzani is a Marketing Professor at IESE Business School. He teaches in the Executive Education programs, MBA, Global Executive MBA and is academic director of International In-Company programs. He joined IESE Business School in 2002 and since then has combined his academic life with consulting activities for several companies in diverse industries including FMCG, retail and e-commerce.\n\nProf. Capizzani\u2019s main applied line of research focuses on e-commerce and digital business models as well as customer management and loyalty programs. His doctoral dissertation examined pricing and auction mechanisms. Behavioral and experimental economics with application to pricing, marketing strategy, and customer management are among his main academic interests. IESE Insight, Harvard-Deusto and Forbes Magazine are just a few of the journals that have featured his academic research and business cases.\n\nHe holds a Ph.D. in business administration with specialization in marketing from the University of California at Berkeley, an MBA from IESE Business School, a Master of Science Degree in mechanical and aerospace engineering from Arizona State University and a B.Sc. in mechanical engineering from Calvin College in the U.S.  Before joining IESE Business School he was a consultant at McKinsey & Company, a senior marketing analyst in the telecom industry and an engineer in the automotive industry.\n",
+            "department": "Marketing",
+            "fullName": "Mario Capizzani",
+            "id": "15919394",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/83/0d54108d5a11e5949c258ec6702a88/MC.jpg",
+            "title": "Lecturer"
+        },
+        {
+            "bio": "Bio goes here.<br>",
+            "department": "",
+            "fullName": "",
+            "id": "2563817",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4319448",
+            "title": ""
+        },
+        {
+            "bio": "<span>Sharon E. Rush is the Associate Dean for Faculty\nDevelopment and the Irving Cypen Professor of Law at the University of Florida\nLevin College of Law, where she also is Co-Founder of the Center for the Study\nof Race and Race Relations and an Associate Director of the Center on Children\nand Families. She received her B.A. and J.D. <i>cum laude </i>from Cornell\nUniversity. She practiced with the Wall Street firm of Cadwalader, Wickersham\nand Taft in their Washington, D.C. office before starting her teaching career\nat DePaul University in Chicago. She joined the University of Florida faculty\nin 1985 and teaches Constitutional Law, Federal Courts, and seminars on the\nSupreme Court. Her research focuses on issues about education and equality.</span>",
+            "department": "Levin College of Law",
+            "fullName": "",
+            "id": "3858506",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ba/b23f5089d511e38b567d6aae2e5768/Rush_Sharon_Headshot_0018-edit.jpg",
+            "title": "Associate Dean"
+        },
+        {
+            "bio": "Ghislain Waterlot a r\u00e9alis\u00e9 ses \u00e9tudes de philosophie \u00e0 l'Universit\u00e9 de Lille (France). Agr\u00e9g\u00e9, docteur en philosophie et habilit\u00e9 \u00e0 diriger des recherches (HDR) depuis 2010, il a \u00e9t\u00e9 assistant \u00e0 l'Universit\u00e9 de Lille (1990-1993), boursier de la Fondation Thiers (Paris), puis ma\u00eetre de conf\u00e9rences \u00e0 l'IUFM de Grenoble (1998-2005). Il a donn\u00e9 de nombreux enseignements dans les Universit\u00e9s de Lyon, de Savoie, ainsi qu'\u00e0 l'ENS Lyon. Il enseigne \u00e0 l'Universit\u00e9 de Gen\u00e8ve depuis 2005.&nbsp;<br><span>Dans le cadre de ses recherches, il s'est d'abord sp\u00e9cialis\u00e9 en philosophie morale et politique. Il a dirig\u00e9 durant 7 ans un s\u00e9minaire de recherche sur la tol\u00e9rance dans le cadre du laboratoire CERPHI (CNRS) et il a publi\u00e9 de nombreux articles sur la question th\u00e9ologico-politique. Puis il s'est tourn\u00e9 vers l'\u00e9tude de la pens\u00e9e religieuse de Rousseau et vers la pens\u00e9e de Bergson. Sur ces deux auteurs, il a \u00e9crit plusieurs ouvrages.&nbsp;</span><br><span>Depuis 8 ans, il travaille sur la question de l'exp\u00e9rience religieuse et mystique. Il \u00e9tudie la mystique en tant que telle et dans sa relation au corps social. Il est responsable, dans le cadre de l'Institut Romand de Syst\u00e9matique et d'Ethique (IRSE), d'un s\u00e9minaire international intitul\u00e9 :&nbsp;</span><a href=\"https://www.unige.ch/theologie/irse/mystique/\" target=\"_blank\">Mystique et Figures mystiques</a><span>.&nbsp;</span><br>",
+            "department": "",
+            "fullName": "",
+            "id": "5210189",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5d/b61c10093511e48c7a5974104638c9/Waterlot_600x600.jpg",
+            "title": "Professeur d'\u00e9thique et de philosophie"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4198877",
+            "title": ""
+        },
+        {
+            "bio": "<p>happy</p>",
+            "department": "",
+            "fullName": "",
+            "id": "9096738",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/45/9829503a4211e48312032de2590ad6/100_7522.JPG",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Tamara Powell is the Director of the Kennesaw State University (KSU) College of Humanities and Social Sciences Office of Distance Learning. She is also an associate professor of English at KSU where she teaches technical communication, interdisciplinary research methods, and American literature. From 2004-2009 she was the Coordinator of the Electronic Graduate Certificate in Technical Writing and Communication, or ecert program, at Louisiana Tech University, the fourth such program in the United States in 2004. The ecert program was created from a grant that Dr. Powell wrote. She designed the program, trained the involved faculty to teach online, and directed the program until leaving for her current position at KSU. At KSU, her office has gained national and international recognition for its faculty development program, \"Build a Web Course Workshop\" which teaches faculty how to create and teach excellent online courses built to Quality Matters standards.  Recent publications include \u201cIncreasing Student Engagement and Assessing the Value of an Online Collaboration Tool: The Case of VoiceThread\" with Dr. Solomon Negash in Journal of Interactive Teaching and Pedagogy (http://jitp.commons.gc.cuny.edu/increasing-student-engagement-and-assessing-the-value-of-an-online-collaboration-tool-the-case-of-voicethread/) and \u201cFaculty Perceptions of \u2018The Project\u2019: An Advanced Faculty Professional Development for Online Course Building\u201d with Vanessa Slinger-Friedman, Joe Terantino, Griselda Thomas, Chris Randall, and Philip Aust. http://www.thinkmind.org/index.php?view=article&articleid=elml_2014_3_40_50059\n",
+            "department": "College of Humanities and Social Sciences/English",
+            "fullName": "Tamara Michele Powell",
+            "id": "16676446",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f9/e66c40b64311e5b607ef9a9bc922bd/pic.powell.june.jpg",
+            "title": "Director, College of Humanities and Social Sciences Office of Distance Education"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9155814",
+            "title": ""
+        },
+        {
+            "bio": "<p>Karen Head is an assistant professor in the&nbsp;<a href=\"http://www.lmc.gatech.edu/\" target=\"_blank\" title=\"Link: http://www.lmc.gatech.edu/\">School of Literature,\n    Media, and Communication</a> and Director of the Writing and Communication\n    Program\u2019s Institute-wide <a href=\"http://www.communicationcenter.gatech.edu/\" target=\"_blank\" title=\"Link: http://www.communicationcenter.gatech.edu/\">Communication Center</a>.</p>\n<p>&nbsp;<b><i>Scholarship</i></b>: She has published three books of poetry\n    and exhibited acclaimed digital poetry projects. Her research focuses on\n    communication theory and pedagogical practice, especially the implementation\n    and development of writing centers, writing program administration, and\n    multidisciplinary communication. Since 2006, she has been a Visiting Scholar\n    at Technische Universit\u00e4t-Dortmund, Germany, where she spends time every\n    year. In 2012-13, she was awarded a Georgia Tech Fund for Innovation in\n    Research and Education Grant.</p>\n<p>&nbsp;<b><i>Teaching</i></b>: Head\u2019s classes center on analyzing, critiquing,\n    evaluating, and creating a variety of texts that demonstrate an understanding\n    of audience and adaptation of multimodal rhetorical strategies and tools.\n    Students and colleagues consistently rank her teaching as excellent. In\n    2011-12, she won the Class of 1934 Course Survey Teaching Effectiveness\n    Award. In 2012-13, she won Georgia Tech\u2019s BP/CETL Junior Faculty Teaching\n    Award.</p>",
+            "department": "Literature, Media, and Communication",
+            "fullName": "",
+            "id": "3011727",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/05/dfab2245196d9d2d865559babadc69/karen_head.jpeg",
+            "title": "Assistant Professor"
+        },
+        {
+            "bio": "<p dir=\"LTR\">Oded Lipschits was born in 1963 and he is a professor for Jewish history\nin the Department of Archaeology and Ancient Near Eastern Cultures. Oded also\nserves as the Director of the Institute of Archaeology of Tel Aviv University,\nthe director of the Lautenschl\u00e4ger Azekah Expedition, and the head of <a href=\"http://bit.ly/odedprofile\" target=\"_blank\">the\ninternational program in Ancient Israel Studies: Archaeology and History of the\nLand of the Bible</a>.</p><p>His Ph.D. dissertation dealt with the\nProvince of Judah in the sixth century BCE (The Babylonian Period), analyzing\nthe archaeological data and the Biblical narratives in order to reconstruct the\nhistorical reality of that era. The second project lead by Prof. Lipschits is\nthe administrative system of Judah during the eighth to second centuries BCE,\ncentered along the excavations at Ramat Rahel (in the area of Jerusalem), where\nthe cooperated Tel-Aviv and Heidelberg University project unearthed a\nmonumental administrative center. Nowadays, Prof. Lipschits is leading several\nresearch projects dealing with the Judean Lowland, surrounding the ongoing\nproject at Tel Azekah. These projects and more were published in numerous books\nand papers.<br></p>\n\n<p>Oded lives with his wife Yael and their four (!) children\nin the beautiful Galilee in northern Israel. In many respects, he is the\n\"father\" of many M.A. and Ph.D. students, who worked at Ramat Rahel\nand who are now involved with the Azekah project.</p>",
+            "department": "Jacob M. Alkow Department of Archaeology and Near Eastern Cultures",
+            "fullName": "",
+            "id": "3287070",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ed/a58b66745c9502e888ac1ac6c703f2/Odedfoesite.jpg",
+            "title": "Director, Sonia and Marco Nadler Institute of Archaeology"
+        },
+        {
+            "bio": "Introduction Bio<br><br><br>",
+            "department": "Partnerships Team",
+            "fullName": "",
+            "id": "4806980",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/56/ecc7c6cd5a21ef15b2e8214ccbd8fd/Screen-Shot-2013-10-03-at-2.00.40-PM.png",
+            "title": "Partnership Manager"
+        },
+        {
+            "bio": "John Greiner has been teaching Computer Science at Rice University since 1997. While focusing on introductory computer science, he has also taught many algorithms, theory, and systems courses. He is active in curricular development and policy as well as outreach to high school students. John earned a Ph.D. from Carnegie Mellon University and a B.A. from Rice University.&nbsp;",
+            "department": "Department of Computer Science ",
+            "fullName": "",
+            "id": "5961585",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d9/51de00773511e3b7fcebc16fe9e1ec/John-Greiner.jpg",
+            "title": "Lecturer"
+        },
+        {
+            "bio": "\u590d\u65e6\u5927\u5b66\u827a\u672f\u6559\u80b2\u4e2d\u5fc3\u6559\u5e08\u3001\u72ec\u7acb\u5bfc\u6f14\n1982\u5e74\u51fa\u751f\u4e8e\u6d59\u6c5f\u7701\u3002\u4e2d\u56fd\u4f20\u5a92\u5927\u5b66\u6570\u5b57\u5a92\u4f53\u827a\u672f\u4e13\u4e1a\u672c\u79d1\u3001\u7855\u58eb\u7814\u7a76\u751f\u3002\u540e\u83b7\u97e9\u56fd\u653f\u5e9c\u5168\u989d\u5956\u5b66\u91d1\u81f3\u97e9\u56fd\u56fd\u7acb\u827a\u672f\u5927\u5b66\u5f71\u50cf\u9662\u5b66\u4e60\u5f71\u50cf\uff0c\u5e76\u83b7\u591a\u5a92\u4f53\u5f71\u50cf\u4e13\u4e1a\u7855\u58eb\u5b66\u4f4d\u3002\u5728\u9996\u5c14\u671f\u95f4\uff0c\u4ee5\u5bfc\u6f14\u3001\u526a\u8f91\u5e08\u3001\u526f\u5bfc\u6f14\u8eab\u4efd\u5de5\u4f5c\u5e76\u6301\u7eed\u8fdb\u884c\u5fae\u7535\u5f71\u521b\u4f5c\u3002\u73b0\u4ee5\u6559\u5e08\u3001\u5bfc\u6f14\u8eab\u4efd\u5b9a\u5c45\u4e0a\u6d77\u3002\n\u4e13\u6ce8\u4e8e\u5fae\u7535\u5f71\u521b\u4f5c\u7814\u7a76\u4e0e\u63a2\u7d22\uff0c\u5c06\u4e2a\u6027\u5316\u7684\u54f2\u5b66\u601d\u8003\u878d\u5165\u5f71\u50cf\u521b\u4f5c,\u501f\u52a9\u4e30\u5bcc\u7684\u6570\u5b57\u5f71\u50cf\u624b\u6bb5\u8425\u9020\u8d85\u73b0\u5b9e\u7684\u827a\u672f\u7a7a\u95f4\u4e0e\u60c5\u8282\u3001\u60f3\u50cf,\u5f71\u50cf\u98ce\u683c\u7ec6\u817b\u3001\u6001\u5ea6\u51b7\u9759,\u5173\u6ce8\u4f20\u627f\u4e0e\u65ad\u88c2\u3001\u751f\u547d\u4e2a\u4f53\u4e0e\u5b87\u5b99\u65f6\u7a7a\u7b49\u54f2\u5b66\u547d\u9898,\u8bd5\u56fe\u5bf9\u62bd\u8c61\u6982\u5ff5\u5b9e\u73b0\u89c6\u89c9\u5316\u827a\u672f\u8868\u8fbe,\u5c55\u73b0\u6d53\u90c1\u7684\u4eba\u6587\u60c5\u6000\u4e0e\u72ec\u7279\u7684\u751f\u547d\u3001\u65f6\u7a7a\u4f53\u9a8c\u3002\n\n\u4ee3\u8868\u4f5c\u54c1\n\u8bbf\u8c08\u53d9\u4e8b\u5fae\u7535\u5f71\u4f5c\u54c1\u300a\u65e7\u7231\u300b\u4e0a\u6d77 2015\u5e74 \u7247\u957f:5\u520610\u79d2 \n\u5fae\u7535\u5f71\u300a\u6f14\u5458\u300b\u4e0a\u6d77 2015\u5e74 \u7247\u957f:6\u520635\u79d2\n\u590d\u65e6\u5927\u5b66\u7ecf\u6d4e\u5b66\u96622015\u5e74\u5ea6\u5b98\u65b9\u5ba3\u4f20\u7247\u300a\u68a6\u60f3&\u5bb6\u56ed\u300b\u4e0a\u6d77 2015\u5e74 \u7247\u957f:8\u520610\u79d2\n\u57ce\u5e02\u516c\u76ca\u5fae\u7535\u5f71\u300a2015\u6211\u5bf9\u4e0a\u6d77\u8bf4\u300b \u4e0a\u6d77 2015\u5e74 \u7247\u957f:3\u520630\u79d2 \n\u57ce\u5e02\u516c\u76ca\u5fae\u7535\u5f71\u300a\u5bfb\u627e\u7231\u4e0a\u6d77\u7684\u7406\u7531\u300b\u4e0a\u6d77 2014\u5e74 \u7247\u957f:4\u520630\u79d2 \n\u7231\u60c5\u5fae\u7535\u5f71\u300a\u51dd\u56fa\u65f6\u95f4\u300b\u4e0a\u6d77 2015\u5e74 \u7247\u957f:1\u5206\u949f*3 \n\u5b9e\u9a8c\u7535\u5f71\u77ed\u7247\u300a\u8d2a\u604b\u7684\u8a79\u6653\u767d\u300b\u4e0a\u6d77 2014\u5e74 \u7247\u957f:5\u520630\u79d2 \nTVC\u89e3\u653e\u65e5\u62a5\u300a\u4e0a\u6d77\u89c2\u5bdf\u300bAPP 2014\u5e74 15\u79d2*3\n\u5b9e\u9a8c\u5f71\u50cf\u300aLink\u300b \u4e0a\u6d77 2011\u5e74 \u7247\u957f:6\u5206\u949f\n\u5b9e\u9a8c\u7535\u5f71\u77ed\u7247\u300aBe Touched\u300b\u4e0a\u6d77 2010\u5e74 \u7247\u957f:9\u520630\u79d2 \n\u5b9e\u9a8c\u7535\u5f71\u77ed\u7247\u300aBreak\u300b \u97e9\u56fd 2009\u5e74 \u7247\u957f:8\u5206\u949f\n\n\u5956\u9879\n2015\u5e74\uff0c\u4f5c\u54c1\u300a\u6f14\u5458\u300b\u83b748\u5c0f\u65f6\u56fd\u9645\u7535\u5f71\u8282\u4e0a\u6d77\u8d5b\u533a\u6700\u4f73\u7537\u6f14\u5458\u5956\u3001\u6700\u4f73\u89d2\u8272\u8bbe\u5b9a\u5956\n 2014\u5e74,\u4f5c\u54c1\u300aBe Touched\u300b\u3001\u300aBreak\u300b\u5165\u9009\u4e0a\u6d77\u56fd\u9645\u7535\u5f71\u8282\u624b\u673a\u7535\u5f71\u8282\u5c55\u6620\u5355\u5143 \n2012\u5e74,\u300aBreak\u300b\u7f8e\u56fd\u534e\u76db\u987f\u7535\u5f71\u8282\u6700\u4f73\u5b9e\u9a8c\u7247\u5165\u56f4\u5956 \n2012\u5e74,\u300aBe Touched\u300b\u7f8e\u56fd\u534e\u76db\u987f\u7535\u5f71\u8282\u5b9e\u9a8c\u7247\u7c7b\u6700\u4f73\u5973\u4e3b\u89d2\u5956",
+            "department": "\u827a\u672f\u6559\u80b2\u4e2d\u5fc3",
+            "fullName": "\u8bb8 \u8096\u6f47",
+            "id": "8054217",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/85/84bc10504d11e49719795e4a87ea7b/621672950.jpg",
+            "title": "\u8bb2\u5e08"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "20",
+            "title": ""
+        },
+        {
+            "bio": "<p>David Germano has taught and researched Tibetan and Buddhist\nStudies at the University of Virginia since 1992. UVa's Tibetan Studies programs\nis the largest in the Americas, while the Buddhist Studies program is one of\nthe largest in the West. In 2000, he founded the Tibetan and Himalayan Library (<a href=\"http://www.thlib.org\"><b>www.thlib.org</b></a>),\nwhich has become the world's largest digital initiative building collaborative\nknowledge on the region. He is the founding director of the Tibet Center\n(<a href=\"http://www.uvatibetcenter.org\"><b>www.uvatibetcenter.org</b></a>) in the\nCollege of Arts and Sciences, which is home to the largest series of academic\nexchange programs Tibetan areas, as well as the most extensive set of academic\noperations in the region. This includes four offices in China and Bhutan, and\nseventeen full-time staff on site. </p>\n\n<p>More recently, Germano acted as the founding director of &nbsp;SHANTI (Sciences, Humanities and the Arts Network\nof Technological Initiatives, <a href=\"http://www.uvashanti.org\">www.uvashanti.org</a>), an initiative aimed at the\nmainstreaming of cutting edge digital technology for faculty, students, and\nstaff across the University. Since 2011, Germano has played the central role in\npreparing and then organizing UVa\u2019s new Contemplative Sciences Center (<a href=\"http://www.uvacontemplation.org\"><b>www.uvacontemplation.org</b></a>), which he\ncurrently directs. He works extensively with each of the eleven schools at UVa\nto explore learning, research, and engagement initiatives regarding\ncontemplation in their own disciplinary and professional areas, as well as new\npartnerships across the schools. </p>\n\nGermano's\npersonal research focuses on the history of Tibetan with a special focus on contemplative\nand philosophical traditions. He has lived for many years in Tibetan\ncommunities in China, in the context of which he has also worked extensively on\nprograms of scholarly engagement, community service, participatory knowledge,\nand digital technology initiatives. He is currently focused on the exploration\nof contemplative ideas, values, and practices involving scientific\nmethodologies and new applications in diverse fields.",
+            "department": "Religious Studies",
+            "fullName": "Prof. David Francis Germano",
+            "id": "339336",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/10/d1a459dbcc415ddfeaddc9150fed9a/david-germano-261x300.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "<p>Matthias' current research interests include the application of attachment \ntheory and psychological processes of affect regulation to further our \nunderstanding of the &nbsp;development, adaptation to and recovery from \npsychosis and recurrent mood disorders.&nbsp;</p>  <div>He is particularly \ninterested in the psychology of onset and recovery of severe mental \nhealth problems in young adults with regard to current developmental \nmodels of psychiatric disorders and the advancement of specific \npsychological interventions.</div><br>",
+            "department": "Clinical & Health Psychology, School of Health in Social Science",
+            "fullName": "",
+            "id": "858208",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e6/0755817d67089ea975deb2392929e1/skitch2.png",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "\u5f20\u7814",
+            "id": "15259177",
+            "title": ""
+        },
+        {
+            "bio": "<p>Merc\u00e8 Villanueva naci\u00f3 en Roses, Catalu\u00f1a, Espa\u00f1a, en enero de 1972. Se\n    licenci\u00f3 en Ciencias Matem\u00e1ticas en 1994 por la Universitat Aut\u00f2noma de\n    Barcelona, y obtuvo los t\u00edtulos de M\u00e1ster y Doctorado en Inform\u00e1tica en\n    1996 y 2001, respectivamente, por la misma universidad.</p>\n<p>En 1994 se incorpor\u00f3 al Departamento de Ingenier\u00eda de la Informaci\u00f3n y\n    de las Comunicaciones de&nbsp; la Universitat Aut\u00f2noma de Barcelona, como\n    profesora ayudante, y fue ascendida a profesora titular en&nbsp; 2002.\n    Su investigaci\u00f3n se centra en temas relacionados con la combinatoria, las\n    comunicaciones digitales, teor\u00eda de c\u00f3digos y teor\u00eda de grafos.</p>",
+            "department": "Departamento de Ingenier\u00eda de la Informaci\u00f3n y de las Comunicaciones",
+            "fullName": "",
+            "id": "3189498",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/eb/8eb2ee0121a1a4a5ad67752a9f870e/Foto_mvillanueva.jpg",
+            "title": "Profesora Titular"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2881520",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Maricarmen Hern\u00e1ndez",
+            "id": "3296530",
+            "title": ""
+        },
+        {
+            "bio": "\u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u043e\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u0447 \u2014 \u0434\u043e\u043a\u0442\u043e\u0440 \u0444\u0438\u0437\u0438\u043a\u043e-\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0443\u043a, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440, \u0437\u0430\u0432\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043a\u0430\u0444\u0435\u0434\u0440\u043e\u0439 \u043e\u0431\u0449\u0435\u0439 \u0444\u0438\u0437\u0438\u043a\u0438 \u041d\u0418\u042f\u0423 \"\u041c\u0418\u0424\u0418\". \u0410\u0432\u0442\u043e\u0440 \u0442\u0435\u043e\u0440\u0438\u0438 \u0436\u0435\u0441\u0442\u043a\u043e\u0433\u043e \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0430\u0433\u043d\u0438\u0442\u043d\u043e\u0433\u043e \u0438\u0437\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0431\u044b\u0441\u0442\u0440\u044b\u0445 \u0437\u0430\u0440\u044f\u0436\u0435\u043d\u043d\u044b\u0445 \u043a\u0430\u043d\u0430\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0447\u0430\u0441\u0442\u0438\u0446 \u0432 \u043c\u043e\u043d\u043e\u043a\u0440\u0438\u0441\u0442\u0430\u043b\u043b\u0430\u0445. \u0410\u0432\u0442\u043e\u0440 \u0431\u043e\u043b\u0435\u0435 210 \u043f\u0435\u0447\u0430\u0442\u043d\u044b\u0445 \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0440\u0430\u0431\u043e\u0442 \u0438 \u0431\u043e\u043b\u0435\u0435 10 \u043c\u043e\u043d\u043e\u0433\u0440\u0430\u0444\u0438\u0439, 9 \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0445 \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432, \u0431\u043e\u043b\u0435\u0435 20 \u0443\u0447\u0435\u0431\u043d\u044b\u0445 \u043f\u043e\u0441\u043e\u0431\u0438\u0439, \u0447\u0430\u0441\u0442\u044c \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0438\u043c\u0435\u0435\u0442 \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0433\u0440\u0438\u0444. \u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0442\u0430\u043a\u0436\u0435 \u0430\u0432\u0442\u043e\u0440\u043e\u043c \u0431\u043e\u043b\u0435\u0435 20 \u0443\u0447\u0435\u0431\u043d\u044b\u0445 \u043f\u043e\u0441\u043e\u0431\u0438\u0439.\n\n\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440 \u041d.\u041f. \u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u043e\u0432 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u043b \u043a\u0443\u0440\u0441\u044b \u043e\u0431\u0448\u0435\u0439 \u0444\u0438\u0437\u0438\u043a\u0438 \u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u0443\u0440\u0441\u044b \u043f\u043e \u044f\u0434\u0435\u0440\u043d\u043e\u0439 \u0444\u0438\u0437\u0438\u043a\u0435 \u0438 \u0444\u0438\u0437\u0438\u043a\u0435 \u0442\u0432\u0435\u0440\u0434\u043e\u0433\u043e \u0442\u0435\u043b\u0430 \u0432 \u0432\u0443\u0437\u0430\u0445 \u0418\u0442\u0430\u043b\u0438\u0438 \u043d\u0430 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435, \u0438 \u0432 \u0432\u0443\u0437\u0430\u0445 \u0415\u0433\u0438\u043f\u0442\u0430, \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0438, \u0414\u0430\u043d\u0438\u0438, \u0418\u0441\u043f\u0430\u043d\u0438\u0438 \u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435.",
+            "department": "\u041a\u0430\u0444\u0435\u0434\u0440\u0430 \u043e\u0431\u0449\u0435\u0439 \u0444\u0438\u0437\u0438\u043a\u0438",
+            "fullName": "\u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u043e\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u0447",
+            "id": "16661101",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d7/188890a4c511e5a608e9815d73090e/__________.jpg",
+            "title": "\u0417\u0430\u0432\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043a\u0430\u0444\u0435\u0434\u0440\u043e\u0439"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3615956",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "6860822",
+            "title": ""
+        },
+        {
+            "bio": "I am currently in a master's degree program at Unicamp in applied linguistics with research on the uses of technology in education. I graduated in Languages at Unicamp at 2010, and since 2008, I have worked with software documentation, professional training projects, PwD training programs, and, as e-learning instructional designer and Portuguese teacher. Since 2012,  I am an educational entrepreneur and co-founder at Mupi, an edtech startup engaged in bringing new ideas on how education is thought and delivered, changing and improving the uses of technology in the field of education",
+            "department": "",
+            "fullName": "Paula Furtado",
+            "id": "360221",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/40/e2a2e04da711e5a352932b5892ee29/AAEAAQAAAAAAAAFuAAAAJDY0ZDlkNjYyLTJiYTgtNGVlMi05MGJmLThkZmIwZTU1OWIxZg.jpg",
+            "title": ""
+        },
+        {
+            "bio": "Tiffani Reardon is an instructional designer at Kennesaw State University. She has a Bachelor of Arts in English from KSU and is currently working toward a Master of Science in Instructional Design and Technology from Georgia State University. Her research interests include instructional design and technology, technical writing, online learning, web design, and foreign languages. Tiffani also works freelance as a web designer under the name eTiff Designs out of her home where she lives with her Yorkie-Poo, Nutmeg, and her partner, Josh in Acworth, Ga.",
+            "department": "College of Humanities and Social Sciences",
+            "fullName": "Tiffani Kristine Reardon",
+            "id": "13463367",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/19/7e8bc0cb6411e58f5cffab012aca35/2016-02-04-12_23_33-10003278_10203435022662211_161737839_n---Windows-Photo-Viewer.jpg",
+            "title": "Instructional Designer"
+        },
+        {
+            "bio": "Michael Evans received a Bachelor's degree in Chemistry from the University of Kentucky in 2008. He is currently a graduate student in the Chemistry department at the University of Illinois, Urbana-Champaign, studying chemical education and educational technology. The goal of his research is the design, development, and evaluation of web-based tools for organic chemical education. He is also a Graduate Affiliate at UIUC's\u00a0<a href=\"http://cte.illinois.edu/\" target=\"_blank\">Center for Teaching Excellence</a>\u00a0and the webmaster of\u00a0<a href=\"http://www.organicreactions.org/\" target=\"_blank\">OrganicReactions.org</a>, the website of the secondary reference\u00a0<i>Organic Reactions</i>. In his spare time he enjoys running, cooking, and playing\u00a0chess.<br>",
+            "department": "Department of Chemistry",
+            "fullName": "",
+            "id": "907436",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fb/e2901122729b9b3c3d770df5946a8f/Michael-Evans.png",
+            "title": "Graduate Student"
+        },
+        {
+            "bio": "<p>Devleena Ghosh teaches in the Faculty of Arts and Social Sciences at the University of Technology, Sydney and is the Coordinator of the Indian Ocean and South Asia Research Network. She has published widely in colonial, global and environmental history and is particularly interested in inter-colonial connections in the Indian Ocean in the 19th and 20th centuries. She is the author of Colonialism and Modernity (with Paul Gillen, 2007) and the editor of Cultures of Trade: Indian Ocean Exchanges (with Stephen Muecke, 2007), Water, Border and Sovereignty in Asia and Oceania (with Goodall &amp; Donald, 2008) and Shadowlines: Women and Borders in Contemporary Asia (2012).</p><p>Her current projects deal with connections between Indian and Australian women during the Cold War period, coal mining and climate change in India, Australia and Germany and syncretic religious movements in India.</p>",
+            "department": "Social Inquiry, University of Technology, Sydney",
+            "fullName": "",
+            "id": "9841684",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c5/ca43d055bb11e489c22f512f61fb1d/devleena.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "John D. Gill graduated from the University of Arkansas with a Bachelor\u2019s\n Degree in English. In 1990, he received his J.D., with honors, from the\n University of Texas School of Law. <br><br>Prior to working for the \nACFE, Mr. Gill was an attorney in the Austin, Texas office of the law \nfirm of Bragg, Chumlea, McQuality, Smithers and Curry where he was \ninvolved with civil fraud, insurance, and deceptive trade practices \ncases. He was the editor of the DTPA Forms and Practice Guide written by\n David Bragg and Michael Curry. <br><br>In 1995, Mr. Gill joined the \nACFE and served as both its General Counsel and the manager of the \nResearch Department for nine years. When the Research Department \nexpanded in 2003, he took on the role of Research Director. In 2009, he \nwas promoted to Vice President \u2013 Education. In that capacity he oversees\n the production and development of all of the books, manuals, self-study\n courses, and seminar and conference materials produced by the ACFE. \nCurrently, the ACFE publishes thirteen different books and manuals, \nthirty self-study courses, dozens of online offerings, and materials for\n more than thirty different seminars and conferences. <br><br>He serves \non the faculty of the ACFE and is a co-instructor of the CFE Exam Review\n class. He is a co-author of The Fraud Examiners Manual and serves as \nthe editor-in-chief for the CFE Exam and the CFE Exam Preparation \nCourse. He is also a contributing author to Fraud Magazine. <br><br>Mr. \nGill is a member of the Association of Certified Fraud Examiners, the \nAustin Chapter of ACFE, Phi Beta Kappa, the State Bar of Texas, and the \nAmerican Bar Association.",
+            "department": "Association of Certified Fraud Examiners ",
+            "fullName": "",
+            "id": "8626600",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/19/8610602c5b11e4a34779cb084a320f/John-Gill.jpg",
+            "title": "Vice President - Education "
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "6698797",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4312891",
+            "title": ""
+        },
+        {
+            "bio": "Sarah CHONG has more than 20 years of experience teaching students from different walks of life and with a broad spectrum of learning abilities. Currently, at the Centre for English Language Communication, National University of Singapore, she teaches professional and academic communication courses to computing and environmental studies students. \n\nBefore joining NUS, Sarah was at the Regional Language Centre, Singapore, where she developed materials for and taught English Communication Skills, Academic Reading and Writing, and IELTS Preparation courses to mainly EFL students ranging from undergraduates to teachers and diplomats and officials from the Asian region. \n\nBesides her love for teaching and keen interest in materials development, intercultural communication, and language and social mobility, Sarah is also passionate about languages, music and the arts, as well as sports. She enjoys learning new languages, especially those used in this region, as they help her connect with the people and their respective cultures. In addition, Sarah also likes making music and watching musicals. Playing basketball and going for long walks are among her favourites, too, but her current #1 interest is Zumba. \n\nThe varied interests are not surprising given her keenness to learn new things, an important element that has kept her excited about her job and life in general.",
+            "department": "Centre for English Language Communication",
+            "fullName": "Sarah Chong",
+            "id": "15639388",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/52/3ee3a0754311e58374fffdc4495938/Sarah.jpg",
+            "title": ""
+        },
+        {
+            "bio": "Jamie Pope, MS, RD, LDN has been with Vanderbilt University since 1986 working in the areas of obesity research, weight management, health promotion, heart disease prevention, and since 2000 as Instructor of Nutrition in the School of Nursing. Jamie\u2019s popular classes bring together undergraduate students from a wide range of majors to learn about nutrition science and the application to their personal and professional lives. Jamie holds a Master\u2019s of Science degree in Nutrition Science. She is a long-time member of the Academy of Nutrition and Dietetics and served as media representative for the Tennessee Dietetic Association, during which time she was named as Outstanding Dietitian of the Year for the Nashville District Dietetic Association.    Jamie co-authored several best-selling books, such as The T-Factor Fat Gram Counter, and is author of The Last Five Pounds: A Liberating Guide to Living Thin. She has authored or contributed to numerous other scientific and popular press publications.&nbsp; At present, Jamie is authoring an introductory nutrition textbook with W.H. Freeman Co, a as she continues to educate and inspire her students. <br>",
+            "department": "Vanderbilt University School of Nursing",
+            "fullName": "",
+            "id": "1331704",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/48/3dc81b7bb7601e9c4887d3ad94f730/Jamie-Pope.jpeg",
+            "title": "Instructor of Nutrition"
+        },
+        {
+            "bio": "Alison Gibbs is a senior lecturer in the Department of Statistical Sciences at the University of Toronto where she also received her PhD in 2000. She has taught a variety of probability and statistics courses, ranging from a first-year seminar to a graduate course in statistical consulting. She has developed programs and courses to encourage collaboration between statistics students and those in other disciplines and leads initiatives to promote statistical thinking in students in elementary and secondary schools. Alison received the Dean's Outstanding Teaching Award in 2012.",
+            "department": "Department of Statistical Sciences",
+            "fullName": "",
+            "id": "4244555",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4f/6a34e4d8cbbe211f6ad90ff28adb53/a-gibbs_2.jpg",
+            "title": "PhD"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5454663",
+            "title": ""
+        },
+        {
+            "bio": "<p><span>\u6768\u5584\u534e\uff0c\u5317\u4eac\u5927\u5b66\u793e\u4f1a\u5b66\u7cfb\u6559\u6388\uff0c\u535a\u58eb\u751f\u5bfc\u5e08\u30021981\u5e74\u8003\u5165\u4e0a\u6d77\u793e\u4f1a\u79d1\u5b66\u9662\u793e\u4f1a\u5b66\u7814\u7a76\u6240\u4ece\u4e8b\u7814\u7a76\u5de5\u4f5c\uff0c\u540c\u5e746\u6708\u4f5c\u4e3a\u5b66\u5458\u5728\u4e2d\u56fd\u793e\u4f1a\u79d1\u5b66\u9662\u793e\u4f1a\u5b66\u7814\u7a76\u6240\u4e3e\u529e\u7684\u7b2c\u4e8c\u671f\u793e\u4f1a\u5b66\u8bb2\u4e60\u73ed\u5b66\u4e60\u30021981\u5e7412\u6708\u53c2\u52a0\u8d39\u5b5d\u901a\u6559\u6388\u201c\u56db\u8bbf\u6c5f\u6751\u201d\u5a5a\u59fb\u5bb6\u5ead\u65b9\u9762\u7684\u8c03\u67e5\u5de5\u4f5c\u30021982\u5e74\u5f00\u59cb\u53c2\u4e0e\u56fd\u5bb6\u793e\u4f1a\u79d1\u5b66\u201c\u516d\u4e94\u201d\u89c4\u5212\u91cd\u70b9\u9879\u76ee\u201c\u4e94\u57ce\u5e02\u5bb6\u5ead\u7814\u7a76\u201d\u4e0a\u6d77\u5f90\u6c47\u533a\u67d0\u5c45\u59d4\u4f1a\u7684\u8c03\u67e5\uff0c1987\u5e74\u540e\u53c2\u4e0e\u56fd\u5bb6\u793e\u4f1a\u79d1\u5b66\u201c\u4e03\u4e94\u201d\u89c4\u5212\u91cd\u70b9\u9879\u76ee\u201c\u7ecf\u6d4e\u4f53\u5236\u6539\u9769\u4ee5\u6765\u519c\u6751\u5a5a\u59fb\u5bb6\u5ead\u7684\u53d8\u5316\u201d\u7684\u7814\u7a76\uff0c1990\u5e74\u5728\u5317\u4eac\u5927\u5b66\u793e\u4f1a\u5b66\u7cfb\u535a\u58eb\u7814\u7a76\u751f\u6bd5\u4e1a\u540e\u7559\u7cfb\u4efb\u6559\uff0c\u5f00\u8bbe\u201c\u5bb6\u5ead\u793e\u4f1a\u5b66\u201d\u8bfe\u7a0b\u76f4\u81f32009\u5e74\u3002\u671f\u95f4\u5148\u540e\u53c2\u4e0e\u4e2d\u56fd\u793e\u4f1a\u79d1\u5b66\u9662\u9879\u76ee\u201c\u4e03\u57ce\u5e02\u5bb6\u5ead\u7814\u7a76\u201d\u53ca\u201c\u73b0\u4ee3\u57ce\u4e61\u5bb6\u5ead\u7814\u7a76\u201d\u7684\u5de5\u4f5c\uff0c\u4ea6\u4e3b\u6301\u8fc7\u56fd\u5bb6\u793e\u79d1\u57fa\u91d1\u9879\u76ee\u201c\u519c\u6751\u5bb6\u5ead\u3001\u5bb6\u65cf\u6d3b\u52a8\u7684\u73b0\u72b6\u53ca\u5176\u5bf9\u73b0\u4ee3\u5316\u7684\u5f71\u54cd\u201d\u53ca\u6559\u80b2\u90e8\u793e\u79d1\u57fa\u91d1\u9879\u76ee\u201c\u793e\u4f1a\u8f6c\u578b\u671f\u57ce\u5e02\u5c45\u6c11\u5bb6\u5ead\u4ee3\u9645\u5173\u7cfb\u7814\u7a76\u201d\uff0c\u4ea6\u4e0e\u7f8e\u56fd\u5bc6\u897f\u6839\u5927\u5b66\u793e\u4f1a\u5b66\u7cfb\u5408\u4f5c\u5b8c\u6210\u201c\u4fdd\u5b9a\u5e02\u6c11\u7684\u5a5a\u59fb\u5bb6\u5ead\u53ca\u5e02\u6c11\u5bb6\u5ead\u4e2d\u7684\u8001\u5e74\u4eba\u548c\u4ed6\u4eec\u7684\u4ee3\u9645\u5173\u7cfb\u201d\u9879\u76ee\u3002</span></p><p>\n\n</p><p>\u53d1\u8868\u7684\u5bb6\u5ead\u793e\u4f1a\u5b66\u65b9\u9762\u7684\u8bba\u6587\u548c\u8457\u4f5c\u6709\uff1a</p><p><span>\u300a\u4e2d\u56fd\u519c\u6751\u73b0\u4ee3\u5316\u8fdb\u7a0b\u4e2d\u7684\u5bb6\u5ead\u751f\u4ea7\u529f\u80fd\u7684\u53d8\u8fc1\u300b\uff0c\u300a\u5317\u4eac\u5927\u5b66\u5b66\u62a5\u300b\uff08\u54f2\u5b66\u793e\u4f1a\u79d1\u5b66\u7248\uff09\uff0c1991\u7b2c3\u671f\uff1b</span></p><p><span>\u300a\u4e2d\u56fd\u57ce\u5e02\u5bb6\u5ead\u53d8\u8fc1\u4e2d\u7684\u82e5\u5e72\u7406\u8bba\u95ee\u9898\u300b\uff0c\u300a\u793e\u4f1a\u5b66\u7814\u7a76\u300b\uff0c1994\u5e74\u7b2c3\u671f\uff1b</span></p><p><span>\u300a\u6539\u9769\u4ee5\u6765\u6211\u56fd\u5927\u57ce\u5e02\u5c45\u6c11\u5bb6\u5ead\u6536\u5165\u683c\u5c40\u7684\u53d8\u5316\u300b\uff0c\u300a\u4e2d\u56fd\u793e\u4f1a\u79d1\u5b66\u300b1996\u5e74\u7b2c3\u671f\uff08\u7b2c\u4e00\u4f5c\u8005\uff09\uff1b</span></p><p><span>\u300a\u8fd1\u671f\u4e2d\u56fd\u519c\u6751\u5bb6\u65cf\u7814\u7a76\u7684\u82e5\u5e72\u7406\u8bba\u95ee\u9898\u300b\uff0c\u300a\u4e2d\u56fd\u793e\u4f1a\u79d1\u5b66\u300b2000\u5e74\u7b2c5\u671f\uff08\u7b2c\u4e00\u4f5c\u8005\uff09\uff1b</span></p><p>\u300a\u8d23\u4efb\u4f26\u7406\u4e0e\u57ce\u5e02\u5c45\u6c11\u7684\u5bb6\u5ead\u517b\u8001\u2014\u4ee5\u5317\u4eac\u5e02\u8001\u5e74\u4eba\u9700\u6c42\u8c03\u67e5\u4e3a\u4f8b\u300b\uff0c\u300a\u5317\u4eac\u5927\u5b66\u5b66\u62a5\uff08\u54f2\u5b66\u793e\u4f1a\u79d1\u5b66\u7248\uff09\u300b2004\u5e74\u7b2c1\u671f\uff08\u7b2c\u4e00\u4f5c\u8005\uff09\uff1b</p><p>\u300a\u5173\u6ce8\u201c\u5e38\u6001\u201c\u751f\u6d3b\u7684\u610f\u4e49\u2014\u5bb6\u5ead\u793e\u4f1a\u5b66\u7814\u7a76\u7684\u4e00\u4e2a\u65b0\u89c6\u89d2\u521d\u63a2\u300b\uff0c\u300a\u6c5f\u82cf\u793e\u4f1a\u79d1\u5b66\u300b2007\u5e74\u7b2c5\u671f\uff1b</p><p>\u300a\u6539\u9769\u4ee5\u6765\u4e2d\u56fd\u519c\u6751\u5bb6\u5ead\u4e09\u5341\u5e74\u2014\u2014\u4e00\u4e2a\u793e\u4f1a\u5b66\u7684\u89c6\u89d2\u300b\uff0c\u300a\u6c5f\u82cf\u793e\u4f1a\u79d1\u5b66\u300b2009\u5e74\u7b2c2\u671f\uff1b</p><p>\u300a\u4e2d\u56fd\u5f53\u4ee3\u57ce\u5e02\u5bb6\u5ead\u53d8\u8fc1\u4e0e\u5bb6\u5ead\u51dd\u805a\u529b\u300b\uff0c\u300a\u5317\u4eac\u5927\u5b66\u5b66\u62a5\uff08\u54f2\u5b66\u793e\u4f1a\u79d1\u5b66\u7248\uff09\u300b2011\u5e74\u7b2c2\u671f\uff1b</p><p>\u300a\u7ecf\u6d4e\u4f53\u5236\u6539\u9769\u548c\u4e2d\u56fd\u519c\u6751\u7684\u5bb6\u5ead\u4e0e\u5a5a\u59fb\u300b\uff0c\u5317\u4eac\u5927\u5b66\u51fa\u7248\u793e1995\u5e74\uff1b</p><p>\u300a\u57ce\u4e61\u5bb6\u5ead\u2014\u5e02\u573a\u7ecf\u6d4e\u4e0e\u975e\u519c\u5316\u80cc\u666f\u4e0b\u7684\u53d8\u8fc1\u300b\uff0c\u6d59\u6c5f\u4eba\u6c11\u51fa\u7248\u793e2000\u5e74\uff08\u7b2c\u4e00\u4f5c\u8005\uff09\uff1b</p><p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p>\u300a\u5bb6\u5ead\u793e\u4f1a\u5b66\u300b\uff0c\u9ad8\u7b49\u6559\u80b2\u51fa\u7248\u793e2006\u5e74\u3002</p>",
+            "department": "\u5317\u4eac\u5927\u5b66\u793e\u4f1a\u5b66\u7cfb",
+            "fullName": "",
+            "id": "14767495",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/25/2229a0508011e5b0bf9368d33b481c/_____.JPG",
+            "title": "\u6559\u6388"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "16249411",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3034364",
+            "title": ""
+        },
+        {
+            "bio": "<p><a href=\"http://www.zackmoir.com\" target=\"_blank\">Zack Moir</a> is a Teaching Fellow in the\nReid School of Music, University of Edinburgh.&nbsp; He has a strong research interest in music pedagogy, music in higher education, musical improvisation, popular music and the musical\nexperiences of cochlear implant users. &nbsp;Zack is also an active <a href=\"http://www.zackmoir.com/category/music/\" target=\"_blank\">musician and composer</a>&nbsp;performing as a saxophonist in&nbsp;ensembles and as a soloist, internationally.</p><p>Web:&nbsp;<a href=\"http://www.zackmoir.com\">http://www.zackmoir.com</a><br>Blog: <a href=\"http://www.thinkingaboutmusic.com\">http://www.thinkingaboutmusic.com</a><br>Twitter: <a href=\"http://www.twitter.com/zackmoir\">http://www.twitter.com/zackmoir</a></p><p><br></p><p><br></p>",
+            "department": "Reid School of Music, Edinburgh College of Art",
+            "fullName": "",
+            "id": "4288579",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f6/f605deb1c9c186efab3a0945e7f34c/6079253138_ae12246831_z.jpg",
+            "title": "Teaching Fellow"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4116638",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "15933223",
+            "title": ""
+        }
+    ],
+    "linked": {},
+    "paging": {
+        "next": "2900",
+        "total": 4152
+    }
+}

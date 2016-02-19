@@ -1,0 +1,783 @@
+{
+    "elements": [
+        {
+            "bio": "<p><span>Ira Pohl is a Professor of Computer Science at the&nbsp;<a title=\"Link: http://www.ucsc.edu/\" target=\"_parent\" href=\"http://www.ucsc.edu/\">University of California, Santa Cruz,</a> and a Fellow of the ACM. The department is part of the <a title=\"Link: http://www.cse.ucsc.edu/\" target=\"_parent\" href=\"http://www.cse.ucsc.edu/\">Jack Baskin School of Engineering.</a>&nbsp; Mr. Pohl has written widely on programming in C, C++, C# and Java.</span></p><p>His research interests include artificial intelligence, programming languages such as C#, C, C++ and Java, practical complexity problems, heuristic search methods, deductive algorithms, and educational and social issues. He enjoys walks and bike rides by the ocean, and can occasionally be found playing chess in a coffee house.</p>",
+            "department": "Computer Science",
+            "fullName": "",
+            "id": "2320972",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/57/d5ae53b0bb36d33988476ec25a9fd2/ira-soe.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "<p></p><p>\n\n<p>Rob Stone is a successful project manager who also teaches\nworkshops and seminars on project management. </p></p><p>\n\n<p>Rob has branched out from his civil engineering training and\nbackground and now works with numerous organizations and industries including\nmanufacturing, health care, insurance, non-profit organizations, government\nagencies and others. Rob works throughout the United States, and has also worked\nin Europe, Africa, Australia, China, and the Middle East. Rob\u2019s hands-on\napproach to project management has led him and those with whom he works to successful\nproject results for on-time high-quality deliveries within budget.</p>\n\n</p><p>\n\n</p><p>Rob holds a Master\u2019s in Education, is certified as a Project\nManagement Professional (PMP\u00ae), and holds a certification in Six Sigma.</p>\n\n<br><br><br><br><br>",
+            "department": "",
+            "fullName": "",
+            "id": "12023420",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a5/7ae8d0ce6211e4a8bd4b39f6ac2992/robstone600.jpg",
+            "title": "Instructor, University of California, Irvine Extension"
+        },
+        {
+            "bio": "Professor Dan Boneh heads the applied cryptography group at the Computer Science department at Stanford University. Professor Boneh's research focuses on applications of cryptography to computer security. His work includes cryptosystems with novel properties, web security, security for mobile devices, digital copyright protection, and cryptanalysis. He is the author of over a hundred publications in the field and a recipient of the Packard Award, the Alfred P. Sloan Award, and the RSA award in mathematics. Last year Dr. Boneh received the Ishii award for industry education innovation. Professor Boneh received his Ph.D from Princeton University and joined Stanford in 1997.",
+            "department": "Computer Science",
+            "fullName": "",
+            "id": "774",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/88/74733edd52ecc09f81d927617a8f25/Dan-Boneh.jpeg",
+            "title": "Professor"
+        },
+        {
+            "bio": "Professor of Microbiology &amp; Immunology in the College of Physicians and Surgeons of Columbia University. Why\nam I qualified to teach you virology? I have done laboratory research on\nviruses for 37 years, starting in 1975, when I entered the Ph.D. program\nin Biomedical Sciences at Mt. Sinai School of Medicine of the City University\nof New York. My thesis research, in the laboratory of Dr. Peter Palese,\nwas focussed on influenza viruses. In 1982 I joined the faculty in the\nDepartment of Microbiology at Columbia University College of Physicians\n&amp; Surgeons in New York City. There I established a laboratory to study\nviruses, and to train other scientists to become virologists. Over the\nyears we have studied a variety of viruses including poliovirus, echovirus,\nenterovirus 70, rhinovirus, and hepatitis C virus. As principal investigator\nof my laboratory, I oversee the research that is carried out by Ph.D. students\nand postdoctoral fellows. I also teach virology to graduate students, as\nwell as medical, dental, and nursing students.",
+            "department": "",
+            "fullName": "",
+            "id": "2096804",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/3c/dccd7ddf15da2cb772db92e05009f8/Vincent_Racaniello_300.jpg",
+            "title": "Professor of Microbiology"
+        },
+        {
+            "bio": "<p>Susanne (Sue) Robins is an\nexperienced teacher, trainer, facilitator, and invited speaker for workshops,\nclasses, and plenary sessions. Sue has a 25-year career in both the public and\nprivate sectors with a record of success in leadership, sales, sales\nmanagement, negotiation, marketing, software development, teaching, and program\ndevelopment. Extensive experience in the development of business soft skills\ntraining programs has afforded Sue a particular strength in providing\nhighly engaging, targeted, and effective professional learning experiences. Sue\nhas a B.S. in Zoology from the University of Maryland and a M.S. in Education\nfrom Mount St. Mary\u2019s College.</p>\n\n<p>Sue is currently owner and\nprincipal trainer of Ascend Training Solutions, a company dedicated to the\ndesign, development, and facilitation of engaging and impactful employee\ntraining programs. Ascend Training Solutions has developed and delivered\nemployee training and leadership development programs for the corporate,\ngovernment, and nonprofit sectors. In November of 2013, Sue was elected to the\nGoverning Board of the Culver City Unified School District and currently serves\nin that capacity as well as leading Ascend Training Solutions. Helping people\nachieve their greatest potential has proved Sue\u2019s most gratifying professional\nresponsibility. </p>\n\n<br><br><br><br>",
+            "department": "University of California, Irvine Extension",
+            "fullName": "Sue Robins, M.S. Ed.",
+            "id": "8887234",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/6e/9315a053fa11e48335f5d6d9d10ade/Sue-Robins.jpg",
+            "title": "Instructor, University of California, Irvine Extension"
+        },
+        {
+            "bio": "Dar\u00edo Fuentes es profesor del \u00e1rea financiera de la facultad de Administraci\u00f3n de la Universidad de los Andes en Colombia. Dar\u00edo es profesional en Finanzas y Relaciones Internacionales y tiene un MBA (Maestr\u00eda en Administraci\u00f3n). \nTiene experiencia en educaci\u00f3n universitaria, emprendimiento, sector bancario, consultor\u00eda y asesoramiento y seguimiento a emprendedores.\nDar\u00edo tambi\u00e9n ha sido consultor de empresas sin \u00e1nimo de lucro como la Fundaci\u00f3n Litro de Luz en Colombia.\nSus \u00e1reas de inter\u00e9s son el emprendimiento, la planeaci\u00f3n financiera, la creaci\u00f3n de valor en las empresas y la innovaci\u00f3n.\n",
+            "department": "Facultad de Administraci\u00f3n",
+            "fullName": "Dar\u00edo Alejandro Fuentes",
+            "id": "4499371",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ca/8b9d304ce411e59b2a936a092c036b/Fotograf_a-_2_.jpg",
+            "title": "Profesor del \u00e1rea financiera"
+        },
+        {
+            "bio": "Norah Sinclair works as a User Support and Digital Accessibility Specialist with AMAC Accessibility Solutions\nand Research Center at the Georgia Institute of Technology and works with the AccessGA ICT Accessibility initiative. She has a Master's degree in Media Arts from the University of South Carolina and computer education teaching endorsement from North Carolina State University. In addition to accessibility, Norah has\nan interest in user-centered design, information architecture, and adaptive learning technology.<br>",
+            "department": "AMAC Accessibility Solutions and Research Center",
+            "fullName": "",
+            "id": "8440309",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/66/8a59f0549911e48cfb913f6cdf4d10/Norah-Sinclair-hs.jpg",
+            "title": "Digital Accessibility Specialist"
+        },
+        {
+            "bio": "Psic\u00f3loga y especialista en Administraci\u00f3n, con \u00e9nfasis en Recursos Humanos, egresada de la Universidad de los Andes y Magister en Gerencia Estrat\u00e9gica de Mercadeo. Me he desempe\u00f1ado en distintos niveles y \u00e1reas del talento humano con excelentes resultados a trav\u00e9s de la comunicaci\u00f3n asertiva, el liderazgo y trabajo en equipo. He sido consultora y facilitadora de procesos de fortalecimiento del direccionamiento estrat\u00e9gico empresarial en diferentes sectores, contribuyendo directamente en el mejoramiento de resultados de directivos, colaboradores, clientes y socios. Finalmente, como parte del cuerpo docente y administrativo he tenido la oportunidad de ofrecer a las universidades la actualizaci\u00f3n y la aplicaci\u00f3n pr\u00e1ctica del conocimiento que se busca en los procesos de formaci\u00f3n y administraci\u00f3n.",
+            "department": "Departamento de Psicolog\u00eda ",
+            "fullName": "Nubia Esther Murcia Agudelo",
+            "id": "13779140",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/9d5380477d11e599b8337cf5a2a015/Nubia-800.jpg",
+            "title": "Profesora de C\u00e1tedra"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2578894",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Troy L. Ott is a Professor of Reproductive Biology and Associate Director of the Huck Institutes of the Life Sciences at Penn State. He holds a courtesy appointment in the Department of Veterinary and Biomedical Sciences. \n\nDr. Ott received his B.S. in Animal Production from Penn State in 1984. He completed his Master of Science degree at Auburn University and the Doctoral degree at the  University of Florida. Following graduation, he spent 6 years as a Research Scientist in the Center for Animal Biotechnology at Texas A&M University before joining the faculty at the University of Idaho, Department of Animal and Veterinary Science in 1998. Dr. Ott returned to Penn State in 2006 and helped form the Center for Reproductive Biology and Health. \n\nDr. Ott\u2019s research focuses on issues of animal food production, fertility regulation, immunology and the physiology of early pregnancy with a primary focus on the signaling between the embryo, uterus and circulating immune cells. Dr. Ott is \ninventor or co-inventor on 4 patents related to his research and he is actively engaged in efforts to commercialize novel diagnostic technologies to aid farmers in managing reproduction and animal health. He has published over 95 scientific papers and review articles, 9 book chapters as well as co-editing a book on Reproductive Genomics in Domestic Animals. In addition, he developed and mentored the \u201cLet\u2019s Eat!\u201d Distinguished Honors Faculty program designed to engage Penn State Schreyer Honors scholars in issues related to food production and feeding the growing world population sustainably.  His research has been funded by the USDA, NIH, and industry. \n",
+            "department": "Huck Institutes of the Life Sciences",
+            "fullName": "Troy L. Ott",
+            "id": "12727517",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/52/840cd0d59411e58793a1db7167db44/Troy-Ott-Pic.jpg",
+            "title": "Professor of Reproductive Biology and Associate Director"
+        },
+        {
+            "bio": "1982\u5e74\u6bd5\u4e1a\u4e8e\u590d\u65e6\u5927\u5b66\u65b0\u95fb\u7cfb",
+            "department": "Journalism School",
+            "fullName": "",
+            "id": "4063836",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/48/62c890794311e3857e170d0da7a250/_____-______600_600.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4689802",
+            "title": ""
+        },
+        {
+            "bio": "<p>B. Joseph Guglielmo, PharmD, is a pharmacist, clinical scientist,\nteacher, and international expert in the evidence-based use of antimicrobials\nto treat infections. He has served as dean of the UCSF School of Pharmacy since\nApril 2013, where he holds the Troy C. Daniels Distinguished Professorship in Pharmaceutical Sciences. </p>\n\n<p>&nbsp;</p>\n\n<p>Guglielmo is also a professor in the Department of Clinical Pharmacy,\nwhich he chaired from 2006 until he was named dean, and serves as the associate\ndirector of pharmaceutical services in the UCSF Medical Center. &nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>As chair, Guglielmo oversaw a 40 percent increase in the Department of\nClinical Pharmacy\u2019s faculty research funding from 2006 to 2012, including\ngrants from the National Institutes of Health. &nbsp;He created the Department of Clinical Pharmacy\n&nbsp;Medication Outcomes Center in 2007 toward\nimproved medication use in the UCSF Medical Center. In the 1980s he established\nthe UCSF Medical Center Antimicrobial Stewardship Program toward the safe,\neffective use of antibiotics. </p>\n\n<p>&nbsp;</p>\n\n<p>He practices in the UCSF Medical Center, where he is an infectious\ndiseases pharmacist supporting the UCSF Medical Center Antimicrobial\nStewardship Program and serving on the Infectious Diseases Consult Service\nteam. </p>\n\n<p>&nbsp;</p>\n\n<p>Guglielmo is the author of more than 110 peer-reviewed papers, the\nmajority related to anti-infective agents. He is the long-term editor of <i>Applied</i> <i>Therapeutics: The Clinical Use of Drugs</i> and the <i>Handbook of Applied Therapeutics</i>.</p>",
+            "department": "School of Pharmacy",
+            "fullName": "",
+            "id": "3408612",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e3/ce741f1a0f19d5e1a5e1eecc951ac6/gugaq2.jpg",
+            "title": "Dean and Professor"
+        },
+        {
+            "bio": "<p><span>Graduado em F\u00edsica pelo Instituto de\nF\u00edsica da Universidade de S\u00e3o Paulo. Mestre, Doutor e Livre Docente pelo\nInstituto de Astronomia, Geof\u00edsica e Ci\u00eancias Atmosf\u00e9ricas da Universidade de\nS\u00e3o Paulo (IAG/USP). P\u00f3s-doutorado no Royal Greenwich Observatory e University\nof Cambridge (Reino Unido). \u00c9 professor associado do&nbsp;</span><span><a href=\"http://www.iag.usp.br/\" target=\"_blank\" title=\"Link: http://www.iag.usp.br/\">IAG/USP</a>. \u00c9 coordenador do Mestrado Profissional de Ensino de Astronomia do\nIAG/USP. </span>Foi pesquisador visitante em diversas institui\u00e7\u00f5es\ninternacionais: Royal Observatory of Edinburgh (Reino Unido); European Southern\nObservatory (Alemanha e Chile); INAOE (M\u00e9xico); Institut d'Astrophysique de Paris\n(Fran\u00e7a). Organizador e co-autor do livro \"Astronomia: uma vis\u00e3o do Universo\",\npelo qual recebeu o Pr\u00eamio Jabuti 2001 na categoria \"Melhor Livro de Ci\u00eancias\nExatas, Tecnologia e Inform\u00e1tica\". Pesquisa sobre astronomia extragal\u00e1ctica,\ncosmologia, astronomia e educa\u00e7\u00e3o, rela\u00e7\u00f5es entre ci\u00eancia, tecnologia e\nsociedade, transdisciplinaridade e astrobiologia, tendo sido organizador de\nv\u00e1rias escolas e congressos cient\u00edficos sobre astrobiologia.</p>",
+            "department": "Instituto de Astronomia, Geof\u00edsica e Ci\u00eancias Atmosf\u00e9ricas Universidade de S\u00e3o Paulo",
+            "fullName": "",
+            "id": "16124155",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/65/b682b089f911e5b2cd73d83f089c9a/amanciofriaca_image.JPG",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Flesher is Director Training and Organization Development with UL University.  Previously he was President of Prairie Fire Development, a management, training and organization development consultancy and has served in a range of corporate roles \u2013 all of which had complex compliance requirements:  vice president of global talent management, Biomet, Inc.; director of global talent management, Underwriters Laboratories; director of training and organization development, Abbott Laboratories; and learning services superintendent, Nuclear Generation Group, Commonwealth Edison. \n\nIn these roles, he was responsible for creating and improving comprehensive global talent management systems spanning staffing, performance management, succession planning, learning infrastructure and technology, and training across all business functions and levels. He has developed strategies for effective quality and regulatory system improvements, global leadership and executive programs, plant start-ups and global product transfers, along with traditional and technology based training for management, technical, sales, and compliance topics.  He has also led large scale and targeted change management efforts and organizational development initiatives. \n\nDr. Flesher also has over 20 years of university teaching experience and has held academic appointments at the University of Illinois, Southern Illinois University, and Iowa State University. His teaching has included classroom and online courses in strategic planning, technology transfer, assessment and measurement, evaluation, quality and process improvement, and organization development. ",
+            "department": "",
+            "fullName": "Jeff Flesher",
+            "id": "16532853",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/73/1bbf70b4a511e5ac993db8020e54a5/Jeff-Flesher.jpg",
+            "title": "PhD"
+        },
+        {
+            "bio": "<p>Owen\nYoungman was appointed to the Knight Chair at Medill in January, 2009, after a\n37-year career at the Chicago Tribune focused on new product development,\ninnovation, and interactive media. He created such Web sites as\nchicagotribune.com and metromix.com as the Tribune\u2019s first director of\ninteractive media (1995-99); directed the development and launch of RedEye (2002), the\nTribune\u2019s successful daily for young urban commuters; and, in nine years as a\nvice president and senior vice president, oversaw strategy and development, marketing, and the company's developing businesses.</p>\n\n<p>At\nMedill, Youngman teaches both graduate- and undergraduate-level courses,\nincluding the graduate school\u2019s capstone innovation projects; collaborative\ncourses with professors from the McCormick School of Electrical Engineering\n&amp; Computer Science; and classes he has created in which students analyze&nbsp;the role of technology and media economics in journalism today, and anticipate the changes\nthat will take place in the future.</p>\n\n<p>A user of\nonline services since 1982, Youngman served on a 1992 task force that created Tribune Company\u2019s first explicit technology strategy, with a focus&nbsp;on\ncreating and storing information in media-independent formats. Later, after\ninaugurating the Chicago Tribune\u2019s editorial efforts on America Online, in 1995\nhe received Tribune Co.\u2019s Values Award for directing the year-long,\ncross-company project that led to Good Eating\u2014a reinvention of the Chicago\nTribune food section that was mirrored both on television and online, taking\nthe then-radical approach of making its content available (both on TV and on AOL)&nbsp;three days before\nappearance of the printed section.</p>\n\n<p><span>During a\nTribune career that began in 1971 as a copy boy on the weekend night shift,\nYoungman held newsroom positions including deputy sports editor, associate\nmetropolitan editor/suburban news, associate features editor, associate\nmanaging editor/financial news and managing editor/features. His\nresponsibilities on the business side from 1999 to 2008 included strategic\nmarketing; community relations and the Tribune\u2019s philanthropy; direction of the\ncompany\u2019s developing businesses, including CLTV News, Hoy, Chicagoland\nPublishing Co., and RedEye; events; research; readership growth; and\ncross-company project management. He led teams that acquired <i>Chicago</i> magazine and the Printers Row\nBook Fair, where he has interviewed authors such as Garry Wills, Umberto Eco, and Nicholas Carr.</span></p>\n\n<p>In 2007, Youngman worked directly with Google on behalf of Tribune Co. as part of an industry investigation of how the search giant's advertising approach might be used in newspapers. In\n2008, he envisioned and helped create a social media strategy that increased\ntraffic to chicagotribune.com by 10% within three months.&nbsp;(In June 2013, he was selected to participate in Google's \"Glass Explorers\" program as an early purchaser of the wearable computing device Google Glass.)&nbsp;</p><p>Youngman received the honorary degree of Doctor of Humane Letters from his alma mater, North Park University, in 2005, and is a member of the Ashtabula (Ohio) High School Alumni Hall of Fame.&nbsp;He serves on many nonprofit\nboards, plays the trombone,&nbsp;and has sung the National Anthem at Wrigley Field.&nbsp;</p>",
+            "department": "Medill School of Journalism, Media, Integrated Marketing Communications",
+            "fullName": "",
+            "id": "2657356",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/9e/7d5f2048bcb104ec328e081325dec5/owenyoungman.jpg",
+            "title": "Knight Professor of Digital Media Strategy"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1858293",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Fatimah Wirth is the Instructional Designer for Georgia Tech Professional Education and an Instructor for one of the NASA Electronic Professional Development Network (ePDN) courses. Dr. Wirth joined Georgia Institute of Technology in 2008. She taught face-to-face for 12 years at an institution of higher learning before she joined Georgia Tech. As an Instructional Designer, she used the ASSURE model of instructional design to assist faculty in developing their online courses. Her in-depth knowledge of how students seek help in an online class from her doctoral research entitled \u201cHelp Seeking in an OnlineEnvironment\u201d has helped shape and create more robust online courses and more positive learner-based performance outcomes. In 2008, she helped successfully write a NASA CAN proposal. Georgia Tech Professional Education was awarded the 5 year almost $3 million NASA CAN in early 2009. Based on this award, she created the basic structure of the NASA ePDN online courses. These courses are offered for free to all middle school STEM teachers who are U.S. citizens in the United States and around the world. The NASA ePDN courses are collaborative in nature and are based on group work. In addition to creating the online structure, she has been teaching one of the online NASA ePDN Technology Integration Certificate courses for three years. She is also a certified Quality Matters Peer Reviewer. She has presented at a number of conferences based on the continuing research that she conducts with the NASA ePDN courses. Her research interest lies in cutting edge technology that can be used in the classroom to enhance the teaching and learning process.<br>",
+            "department": "Professional Education",
+            "fullName": "",
+            "id": "861494",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7f/7078df8e4312f99119d750427fcac8/wirth.jpg",
+            "title": "Instructional Designer"
+        },
+        {
+            "bio": "<script>alert(6)</script>",
+            "department": "",
+            "fullName": "",
+            "id": "6058633",
+            "title": ""
+        },
+        {
+            "bio": "Dana Gliserman Kopans is an Associate Professor of Literary and Cultural Studies at SUNY Empire State College. Her research interests center on the literature and culture of eighteenth-century Britain. Her teaching interests are more capacious.",
+            "department": "Literary and Cultural Studies",
+            "fullName": "Dr. Dana Gliserman Kopans",
+            "id": "11197435",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/28b3f08ef311e593ee87d53030df35/danaphoto.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "Peter Frumkin is Professor of Social Policy and Director of the Master\u2019s in Nonprofit Leadership Program, and Faculty Director of the Center for High Impact Philanthropy, all at the University of Pennsylvania. His research and teaching focus on nonprofit strategy, philanthropy, and social entrepreneurship. Frumkin is the author of&nbsp;On Being Nonprofit&nbsp;(Harvard University Press, 2002),Strategic Giving: The Art and Science of Philanthropy&nbsp;(University of Chicago Press, 2006), and&nbsp;The Essence of Strategic Giving: A Practical Guide for Donors and Fundraisers&nbsp;(University of Chicago Press, 2010). He is co-author of&nbsp;Serving Country and Community&nbsp;(Harvard University Press, 2010) and&nbsp;The Strategic Management of Charter Schools&nbsp;(Harvard Education Press, 2011). This spring, a new book,&nbsp;Building for the Arts: The Strategic Design of Cultural Facilities, will be published by the University of Chicago Press. It considers the many challenges that museum, theaters and performing arts centers face when they undertake ambitious capital construction projects. <br><br>Prior to coming to Penn, Frumkin was Professor of Public Affairs and Director of the RGK Center for Philanthropy and Community Service at the Lyndon B. Johnson School of Public Affairs, University of Texas at Austin. He has taught at Harvard University\u2019s John F. Kennedy School of Government and served as a senior fellow at the New America Foundation. Frumkin received his Ph.D. in sociology from the University of Chicago.<br>",
+            "department": "Nonprofit Leadership Program, School of Social Policy & Practice",
+            "fullName": "",
+            "id": "6185463",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/93/4b2aa0391911e4a77225d5f5dc4179/frumkin.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "Christine Savage has worked in addictions within a public health context for the majority of her career. She began working as the maternal child health nurse in Visiting Nursing Organizations in the 70s and 80s. Based on these experiences, she became interested in the role alcohol and drug use played in increasing vulnerability in certain populations, especially women. She became actively involved in the field of addictions nursing and served as president of the International Nurses Society on Addictions from 2003 to 2006. She is the editor of the NIAAA BSN curriculum on alcohol and health and served on the National Quality Forum\u2019s steering committee related to best practices for substance abuse prevention and treatment. She has conducted funded research related to alcohol use during pregnancy, management of health for the solitary homeless adult, and has been engaged in research related to nursing education in alcohol. She is currently serving as Chair of the&nbsp;<a href=\"http://nursing.jhu.edu/academics/departments/community-public-healh.html\">Community Public-Health Department</a>&nbsp;Johns Hopkins School of Nursing.",
+            "department": "Department of Community-Public Health",
+            "fullName": "",
+            "id": "8117804",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/aa/8732d0f63a11e39f31dd3c6c650ccf/christine_savage_pic.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9187723",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Gwen Wittenbaum",
+            "id": "15615991",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Jenks is an adjunct professor at the Columbia University School of International and Public Affairs and lectures at the Geneva Graduate Institute of International and Development Studies and at the University of Geneva. <br>He is a fellow at the Center for International Cooperation (CIC) at NYU and has been a senior non-resident fellow at the Corporate Social Responsibility Initiative of the Harvard University Kennedy School of Government (2010-13).<br>Dr. Jenks is currently co-leading a project&nbsp; on \u2018UN Development at a Crossroads\u2018&nbsp; funded by five&nbsp; governments. Since 2010, he has consulted with a number of Organisations, including the Office of the Secretary-General, the UN Department of Economic and Social Affairs, the UN Chief Executive Board, and AusAid.<br>In 2013 Dr. Jenks was appointed by the Secretary-General to be a member of the Council of the University for Peace, established by the United Nations General Assembly in 1980.<br>Dr. Jenks served as Assistant Secretary General at UNDP. He was&nbsp; responsible&nbsp; for UNDP\u2019s resource mobilization, and for relations with the Executive Board, donors, UN agency partners, the World Bank, OECD/DAC, the private sector and civil society ( 2000-10 ). <br>During this time, total income to UNDP amounted to $40 billion, increasing from $2.2 billion in 2000 to $5.5 billion in 2009. He established the&nbsp; Multi-Donor Trust Fund Office entrusted with the management of UN system- wide resources with a current portfolio of $6 billion. He worked closely with the last five UNDP Administrators.&nbsp; He served as Director of Budget and Chief of Staff&nbsp; and&nbsp; Director of the Office of Strategic Planning.<br>He was appointed by the Secretary General as the first Director of the UN Office in Brussels with a mandate to strengthen UN-EU relations.(1995-97).<br>Specific responsibilities have included oversight of the Executive Secretariat to the Private Sector Commission launched by the Secretary General and co-chaired by Ernesto Zedillo and Paul Martin, exercising overall coordination of UNDP\u2019s mandate to provide system wide leadership on the Millennium Development Goals (2002-04) and membership of the OECD/DAC Reflection Group charged with making recommendations on the future of the OECD/DAC. He served as Chair of the Secretary General\u2019s Task Force on strengthening relations with the European Union, Chair of the UN system wide NGO Committee, and Chair of the Advisory Board on Growing Inclusive Markets.<br>Dr. Jenks has a PHD from Oxford University, an MA from Johns Hopkins School of Advanced International Studies and a BA from Cambridge University. He has been a guest speaker at universities and conferences in some 40 countries and has authored numerous articles and policy papers.<br>In 2011, he was awarded an OBE (UK) and the Order of the Rising Sun, Gold Rays with Neck Ribbon (Japan). <br>",
+            "department": "International Organizations MBA",
+            "fullName": "",
+            "id": "2672304",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ef/5724bc37ea90821a46b104cc43e6fc/Jenks_Bruce.jpg",
+            "title": "Visiting professor"
+        },
+        {
+            "bio": "<strong>Maria Gill</strong><span>&nbsp;writes full-time in New Zealand and is a qualified teacher and journalist. For eleven years she organised a nationwide writers\u2019 group, and taught a Writing for Children paper at Massey University. Maria has written forty-four books including children\u2019s non-fiction, picture books, short stories, early readers, teaching units, and journalism articles. Five books were shortlisted in national awards, and six were Storylines Notable Books. She has been published with traditional, digital, and educational publishers, and self-publishes as well.</span><br>",
+            "department": "",
+            "fullName": "",
+            "id": "10993825",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1e/ff5bc00e1211e58568bdc7c3624d09/Maria-Gill.png",
+            "title": "Author"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Bradley Poulett",
+            "id": "14248155",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "11482488",
+            "title": ""
+        },
+        {
+            "bio": "Kenny Wong is an Associate Professor in the Department of Computing Science, at the University of Alberta, Canada. He received his B.Sc. and Ph.D. degrees in Computer Science from the University of Victoria, Canada. He has been a university instructor for 16 years, regularly teaching team-oriented, project-based software engineering courses, including several offerings of software process and product\nmanagement. His research in software engineering focuses on analyzing the root causes of problems in the structure, behavior, and management of complex software systems.",
+            "department": "Computing Science, Faculty of Science",
+            "fullName": "Kenny Wong",
+            "id": "14283726",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fa/229a1036cf11e5b290e9261be5bf8d/Wong.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "Peter Singer first became well-known internationally after the publication of&nbsp;Animal Liberation&nbsp;(1975). His newest book is called <em>The Most Good You Can Do: How Effective Altruism is Changing Ideas About Living Ethically</em> (Yale University Press, April 2015). His other books include:&nbsp;<em>Democracy and Disobedience</em>&nbsp;(1973);&nbsp;<em>Practical Ethics</em>&nbsp;(1979, 3rd. ed. 2011);&nbsp;<em>The Expanding Circle</em>&nbsp;(1981, new ed 2011);&nbsp;<em>Marx</em>&nbsp;(1980);&nbsp;<em>Hegel</em>&nbsp;(1983);&nbsp;<em>The Reproduction Revolution</em>&nbsp;(1984) (co-authored with Deane Wells);&nbsp;<em>Should the Baby Live?&nbsp;</em>(1986) (co-authored with Helga Kuhse);&nbsp;<em>How Are We to Live?</em>&nbsp;(1995);&nbsp;<em>Rethinking Life and Death</em>&nbsp;(1996);&nbsp;<em>One World</em>&nbsp;(2002);&nbsp;<em>Pushing Time Away</em>&nbsp;(2003);&nbsp;<em>The President of Good and Evil</em>&nbsp;(2004);&nbsp;<em>The Ethics of What We Eat</em>&nbsp;(2006) (co-authored with Jim Mason) and&nbsp;<em>The Life You Can Save</em>&nbsp;(2009).\n Singer holds his appointment at the Center jointly with his appointment\n as Laureate Professor at the University of Melbourne, attached to the \nCentre for Applied Philosophy and Public Ethics.<br>",
+            "department": "University Center for Human Values",
+            "fullName": "",
+            "id": "5063956",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f6/9430c928c5af2e12169cc4e8ec0d58/singer.png",
+            "title": "Ira W. Decamp Professor of Bioethics"
+        },
+        {
+            "bio": "Charmaine Williams is a registered social worker, an Associate Professor and the Associate Dean Academic at the Factor-Inwentash Faculty of Social Work at the University of Toronto. She has been practicing in hospital-based and community-based mental health for twenty years and she teaches courses in the areas of mental health, direct practice, social justice and diversity. Dr. Williams\u2019s program of research includes study of the experiences of individuals and families living with mental illness and access to mental health care services for marginalized populations. Current projects are looking at life after diagnosis for people diagnosed with schizophrenia and mental health, access to mental health care for lesbian, bisexual and transgendered women, and mental health and human rights consequences of living under conditions of LGBT-based discrimination.",
+            "department": "Faculty of Social Work",
+            "fullName": "",
+            "id": "882099",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/90/665e74b1fe7ca2747a592bc2f53b3e/Charmaine-Williams.jpeg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "Professor Jennifer Widom is the Fletcher Jones Professor and Chair of the Computer Science Department at Stanford University. She received her Bachelors degree from the Indiana University School of Music in 1982 and her Computer Science Ph.D. from Cornell University in 1987. She was a Research Staff Member at the IBM Almaden Research Center before joining the Stanford faculty in 1993. Her research interests span many aspects of nontraditional data management. She is an ACM Fellow and a member of the National Academy of Engineering and the American Academy of Arts & Sciences; she received the ACM SIGMOD Edgar F. Codd Innovations Award in 2007 and was a Guggenheim Fellow in 2000; she has served on a variety of program committees, advisory boards, and editorial boards.",
+            "department": "Computer Science",
+            "fullName": "",
+            "id": "1196954",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/41/479aa33ce2bc51068b975914cd8092/portrait.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Felipe Rivera",
+            "id": "14182698",
+            "title": ""
+        },
+        {
+            "bio": "Carlos Guestrin is the Amazon Professor of Machine Learning at the\nComputer Science & Engineering Department of the University of\nWashington.  He is also a co-founder and CEO of Dato, Inc.,\nfocusing on making it easy to build intelligent applications that use large-scale machine learning at their core.  His previous positions include the Finmeccanica Associate Professor at Carnegie Mellon University and senior researcher at the Intel Research Lab in Berkeley. Carlos is a recipient of a National Science Foundation CAREER Award, an Alfred P. Sloan Fellowship, and the Stanford Centennial Teaching Assistant Award.  Carlos was also named one of the 2008 `Brilliant 10' by Popular Science Magazine, received the IJCAI Computers and Thought Award from the top AI conference, and the Presidential Early Career Award for Scientists and Engineers (PECASE) from President Obama.\n",
+            "department": "Computer Science and Engineering",
+            "fullName": "Carlos Guestrin",
+            "id": "14033965",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/39/7121d04d0c11e5845c85eb46b1d03f/guestrin-dato.jpg",
+            "title": "Amazon Professor of Machine Learning"
+        },
+        {
+            "bio": "enseignant-chercheur en informatique ",
+            "department": "Computer Science",
+            "fullName": "Michel Ianotto ",
+            "id": "16514625",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e1/84d6e0c9ae11e5905ce9fcfd47c346/IMG_0457_Decoupe.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9217852",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Matthew Chrisman joined the Edinburgh department in August 2006 after finishing his PhD at the University of North Carolina at Chapel Hill.His research is focused on ethical theory, the philosophy of language, and epistemology. He has published widely in these areas, including articles in the Journal of Philosophy, the Australasian Journal of Philosophy, Oxford Studies in Metaethics, Philosophy and Phenomenological Research, Philosophers' Imprint and Philosophical Studies.\n\nHe is one of the lead authors of Philosophy for Everyone (Routledge 2014). His research monograph The Meaning of 'Ought': Beyond Descriptivism and Expressivism in Metaethics is forthcoming with Oxford University Press. He is editing a collection on Deontic Modality with Nate Charlow for Oxford University Press. And his textbook What Is This Thing Called Metaethics is under contract at Routledge.\n\nMatthew routinely teaches the following courses at the University of Edinburgh: Morality and Value (lectures on the Status of Morality, Why Be Moral, Kantianism, Contractualism, Virtue Ethics), Meta-Ethics, Advanced Philosophical Method (MSc), Further Topics in Meta-Ethics (MSc), Philosophy of Action, Environmental Ethics",
+            "department": "Philosophy",
+            "fullName": "Dr. Matthew Chrisman",
+            "id": "1935223",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/8b/58e97f92d612a4b304439902ec2a7b/matthewchrisman.jpeg",
+            "title": "Reader in Philosophy"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5756983",
+            "title": ""
+        },
+        {
+            "bio": "Norman Loayza is a Lead\nEconomist in the Development Economics Research Group at the World Bank.\nRecently, he was director of the World Development Report 2014, Risk and\nOpportunity: Managing Risk for Development. He is currently leading the\nnewly open World Bank Research Hub in Kuala Lumpur, Malaysia.<br><br>Norman\u2019s research has dealt with various areas of economic and social\ndevelopment, including macroeconomic management, economic growth, microeconomic\nflexibility, private and public saving, financial depth and stability, natural\ndisasters, and crime and violence.<br><br>His advisory experience at the World Bank has also ranged across\ndifferent topics in various regions and countries. A few examples include\nbusiness environment and economic performance in Latin America; informal and\nlabor markets in the Middle East and Northern Africa; public infrastructure\ngaps in Pakistan and Egypt; savings for macroeconomic stability and growth in\nSri Lanka, Georgia, and Egypt; and pro-poor growth in Indonesia and Peru. On\nexternal service from the World Bank, he was a Senior Economist at the Central\nBank of Chile (1999\u20132000), where he advised on financial and monetary policy.\nNorman has edited 9 books and published about 40 papers in professional\njournals and edited volumes. A Peruvian national, he holds a Ph.D. in economics\nfrom Harvard University.\n\n<br><br><br>",
+            "department": "Development Economics Research Group",
+            "fullName": "",
+            "id": "7226393",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7c/1bc640bff311e38b2aefa7e162a72d/norman.png",
+            "title": "Lead Economist"
+        },
+        {
+            "bio": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u673a\u68b0\u4e0e\u52a8\u529b\u5de5\u7a0b\u5b66\u9662\u6559\u6388\uff0c\u535a\u58eb\u751f\u5bfc\u5e08\u3002\u7f8e\u56fd\u5bc6\u6b47\u6839\u5927\u5b66\u673a\u68b0\u5de5\u5b66\u9662\u3001\u6cd5\u56fd\u91cc\u6602\u7b2c\u4e8c\u5927\u5b66\u8bbf\u95ee\u5b66\u8005\u3002\u6559\u80b2\u90e8\u9ad8\u7b49\u5b66\u6821\u5de5\u7a0b\u56fe\u5b66\u6559\u5b66\u6307\u5bfc\u59d4\u5458\u4f1a\u59d4\u5458\uff1b\u4e2d\u56fd\u5de5\u7a0b\u56fe\u5b66\u5b66\u4f1a\u7406\u4e8b\u3001\u7406\u8bba\u56fe\u5b66\u4e13\u59d4\u4f1a\u59d4\u5458\uff1b\u4e0a\u6d77\u5e02\u5de5\u7a0b\u56fe\u5b66\u5b66\u4f1a\u526f\u7406\u4e8b\u957f\uff0c\u6570\u5b57\u5316\u8bbe\u8ba1\u4e0e\u5236\u9020\u4e13\u4e1a\u59d4\u5458\u4f1a\u4e3b\u4efb\uff1b\u56fd\u9645ISGG Group Member\u3002\u4e0a\u6d77\u4e5d\u4e09\u5b66\u793e\u6587\u6559\u59d4\u5458\u4f1a\u59d4\u5458\u3002<p>\u3000\u3000\u4e3b\u8981\u4ece\u4e8b\u73b0\u4ee3\u8bbe\u8ba1\u53ca\u7406\u8bba\u3001\u8ba1\u7b97\u673a\u56fe\u5f62\u5b66\uff0c\u6570\u5b57\u5316\u8bbe\u8ba1\u4e0e\u5236\u9020\u6280\u672f\uff0c\u79d1\u5b66\u8ba1\u7b97\u53ef\u89c6\u5316\u7b49\u65b9\u9762\u7684\u7814\u7a76\u548c\u5e94\u7528\u3002\u8d1f\u8d23\u56fd\u5bb6\u79d1\u6280\u91cd\u5927\u4e13\u9879\u3001\u4e0a\u6d77\u5e02\u6838\u7535\u4e2d\u5fc3\u9879\u76ee\uff0c\u4e3b\u53c2\u201c973\u201d\u3001\u56fd\u5bb6\u81ea\u7136\u57fa\u91d1\u91cd\u70b9\u9879\u76ee\u7b49\u3002\u51fa\u7248\u8457\u4f5c\u5341\u4f59\u90e8\uff0c\u8bba\u6587\u8fd1\u56db\u5341\u7bc7\u3002</p><p>\u3000\u3000\u4e3b\u8bb2\u5b66\u9662\u6838\u5fc3\u8bfe\u8bbe\u8ba1\u4e0e\u5236\u9020\u57fa\u7840\u3001\u73b0\u4ee3\u673a\u68b0\u5de5\u7a0b\u56fe\u5b66\uff0c\u4ee5\u53ca\u5de5\u79d1\u4e13\u4e1a\u57fa\u7840\u8bfe\u2014\u2014\u5de5\u7a0b\u56fe\u5b66\u7b49\u8bfe\u7a0b\u30021996\u5e74\u83b7\u5f97\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u9996\u5c4a\u6559\u5b66\u65b0\u79c0\u5956\uff0c\u66fe\u83b7\u5f97\u56fd\u5bb6\u548c\u4e0a\u6d77\u5e02\u6559\u5b66\u6210\u679c\u4e00\u7b49\u5956\u3001\u6559\u80b2\u90e8\u4f18\u79c0\u6559\u6750\u4e8c\u7b49\u5956\u3002\u201c\u73b0\u4ee3\u673a\u68b0\u5de5\u7a0b\u56fe\u5b66\u201d\u8bfe\u7a0b\u83b7\u5f97\u9996\u5c4a\u56fd\u5bb6\u7cbe\u54c1\u8bfe\u7a0b\uff0c\u4e3b\u6301\u4e86\u4e0a\u6d77\u5e02\u6559\u59d4\u91cd\u70b9\u5efa\u8bbe\u8bfe\u7a0b\u201c\u8bbe\u8ba1\u4e0e\u5236\u9020\u57fa\u7840\u201d\uff0c\u5e76\u83b7\u5f97\u4e0a\u6d77\u5e02\u7cbe\u54c1\u8bfe\u7a0b\u3002\u83b7\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u6559\u5b66\u6210\u679c\u5956\u3001\u4f18\u79c0\u6559\u6750\u5956\u548c\u4f18\u79c0\u6559\u5e08\u5956\u591a\u9879\u3002</p>",
+            "department": "",
+            "fullName": "",
+            "id": "6108310",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/06/cd3ab07f1911e385bc8989c263e007/___-4.jpg",
+            "title": "Prof."
+        },
+        {
+            "bio": "Professor Lam Lung Yeung is the Project Manager and Adjunct Associate\nProfessor in the Department of Chemistry at HKUST. He is also an Adjunct\nAssociate Professor of HKUST\u2019s Institute for the Environment. His research\nfocuses on indoor air quality, cooking fume pollution and their remediation\ntechnologies evaluation. As a researcher and educator, Prof. Yeung has\na distinguished record in collaborating with various departments in the\nHong Kong Government including the Environmental Protection Department,\nGovernment Laboratory and Education Bureau on various projects.",
+            "department": "Department of Chemistry",
+            "fullName": "",
+            "id": "1343630",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c8/79e5030ccad24824c3bcc6988fcb63/Lam-Lung-Yeung.jpeg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2038687",
+            "title": ""
+        },
+        {
+            "bio": "Larry Foulke is a retiree from the nuclear industry who failed at retirement\nand who loves to teach. After retirement, he created a series of courses\nin nuclear engineering at the University of Pittsburgh for both undergraduate\nand graduate students. Larry is currently an adjunct full professor who\nhas an earned doctorate in nuclear engineering, P.E. registration (nuclear)\nin the State of Pennsylvania, and extensive experience in nuclear science\nand technology from a 40-year career in the nuclear industry.\n<br>\n<br>Dr. Foulke also is well known and highly regarded within the nuclear industry\nhaving served as President of the American Nuclear Society in 2003-2004.",
+            "department": "Director of Outreach, Nuclear Engineering Program",
+            "fullName": "",
+            "id": "1564078",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5e/47dc98836daca67ca14b28d17b3a02/Larry_Foulke_01_sm2.jpg",
+            "title": "Adjunct Professor, Department of Mechanical Engineering and Materials Science"
+        },
+        {
+            "bio": "I am a Chancellor\u2019s Research Fellow in the Physical Activity for Health Research Centre, Institute for Sport, Physical Education and Health Sciences, University of Edinburgh. \n\nMy background is in the development and evaluation of interventions to help people become more active. I focus on lifestyle behaviours, such as walking and cycling, that people can fit into their daily lives and have a particular interest in making physical activity interventions accessible to all individuals and reducing health \ninequalities.",
+            "department": "Physical Activity for Health Research Centre",
+            "fullName": "Graham Baker",
+            "id": "16672209",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/07/ac4e30a56911e58b7829d2abc9fe56/IMG_1259_1024.jpg",
+            "title": "Chancellor's Fellow"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "8591393",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Yuval Noah Harari lectures at the Department of History, the Hebrew University of Jerusalem. He specializes in World History, medieval history and military history. For the past decade he has been teaching an introductory course in World History to various groups of students at the Hebrew University, including Israelis, Palestinians and foreign exchange students; Jews, Christians, Muslims and atheists. His teaching philosophy is focused on provoking the students to question the basic narratives of our world, to connect past developments with present concerns, and not to be afraid of controversial issues. <br><br>His most recent book, From Animals into Gods: A Brief History of Humankind (2012) was originally published in Hebrew. After becoming a national bestseller in Israel, it is has now been translated into different languages including English and German. His current studies focus on the connection between history and biology, on the ethics of history, and on the history of happiness and suffering.<br><br>His many other publications include Special Operations in the Age of Chivalry, 1100-1550 (2007); The Ultimate Experience: Battlefield Revelations and the Making of Modern War Culture, 1450-2000 (2008); \u201cThe Concept of \u2018Decisive Battles\u2019 in World History\u201d, The Journal of World History 18:3 (2007), 251-266; and \u201cArmchairs, Coffee and Authority: Eye-witnesses and Flesh-witnesses Speak about War, 1100-2000\u201d, The Journal of Military History 74:1 (January 2010), pp. 53-78.",
+            "department": "Department of History",
+            "fullName": "",
+            "id": "1804614",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/62/2e52549ed0d95b32c0948f01d88853/Harari-picture.jpg",
+            "title": ""
+        },
+        {
+            "bio": "<p><a href=\"http://www.cbs.dtu.dk/staff/show-staff.php?id=525\">Anders Gorm Pedersen</a> is a Professor of Bioinformatics at the <a href=\"http://www.cbs.dtu.dk\" text=\"CBS\">Center for Biological Sequence Analysis (CBS)</a> at <a href=\"http://www.bio.dtu.dk/English.aspx\" text=\"DTU Systems Biology\">DTU Systems Biology</a>. Anders'&nbsp;main area of interest&nbsp;is pathogen evolution, with a focus on identifying and understanding molecular determinants of virulence and species specificity.&nbsp;</p><p><br></p>",
+            "department": "DTU Systems Biology",
+            "fullName": "",
+            "id": "2526797",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2c/07efd9165277c7d9960e661f5ae097/Anders.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "664400",
+            "title": ""
+        },
+        {
+            "bio": "Tom Sanchez earned his PhD in City Planning from Georgia Tech in 1996\nand has since taught at Iowa State University, Portland State University,\nthe University of Utah, and is currently professor of Urban Affairs and\nPlanning at <b>Virginia Tech</b>. Dr. Sanchez conducts research in the areas\nof environmental justice, technology, and the social aspects of planning\nand policy. He also serves as editor of <i>Housing Policy Debate</i> and\nis a nonresident senior fellow of the Brookings Institution. You can follow\nDr. Sanchez on Twitter <a href=\"https://twitter.com/tomwsanchez\">@tomwsanchez</a>.\n<br>",
+            "department": "Urban Affairs and Planning",
+            "fullName": "",
+            "id": "1847439",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c1/c3f0d7b1844e2cf384e92d5092b39b/T-sanchez.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "Marc Badia is Assistant Professor in the department of Accounting and Control at IESE Business School (University of Navarra). He earned his Ph.D. in Financial Accounting with distinction from Columbia University (New York) and his MBA from IESE Business School.\n\nHis research interests focus on fair value accounting and the use of financial statement analysis for equity valuation. He has carried out consulting projects related to business valuation, cost systems, and stock trading strategies based on fundamentals.\n",
+            "department": "Accounting and Control",
+            "fullName": "Marc Badia",
+            "id": "13671245",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d2/50346091e811e58bcd5d051227ff0c/MB.jpg",
+            "title": "Assistant Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Christine Kirkpatrick",
+            "id": "10066450",
+            "title": ""
+        },
+        {
+            "bio": "Sam Shelton is a nationally recognized expert in energy systems. He is the founding director of the <a href=\"http://www.energy.gatech.edu/\" target=\"_blank\" title=\"Link: http://www.energy.gatech.edu/\">Georgia Tech Strategic Energy Institute</a>, an interdisciplinary technology development-based resource started in 2003. The institute is actively engaged with industry to facilitate near-term, high-impact solutions to national and regional energy challenges. <br><br>As a professor for 35 years, Shelton developed in-class and web-delivered undergraduate- and graduate-level energy technology courses. His primary research focus has been renewable and efficient energy technology development, receiving over $30 million in R&amp;D funding. He holds eight patents in energy technologies and founded two companies that develop, manufacture, and market energy-efficient products. Additionally, starting in the 1980s, Shelton was among the pioneers developing commercial solar energy technologies for the assessment of offshore wind farms. His favorite hobby is flying experimental airplanes.",
+            "department": "Woodruff School of Mechanical Engineering",
+            "fullName": "Dr. Sam Shelton",
+            "id": "862822",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/0f/0975106cfa11e5a7c8fdf6fe52f9fc/SamProfPhoto.jpg",
+            "title": "Professor Emeritus"
+        },
+        {
+            "bio": "&nbsp;",
+            "department": "Natural History Museum of Denmark",
+            "fullName": "James Connelly",
+            "id": "5970141",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ef/00453070a311e49380b552458d78a0/Jim-Conelly.png",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "Ed Dev",
+            "fullName": "Catherine Ryan",
+            "id": "13653460",
+            "title": "MOOC Ed Dev"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "16423259",
+            "title": ""
+        },
+        {
+            "bio": "<div>Prof. Cheung is an assistant professor in the Department of Cultural and Religious Studies. He received his M.Phil. and Ph.D. from the Division of Intercultural Studies, the Chinese University of Hong Kong. He was a visiting scholar of Harvard-Yenching\n    Institute (2009-2010).&nbsp;</div>\n<div>\n    <br>\n</div>\n<div>His research interests include modern Chinese literature and culture, literary theory, western Marxism, global capitalism, and post-modern culture. His representative paper \u201cThe Politics of Time: On the Technologized Visuality and its Instructing Stance\n    in Lu Xun\u2019s essays\u201d was published in <i>Visual Culture: the Reader</i> (Guangxi Normal University Press). He won the \u201cAward for the Best Research Output by Research Postgraduate Students 2004, CUHK\u201d for this paper. Cheung\u2019s research papers have also\n    been published in academic journals such as <i>Chung-Wai Literary Monthly</i>, <i>Router: a journal of cultural studies</i>,<i> Contemporary Writers Review</i>, <i>Forum of Intellectuals</i> and <i>Reviews and Research on Chinese Literature</i>.</div>\n<div>\n    <br>\n</div>\n<div>\n\u5f35\u6b77\u541b\u6559\u6388\u70ba\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u6587\u5316\u53ca\u5b97\u6559\u7814\u7a76\u7cfb\u52a9\u7406\u6559\u6388\u3002\u4ed6\u65bc\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u8de8\u6587\u5316\u7814\u7a76\u5b78\u90e8\u53d6\u5f97\u54f2\u5b78\u78a9\u58eb\u548c\u535a\u58eb\u3002\u4ed6\u66fe\u662f\u54c8\u4f5b\u71d5\u4eac\u5b78\u793e\u7684\u8a2a\u554f\u5b78\u4eba\uff082009-2010\uff09\u3002\n</div>\n<div>\n    <br>\n</div>\n<div>\n\u7814\u7a76\u8208\u8da3\u5305\u62ec\u73fe\u4ee3\u4e2d\u570b\u6587\u5b78\u548c\u6587\u5316\u3001\u6587\u5b78\u7406\u8ad6\u3001\u897f\u65b9\u99ac\u514b\u601d\u4e3b\u7fa9\u3001\u5168\u7403\u8cc7\u672c\u4e3b\u7fa9\u4ee5\u53ca\u5f8c\u73fe\u4ee3\u6587\u5316\u3002\u4ee3\u8868\u6027\u8ad6\u6587\u3008\u6642\u9593\u7684\u653f\u6cbb\uff1a\u8ad6\u9b6f\u8fc5\u96dc\u6587\u4e2d\u7684\u300c\u6280\u8853\u5316\u89c0\u8996\u300d\u53ca\u5176\u300c\u6559\u5c0e\u59ff\u614b\u300d\u3009\uff0c\u767c\u8868\u65bc\u5ee3\u897f\u5e2b\u7bc4\u5927\u5b78\u51fa\u7248\u793e\u51fa\u7248\u7684\u300a\u8996\u89ba\u6587\u5316\u8b80\u672c\u300b\u3002\u4ed6\u6191\u8a72\u6587\u7372\u5f97\u4e862004 \u5e74\u5ea6\u9999\u6e2f\u4e2d\u6587\u5927\u5b78\u7814\u7a76\u751f\u6700\u4f73\u7814\u7a76\u6210\u7e3e\u734e\u3002\u5f35\u6b77\u541b\u7684\u8ad6\u6587\u4ea6\u6563\u898b\u65bc\u300a\u4e2d\u5916\u6587\u5b78\u300b\u3001\u300a\u6587\u5316\u7814\u7a76\u5b78\u520a\u300b\u3001\u300a\u7576\u4ee3\u4f5c\u5bb6\u8a55\u8ad6\u300b\u3001\u300a\u77e5\u8b58\u4efd\u5b50\u8ad6\u53e2\u300b\u548c\u300a\u73fe\u4ee3\u4e2d\u6587\u5b78\u520a\u300b\u7b49\u5b78\u8853\u671f\u520a\u3002\n</div>",
+            "department": "Department of Cultural and Religious Studies",
+            "fullName": "",
+            "id": "5233735",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/03/e23512169ba77aa1cec307e0a9a08d/likkwancheung_150.jpg",
+            "title": "Assistant Professor"
+        },
+        {
+            "bio": "Marie Vandendriessche es\u00a0investigadora en ESADEgeo - Center for Global Economy and Geopolitics (Barcelona/Madrid) y coordinadora de diversos proyectos del mismo centro. Posee\u00a0un M\u00e1ster en\u00a0Relaciones Internacionales de IBEI (Institut Barcelona d\u2019Estudis Internacionals), con especializaci\u00f3n en pol\u00edtica econ\u00f3mica del desarrollo y pol\u00edtica medioambiental internacional. En su tesina, estudi\u00f3 el papel de la Uni\u00f3n Europea en las negociaciones internacionales sobre el cambio clim\u00e1tico. Tambi\u00e9n ha recibido formaci\u00f3n ejecutiva en la Academy for Global Governance de la European University Institute (Florencia). Su investigaci\u00f3n actual se centra en la gobernanza global y la geopol\u00edtica de la energ\u00eda, habiendo contribuido recientemente con la Energy Security and Climate Initiative (ECSI) de Brookings Institution (Washington DC). ",
+            "department": "ESADEgeo Center for Global Economy and Geopolitics",
+            "fullName": "Marie Vandendriessche",
+            "id": "14892645",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2a/8d8260678011e588729b009dc7db66/Captura-de-pantalla-2015-09-30-a-las-16.28.41.jpg",
+            "title": "Investigadora"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2604716",
+            "title": ""
+        },
+        {
+            "bio": "Dr Jack Barton is the Urban Data and eResearch Facilitator for the Australian Urban Research Infrastructure Network (AURIN). Jack's Architectural PhD at the University of New South Wales focussed on the design of a spatial decision support system for the management of public housing; he subsequently worked as a Research Fellow at the City Futures Research Centre and has run his own urban modelling consultancy for over a decade. Jack's research interests include 3D Urban Modelling, Geodesign, Spatial Decision Support Systems and community knowledge management.",
+            "department": "Australian Urban Research Infrastructure Network (AURIN)",
+            "fullName": "Jack Barton",
+            "id": "9887939",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/6e/71c800b12e11e4a9da0bab76d17cef/JBarton.jpg",
+            "title": "Urban Data and eResearch Facilitator"
+        },
+        {
+            "bio": "Natasha Balac, Ph.D. is the Director of Predictive Analytics Center of Excellence at the San Diego Supercomputer Center (SDSC) encompassing many data mining projects including collaborations with UC San Diego Medical School and UC San Diego's Smart Energy Grid. Natasha received her Ph.D. in Computer Science from Vanderbilt University with an emphasis in Machine Learning from large data sets. She has been with SDSC since 2003 leading multiple large projects and collaborations across a wide range of organizations in industry, government and academia including the Centers for Medicare and Medicaid Services (CMS), National Science Foundation (NSF), National Institutes of Health (NIH), and the California Energy Commission (CEC).",
+            "department": "San Diego Supercomputer Center",
+            "fullName": "Natasha Balac",
+            "id": "4972118",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/11/f4dc504dd911e58ddc8ff4d6e0523a/balac.jpg",
+            "title": "Director, Predictive Analytics Center of Excellence (PACE)"
+        },
+        {
+            "bio": "Professor Raghu Iyengar's research investigates how consumers respond to nonlinear pricing schemes. Recently, Iyengar considered the impact of nonlinear pricing schemes within wireless services and modeled how consumers learn about their own consumption as well as the quality of a service provider. He found that both quality and quantity learning are important factors of the model and this dual learning, in turn, affects consumers' choice of service plans and consumption of minutes. He also found that that about 90 percent of quality learning takes place within the first five service encounters. This suggests that the first few service encounters are critical for firms as consumers rapidly form beliefs about the quality of a firm's service from these first impressions.\nProfessor Iyengar's other current research projects focus on optimal design of nonlinear pricing schemes using conjoint analysis, semiparametric methods for modeling heterogeneity, and structural models of social networks. \n",
+            "department": "The Wharton School",
+            "fullName": "Raghu Iyengar",
+            "id": "2974984",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1c/a2b300356211e5a9bdef9753c17972/Raghu-Iyengar.jpg",
+            "title": "Associate Professor of Marketing"
+        },
+        {
+            "bio": "<p><b>Ted Blake, </b>is the Coordinator of the Basic Skills Program and Learning Center at Mt. San Jacinto College in Menifee, CA. He has been recognized as an outstanding teacher at the University of Kansas, University of Georgia, Principia College, and Idyllwild Arts Academy as well as being voted faculty of the year at MSJC in 2011. After teaching English for 20 years, Ted is now coordinating efforts in and has given numerous presentations about teaching innovation in the community colleges with an emphasis on non-cognitive skill building, the flipped classroom, and metacognitive teaching strategies.&nbsp;<br></p>",
+            "department": "",
+            "fullName": "",
+            "id": "2653304",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/09/ac1d9f9decb4b3736cb667f5527483/TBlake.jpg",
+            "title": "Professor of English"
+        },
+        {
+            "bio": "&nbsp;",
+            "department": "Natural History Museum of Denmark",
+            "fullName": "",
+            "id": "10165197",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/96/0d4d9070a011e4905f535c1b58e82f/Gitte-Petersen.png",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "<p><b><span>Amy L McQuigge,&nbsp;</span></b><span>Special\nProjects Coordinator, School for Graduate Studies, SUNY Empire State College.\n&nbsp;In the School for Graduate Studies, Amy is responsible for the graduate\nresidencies, community space design and facilitation, prior learning assessment, strategic planning, program proposals, and other projects.&nbsp; Amy also focuses on open education\ninitiatives including digital badging, open textbooks, MOOCs, prior learning\nassessment, and open access publishing. &nbsp;She has presented nationally on\nseveral important trends and movements in higher education and alternative\nstudent learning methods. &nbsp;Amy is currently working on a Lumina Foundation\ngrant to assess university-level learning at the college. Amy is working on a\nPh.D. in Educational Administration and Policy Studies at the University at\nAlbany. &nbsp;</span></p>",
+            "department": "School for Graduate Studies",
+            "fullName": "",
+            "id": "9320339",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/83/6a85a07a3111e4b8414b056f2ca0a7/Bio-Photo.jpg",
+            "title": "Special Project Coordinator"
+        },
+        {
+            "bio": "<p>Aravind Vijayaraghavan is a Lecturer in Nanomaterials in the\nSchool of Materials at the University of Manchester. He was born in Chennai,\nIndia and received his B.Tech. (in 2000) from the Indian Institute of\nTechnology Chennai. He subsequently obtained an M.Eng. (in 2002) and Ph.D. (in\n2005) from Rensselaer Polytechnic Institute, USA. He has previously held\npositions as senior post-doctoral associate at Massachusetts Institute of\nTechnology, USA and an Alexander von Humboldt fellowship at Karlsruhe Institute\nof Technology, Germany. </p>\n\n<p>Aravind leads the Nano-functional Materials research group\nat the University of Manchester, which includes a team of post-doctoral\nresearchers and undergraduate, masters and doctoral students. His research\nprimarily covers the production, properties and applications of graphene and\n2-d materials, particularly in sensors, composite materials and bio-medical\nsystems. He has published over 50 research papers in international peer\nreviewed journals and given over 50 presentations at international conferences.\nHe is also an active science communicator, and was awarded the Josh Award for\nInnovation in Science Communication in 2013. He has also been delivering a\nseries of public lectures on Graphene since 2011 (over 30 so far) titled Graphene:\nUnexpected Science in a Pencil Line.</p>",
+            "department": "School of Materials and National Graphene Institute",
+            "fullName": "",
+            "id": "13138497",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/46/96c400037911e5bf75cd8b615a76de/aravind2.jpg",
+            "title": "Lecturer in Nanomaterials"
+        },
+        {
+            "bio": "\u5f20\u8389\uff0c\u81ea\u79f0\u5f20\u5927\u58ee\uff0c\u540c\u5b66\u4eec\u4e00\u822c\u79f0\u5927\u58ee\u8001\u5e08\uff0c\u5e73\u65f6\u4e0a\u8bfe\u8d70\u4eb2\u5207\u98ce\u51b7\u5e7d\u9ed8\u8def\u7ebf\uff0c\u8ddf\u540c\u5b66\u4eec\u76f8\u5904\u6109\u5feb\uff0c\u9ed1\u6210\u4e00\u7247\u3002\u535a\u58eb\uff0c\u5357\u4eac\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb\u57fa\u7840\u6559\u5b66\u90e8\u6559\u5e08\uff0c\u526f\u6559\u6388\uff0c\u4e3b\u8981\u7814\u7a76\u9886\u57df\u4e3a\u6570\u636e\u6316\u6398\u548c\u81ea\u7136\u8bed\u8a00\u5904\u7406\uff0c\u4e3b\u6301\u548c\u53c2\u4e0e\u591a\u4e2a\u56fd\u5bb6\u57fa\u91d1\u79d1\u7814\u9879\u76ee\u548c\u6559\u80b2\u90e8\u6559\u6539\u9879\u76ee\u3002",
+            "department": "\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\u7cfb",
+            "fullName": "\u5f20\u8389",
+            "id": "10504985",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/86/7bb65030d511e5ab280527ee90a5e5/pic.jpg",
+            "title": "\u526f\u6559\u6388"
+        },
+        {
+            "bio": "Mr. Wilson founded Initiatives Consulting LLC in 1997 to help clients turn technical ideas into new products and companies. Initiatives Consulting, LLC has created business plans, marketing support, and road show coaching that has been instrumental in starting six companies, raising several million dollars of seed money, and launching four new medical devices; including most recently a proprietary syringe-product and a device to reduce catheter-related blood stream infections. <br><br>Since 2004, Wilson\u2019s training company (<a href=\"http://www.neworks.biz\">www.neworks.biz</a>) has taken nearly 500 teams through an intense workshop to jump-start their technology-based product ideas. This program has launched well over 100 pre-seed stage companies out of university research and patents which have gone on to collectively raise over $100 million in equity funding. (<a href=\"http://www.preseedworkshop.com)\">www.preseedworkshop.com)</a>.<br><br>With diverse roles prior to Initiatives in product design, process engineering, optical tooling, lean manufacturing and automation, Wilson has been involved in the creation and launch of five new medical device platforms currently generating more than $1 billion in annual sales. As a part-time academic, Wilson is driven to simplify, quantify, and systematize the fuzzy-front-end of innovation.<br><br><br>",
+            "department": "Simon Business School",
+            "fullName": "",
+            "id": "9334234",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d9/8668603b7e11e4a5a3a9e8c97c0faf/MarkWilson-3.jpg",
+            "title": "Lecturer in Entrepreneurship"
+        },
+        {
+            "bio": "Originally a teacher of children with specific learning difficulties, Gill has \nrun a special care unit for children with severe learning difficulties. Her \ninterests are in literacy development, as well as the impact of training on \nteachers and teaching assistants in their work place.<br><br><br>",
+            "department": "UCL Institute of Education, University of London",
+            "fullName": "",
+            "id": "6915658",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4b/a34240e1a911e3b1065dc911bff180/Gill-photo.JPG",
+            "title": "Department of Psychology and Human Development"
+        },
+        {
+            "bio": "Prof. Chong received his Bachelor degree in Economics from the Chinese University of Hong Kong in 1991, and Ph.D. in Economics from the University of Rochester in 1995. &nbsp;He is currently the executive director of Institute of Global Economics and Finance, and associate professor of Economics, The Chinese University of Hong Kong. &nbsp;His main research areas include Econometrics and Finance. &nbsp;He has published over 200 Chinese and English articles covering a wide spectrum of topics in Econometrics, Finance, Mathematics, Psychology, Education and the Chinese Economy.<br><br><div>Prof. Chong ranks top 37th worldwide in theoretical econometrics and top 5% authors worldwide according to the Number of Distinct Works and Number of Journal Pages per author. &nbsp;His papers appear in reputable international journals, including Journal of Econometrics, Econometric Theory, Econometric Review, Econometrics Journal, Financial Management, Quantitative Finance, Financial Review, Pacific-Basin Finance Journal, Journal of Economic Psychology, Economics Letters and China Economic Review. &nbsp;Some of his papers are lead articles or the most downloaded papers of the journals. &nbsp;Prof. Chong has been a Part-time member of the Central Policy Unit of the HKSAR Government. &nbsp;He is currently the associate editor of Singapore Economic Review and Economics Bulletin, the Associate Dean of Students of New Asia College, a member of the Board of Governors of Hong Lok Yuen International School, and the director of the Financial Markets Program, Hong Kong Institute of Asia-Pacific Studies.</div>",
+            "department": "",
+            "fullName": "",
+            "id": "2600267",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7b/d06e2bcefc13e293890863fcd2d454/chong_150.png",
+            "title": "Executive Director, Institute of Global Economics and Finance, and Associate Professor, Department of Economics"
+        },
+        {
+            "bio": "",
+            "department": "\u041a\u0430\u0444\u0435\u0434\u0440\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 (Department of the Russian Language)",
+            "fullName": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043d\u0430 \u0411\u0430\u043d\u043a\u043e\u0432\u0430 (Tatiana B. Bankova)",
+            "id": "16644293",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/0a/1a55b0a79211e5a894ad7ff73294ef/3_______-_._..jpg",
+            "title": "\u041a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0444\u0438\u043b\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0443\u043a, \u0434\u043e\u0446\u0435\u043d\u0442 (Candidate of Philological Sciences, Associate Professor)"
+        },
+        {
+            "bio": "Professor Kerrie Unsworth is currently an adjunct professor at UWA. Recently she joined the Leeds Business School, UK, as a Professor of Organisational Behaviour. Kerrie is an Associate Editor with the Journal of Organizational Behavior and the incoming treasurer for the US Academy of Management (AoM) Managerial and Organizational Cognition (MOC) division. Kerrie\u2019s primary research interests concern improving employee motivation, creativity and well-being. Specifically, she has published on job design, goal hierarchy and motivation, self-leadership, well-being, creativity and innovation. Kerrie has published in a range of top academic journals, including Academy of Management Review, and her work has received more than 800 citations. She has also won in excess of AUS$1.6m in public and private sector research funding over the past 10 years.",
+            "department": "UWA Business School",
+            "fullName": "Kerrie Unsworth",
+            "id": "13715599",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4c/21f5c0ba6711e5b7f4377491ebab0b/kerrie_unsworth.jpg",
+            "title": "Honorary Research Fellow"
+        },
+        {
+            "bio": "Larry\nLagerstrom is an Academic Director and historian of science at Stanford University. His degrees include\na Ph.D. in history and an M.A. in physics from the University of California at\nBerkeley. Before coming to Stanford he taught for sixteen years at U.C.\nBerkeley and U.C. Davis, covering subjects ranging from the history of science\nand technology to computer science and engineering. He has received three\nawards for excellence in teaching.<br><br><br><br>",
+            "department": "",
+            "fullName": "",
+            "id": "2691794",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f1/865f97dd7cab7beb8754f6c22dea4a/LRLagerstrom-head-shot-150x150.jpg",
+            "title": "Academic Director"
+        },
+        {
+            "bio": "Karl T. Ulrich is Vice Dean of  Entrepreneurship and Innovation and the CIBC Professor of Entrepreneurship and e-Commerce at the Wharton School of the University of Pennsylvania. He also holds an appointment as Professor of Mechanical Engineering. His research is focused on innovation, entrepreneurship, and product development.\n\nHe is the co-author of Product Design and Development (5th Edition, McGraw-Hill, 2011), a textbook used by a quarter of a million students worldwide. His most recent book is Innovation Tournaments (Harvard Business Press, 2009). He is the winner of many teaching awards, including the Anvil Award, the Miller-Sherrerd Award, and the Excellence in Teaching Award at The Wharton School. At Penn, he co-founded the Weiss Tech House and the Integrated Product Design Program, two institutions fostering innovation in the university community.\n\nIn addition to his academic work, Professor Ulrich has led dozens of innovation efforts for medical devices, tools, computer peripherals, food products, web-based services, and sporting goods. As a result of this work, he holds more than 20 patents. Professor Ulrich is a founder of Terrapass Inc. which the New York Times identified as one of the most noteworthy ideas of 2005, and he is a designer of the Xootr scooter, which Business Week recognized as one of the 50 coolest products of the 21st Century. Professor Ulrich holds bachelor's, master's, and doctoral degrees in mechanical engineering from MIT.\n",
+            "department": "CIBC Endowed Professor, Professor of Operations, Information and Decisions",
+            "fullName": "Karl  T. Ulrich",
+            "id": "341966",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ca/08db309dce11e58879c9e12f42f2e8/KArlUlrich.jpg",
+            "title": "Vice Dean of Entrepreneurship and Innovation"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Pierre Rolin",
+            "id": "14752898",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3697430",
+            "title": ""
+        },
+        {
+            "bio": "Angelica Torices is a Postdoctoral Researcher at the University of Alberta, Edmonton, Canada, under the supervision of Dr. Philip J. Currie since 2011. With experience in supporting and delivering Dino101 as well as working on several new online projects in the field of paleontology her experience and work in this environment as well as her academic research has culminated in her taking on the Dino101 MOOC as well as the associated courses within the University of Alberta.\n\nShe was born in Madrid, Spain and wanted to become a paleontologist since she was four years old. She graduated in Geology with a specialization in Paleontology by the University Complutense of Madrid and she obtained her MSc in 2002 at the same university and a PhD in Paleontology in 2007.\n\nThe research focus of her PhD was \"Theropod dinosaurs from the upper Cretaceous of the South-Pyrenees Basin\". As a researcher she focuses on the study of Upper Cretaceous theropod dinosaurs from North America and their comparison with European faunas, the paleobiogeographic origin of the European theropod faunas and the evolution of the diversity of these dinosaurs in the Cretaceous.\n\nHer current research has triggered a paleoenvironmental and paleoecological study of the dinosaur fauna from Horseshoe Canyon and Dinosaur Park Formation through isotope analysis. She has been involved in several scientific projects studying paleoclimate and paleoenvironmental factors in critical periods, with special emphasis on the K/T boundary and has published 28 peer reviewed papers and 45 peer reviewed abstracts in national and international conferences.",
+            "department": "Department of Biological Sciences",
+            "fullName": "Angelica Torices, Ph.D",
+            "id": "4581731",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/01/937650a2c011e5a1f7d940fa69b157/Angelica-Torices.jpg",
+            "title": "Postdoctoral Fellow"
+        },
+        {
+            "bio": "<p><b>Helene Grandvoinnet</b><span> is a governance\nexpert, with twenty years of experience in research, policy\ndialogue, and project design and management on a whole gamut of governance\nareas: transparency and accountability, decentralization, public finances,\njustice reform, anti-corruption and civil service reform. In her current\nposition at the World Bank, she provides managerial and strategic support to\nthe Global\nGovernance Practice in the Africa region.&nbsp; Previously, she\nworked in low capacity and fragile countries in the Africa region, and\nspearheaded the implementation of the governance and anti-corruption strategy\nas the Africa coordinator.&nbsp; She led the work on the book \u201cOpening the\nBlack Box: the Contextual Drivers of Social Accountability\u201d as the Cluster\nleader of the Social Accountability team in the Social Development Department,\nwhere she built a very active Community of Practices on Social Accountability,\nexpanded training and capacity building activities, and task-managed the Civil\nSociety Fund.</span></p>",
+            "department": "",
+            "fullName": "",
+            "id": "16914713",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ea/6bfce0b3e011e5b1c72f42f4f1d737/Helene-Grandvoinnet-square.jpg",
+            "title": ""
+        },
+        {
+            "bio": "<div>Prof. Yeung received the BS, MEng and PhD degrees in electrical engineering from Cornell University in 1984, 1985, and 1988, respectively. He joined AT&amp;T Bell Laboratories in 1988. He came to&nbsp;<a href=\"http://www.cuhk.edu.hk/\" target=\"_blank\">CUHK</a>&nbsp;in 1991 and has been with the Department of Information Engineering since then, where he is currently the Choh-Ming Li Professor of Information Engineering. Since 2010, he has been serving as Co-Director of the <a href=\"http://www.inc.cuhk.edu.hk\" target=\"_blank\">Institute of Network Coding</a>. He is the author of the books&nbsp;<a href=\"http://www.ie.cuhk.edu.hk/IT_book/\" target=\"_blank\"><i>A First Course in Information Theory</i></a> (Kluwer Academic/Plenum Publishers, 2002) and <a href=\"http://iest2.ie.cuhk.edu.hk/~whyeung/book2/\" target=\"_blank\"><i>Information Theory and Network Coding</i></a> (Springer 2008), which have been adopted by over 60 institutions around the world. His research interest is in&nbsp;<a href=\"http://en.wikipedia.org/wiki/Information_theory\" target=\"_blank\">information theory</a>&nbsp;and&nbsp;<a href=\"http://en.wikipedia.org/wiki/Network_coding\" target=\"_blank\">network coding</a>. He was a consultant in a project of Jet Propulsion Laboratory for salvaging the malfunctioning&nbsp;<a href=\"http://galileo.jpl.nasa.gov/\" target=\"_blank\">Galileo Spacecraft</a>.</div><div><br></div><div>Prof. Yeung is a member of the Board of Governors of the&nbsp;<a href=\"http://www.itsoc.org/\" target=\"_blank\">IEEE Information Theory Society</a>&nbsp;from 1999 to 2001. He has served on the committees of a number of information theory symposiums and workshops. He was the General Chair of the First Workshop on Network, Coding, and Applications (NetCod 2005), a Technical Co-Chair of the 2006 IEEE International Symposium on Information Theory, and a Technical Co-Chair of the 2006 IEEE Information Theory Workshop, Chengdu. He will organize with&nbsp;<a href=\"http://www.eecs.berkeley.edu/~dtse/\" target=\"_blank\">David Tse</a>&nbsp;the 2015 IEEE International Symposium on Information Theory in Hong Kong.</div><div><br></div><div>Prof. Yeung also has served on the editorial board of a number of academic journals. He was an Associate Editor for Shannon Theory of the&nbsp;<a href=\"http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&amp;punumber=18\" target=\"_blank\">IEEE Transactions on Information Theory</a>&nbsp;from 2002 to 2005. He currently serves as an Editor-at-Large of&nbsp;<a href=\"http://www.ims.cuhk.edu.hk/~cis/\" target=\"_blank\">Communications in Information and Systems</a>, an Editor of&nbsp;<a href=\"http://www.nowpublishers.com/\" target=\"_blank\">Foundation and Trends in Communications and Information Theory</a>&nbsp;and an Editor of&nbsp;<a href=\"http://www.nowpublishers.com/\" target=\"_blank\">Foundation and Trends in Networking</a>. He was a recipient of the&nbsp;<a href=\"http://www.croucher.org.hk/funding/recognising-outstanding-hong-kong-scientists-mid-career/croucher-senior-research-fellowships\" target=\"_blank\">Croucher Senior Research Fellowship for 2000/01</a>, the Best Paper Award (Communication Theory) of the 2004 International Conference on Communications, Circuits and System, the 2005&nbsp;<a href=\"http://www.itsoc.org/honors/information-theory-paper-award\" target=\"_blank\">IEEE Information Theory Society Paper Award</a>, and the&nbsp;<a href=\"http://www.humboldt-foundation.de/en/programme/preise/bessel.htm\" target=\"_blank\">Friedrich Wilhelm Bessel Research Award</a>&nbsp;from the Alexander von Humboldt Foundation in 2007.</div><div><br></div><div>Prof. Yeung has been&nbsp;a Changjiang Chair Professor of&nbsp;<a href=\"http://www.xidian.edu.cn/\" target=\"_blank\">Xidian University</a>&nbsp;and an Advisory Professor of&nbsp;<a href=\"http://www.bupt.edu.cn/\" target=\"_blank\">Beijing University of Posts and Telecommunications</a>. He is a Fellow of the IEEE and the Hong Kong Institution of Engineers.</div>",
+            "department": "",
+            "fullName": "",
+            "id": "2600275",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/62/8f751f6796e1e8b3bd5c2a1e8b1728/raymondyeung_150.png",
+            "title": "Choh-Ming Li Professor of Information Engineering, and Co-Director, Institute of Network Coding"
+        },
+        {
+            "bio": "Gregory Carpenter focuses on understanding how firms create competitive advantage through marketing strategy. Based on award-winning research, his recent book, Resurgence: The Four Stages of Market-Focused Reinvention (Palgrave Macmillan, 2014), examines how firms become more customer focused, regaining advantage and renewed success. He previously co-edited the Handbook of Marketing Strategy (Edward Elgar, 2012).\nAs Faculty Director of the Kellogg Markets and Customers Initiative, he fosters research, teaching, and engagement on topics that cross traditional academic boundaries, including customers and corporate culture, data analytics, and trust. He co-chairs the Marketing Leadership Summit, bringing thought leaders together each fall to explore the future of marketing, and as Academic Director of Kellogg's Chief Marketing Officer Program he helps prepare executives for the challenging role of CMO.\nAppearing in leading academic journals, such as Journal of Marketing, Journal of Marketing Research, Journal of Consumer Research, Management Science, Marketing Science, and Psychometrika, his research on marketing strategy has been recognized by the The American Marketing Association with the William F. O'Dell Award, the Paul E. Green Award, the Donald R. Lehmann Award, and the Sheth Foundation/Journal of Marketing Award. \nHarvard Business Review, Financial Times, Forbes, BusinessWeeek, and National Public Radio have featured his research, and it has been cited in arguments before the United States Supreme Court. Recognized by BusinessWeek as an one of a small group of outstanding faculty in its Guide to the Best Business School, he was voted Outstanding Professor of the Year Award by the Kellogg Managers' Program, and he received the Sidney J. Levy Teaching Award.\nHe often speaks and advises firms on marketing strategy. Past and current clients include Bacardi, Carnival Corporation, Coca-Cola, Cunard Lines, Diageo, Dow Chemical, Federal Reserve Bank, Government of Mexico, General Electric, Harley-Davidson, Health Management Academy, Novartis, PepsiCo, Pfizer, SC Johnson, Target, Unilever, and Visa.\nA former Academic Trustee of the Marketing Science Institute, he served as a member of the board of advisors of Hamilton Consultants, and a member of the advisory board of Terlato Wine Group. He was named a Chevalier in the Ordre des Coteaux de Champagne for his contribution to champagne.\nPreviously, on the faculty of the UCLA, Columbia University, and the Yale School of Management, he received his B.A. from Ohio Wesleyan University, and M.B.A., M.Phil. and Ph.D. degrees from Columbia University.\n",
+            "department": "Kellogg School of Management",
+            "fullName": "Greg Carpenter",
+            "id": "15267349",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/bf/4c2c20679011e58c066b242fcd195d/carpenter.jpg",
+            "title": "James Farley/Booz Allen Hamilton Professor of Marketing Strategy, Director of the Center for Market Leadership, Faculty Director, Kellogg Markets and Customers Initiative (KMCI)"
+        },
+        {
+            "bio": "<div>Luis Ceze is an Associate Professor in the Computer Science and Engineering Department at the University of Washington. His research focuses on computer architecture, programming languages and OS to improve the programmability, reliability and energy efficiency of multiprocessor systems. He has co-authored over 60 papers in these areas, and had several papers selected as IEEE Micro Top Picks and CACM Research Highlights. He participated in the Blue Gene, Cyclops, and PERCS projects at IBM and is a recipient of several IBM awards. He is also a recipient of an NSF CAREER Award, a Sloan Research Fellowship, a Microsoft Research Faculty Fellowship and is a Kavli Frontiers of Science Fellow. He co-founded Corensic, a UW-CSE spin-off company. He has been elected \"teacher of the year\" by UW-CSE undergrad students in 2012. He cooks and eats in his free time.</div><div><br></div>",
+            "department": "Computer Science & Engineering",
+            "fullName": "",
+            "id": "1562358",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a9/e28b853087c6c576cf69cf72f98d4b/instructor-2-3.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2768543",
+            "title": ""
+        },
+        {
+            "bio": "<p>Philip Nichols is the Class of 1940 Reunion Term Associate Professor of Legal Studies and Business Ethics at The Wharton School of the University of Pennsylvania. His research focusses on corruption and emerging economies. He has conducted fieldwork in or has worked with organizations in more than thirty countries on issues of corruption control or business development, has served as the Co-Chair of a United Nations\u2019 expert committee on trade facilitation, and as Co-Chair of the American Society of International Law\u2019s interest group on Economic Law. He currently serves as Co-Chair of the interest group on Corruption and as the Vice President of the Academy of Legal Studies in Business. Professor Nichols has been given seventeen teaching awards while at the University of Pennsylvania.</p>",
+            "department": "Legal Studies and Business Ethics",
+            "fullName": "",
+            "id": "8694012",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/17/36a070093911e593d063ad75a22a9d/nichols.philip.JPG",
+            "title": "Class of 1940 Reunion Term Associate Professor"
+        },
+        {
+            "bio": "I'm Priya!",
+            "department": "",
+            "fullName": "",
+            "id": "2510921",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/9c/0de900b89611e495ffe58ddacbce1e/priya.jpg",
+            "title": "Super backend pro wow!"
+        },
+        {
+            "bio": "<p>Carol Muller is a South African born Professor of Music at the University of Pennsylvania. She has had grants from the National Research Foundation (South Africa) a fellowship funded by the National Endowment for the Humanities and a variety of research and teaching grants from the University of Pennsylvania. Muller has published widely on South African music at home and abroad. Her books include&nbsp;<i>Rituals of Fertility and the Sacrifice of Desire: Nazarite Women's Performance in South Africa</i><span>&nbsp;(Chicago with CD Rom);&nbsp;</span><i>Focus: South African Music&nbsp;</i><span>(Routledge with CD);&nbsp;</span><i>Shembe Hymns</i><span>&nbsp;(Univ. of KwaZulu Natal, with CD) and with jazz singer Sathima Bea Benjamin,&nbsp;</span><i>Musical Echoes: South African Women Thinking in Jazz</i><span>. She is currently writing a book,&nbsp;</span><i>Musically Connected</i><span>&nbsp;(Oxford) that will be used for future iterations of this class. Muller is actively engaged in online learning at the University of Pennsylvania, where she teaches courses for credit like this one. And she takes students to the National Arts Festival in Grahamstown, South Africa every summer for credit! She has done pioneering work in academically based community service research and teaching - see&nbsp;</span><a href=\"http://www.sas.upenn.edu/music/westphillymusic\" target=\"_blank\">www.sas.upenn.edu/music/westphillymusic</a><span>&nbsp;- and her graduate students are undertaking research and teaching all over the world. Muller learnt to gumboot dance in the townships of KwaZulu Natal in the 1980s in South Africa. She occasionally teaches this skill to her students at Penn.</span><br></p>",
+            "department": "Music",
+            "fullName": "",
+            "id": "235007",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/28/b0e0aee98bd8437f4e66aa0d059d25/Carol-Muller.jpeg",
+            "title": "Professor"
+        },
+        {
+            "bio": "Brad Grabham is an Academic Technology Consultant (ATC) for the University of Colorado.<br><br>Brad's\n background is in education. After completing his Bachelor of Science in\n secondary education from Indiana University, Brad taught social studies\n and special education for eight years in Minnesota.<br><br>After \ncompleting his Master of Science in Information Media, with a \nconcentration on instructional design and training, Brad worked for \neight years at St. Cloud State University as the technical training \ncoordinator researching and implement emerging technologies.<br><br>Brad's primary roles are to work alongside faculty to:<br><ul><li>Enhance teaching and learning</li><li>Identify and support academic technology integration</li><li>Serve as a liaison between the Colleges and OIT</li></ul><br>Brad is knowledgeable in:<br><ul><li>Desire2Learn</li><li>Microsoft Office Suite</li><li>Adobe Creative Suite</li><li>Google Apps for Education Tools</li><li>Social Networking Tools</li></ul>",
+            "department": "Office of Information teachnology",
+            "fullName": "",
+            "id": "7505324",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/3c/ef8de0d48811e38bdd950983062869/Brad-Cartoon.jpg",
+            "title": "Academic Technology Consultant"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5282396",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Tillinger holds a Ph.D. in ocean and climate physics from Columbia University. She works at the American Museum of Natural History as an educator on climate change and at Marymount Manhtattan College as an adjunct professor of physics. Her current research is based at NASA/GISS and focuses on the effects of declining sea ice on global climate. In addition to formal science education, Dr. Tillinger also presents scientific information through the arts in character as \"Dr. Mermaid.\"",
+            "department": "",
+            "fullName": "Debra Tillinger, Ph.D.",
+            "id": "11420615",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/82/e1c0903c6311e5b3819f66436a23f2/tillinger_debra.jpg",
+            "title": "Instructor"
+        },
+        {
+            "bio": "<p>\u5b63\u5411\u4e1c (JI, Xiangdong)</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp;\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u8bb2\u5e2d\u6559\u6388\u3001\u7269\u7406\u7cfb\u7cfb\u4e3b\u4efb\u3001\u7c92\u5b50\u7269\u7406\u5b87\u5b99\u5b66\u7814\u7a76\u6240\u6240\u957f\u3001\u6559\u80b2\u90e8\u957f\u6c5f\u5b66\u8005\u3002\u7f8e\u56fd\u7269\u7406\u5b66\u4f1a\u4f1a\u58eb\uff08Fellow\uff0c2000\u5e74\u8d77\uff09\uff0c\u4e2d\u56fd\u81ea\u7136\u79d1\u5b66\u57fa\u91d1\u59d4\u6d77\u5916\u6770\u51fa\u9752\u5e74\u57fa\u91d1\uff082003-2005\uff09\u3002\u4e2d\u56fd\u7269\u7406\u5b66\u4f1a\u5e38\u52a1\u7406\u4e8b\uff0c\u9ad8\u80fd\u7269\u7406\u5206\u4f1a\u5e38\u52a1\u7406\u4e8b\u3002\u300a\u4e2d\u56fd\u79d1\u5b66\u300b\u6742\u5fd7\u526f\u4e3b\u7f16\u3002</p>\n\n<p>\u4e3b\u8981\u5de5\u4f5c\u7ecf\u5386</p>\n\n<ul><li>1991-1996 \u9ebb\u7701\u7406\u5de5\u5b66\u9662\u7269\u7406\u7cfb\u52a9\u7406\u6559\u6388</li><li>1996-\u73b0\u5728 \u9a6c\u91cc\u5170\u5927\u5b66\u7269\u7406\u7cfb\u526f\u6559\u6388,\u6559\u6388</li><li>2009-\u73b0\u5728 \u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\u8bb2\u5e2d\u6559\u6388&nbsp;</li></ul>\n\n<p>\u4e3b\u8bb2\u8bfe\u7a0b</p>\n\n<ul><li>\u5938\u514b\u3001\u539f\u5b50\u6838\u4e0e\u5b87\u5b99\uff1a\u73b0\u4ee3\u6838\u7269\u7406\u5bfc\u8bba </li><li>\u91cf\u5b50\u529b\u5b66\u5bfc\u8bba</li><li>\u6ce2\u7684\u7269\u7406\u5b66</li><li>\u5149\u3001\u89c6\u89c9\u3001\u7167\u76f8\u4e0e\u5168\u606f\u7167\u76f8</li></ul>\n\n<p>\u4e3b\u8981\u7814\u7a76\u65b9\u5411</p><p>\u91cf\u5b50\u8272\u52a8\u529b\u5b66\uff0c\u5f3a\u5b50\u7ed3\u6784\uff0c\u4e2d\u5fae\u5b50\u7269\u7406\uff0c\u8d85\u6807\u51c6\u6a21\u578b\u65b0\u7269\u7406\uff0c\u5929\u4f53\u7269\u7406\u548c\u5b87\u5b99\u5b66\uff0c\u6697\u7269\u8d28</p><p>&nbsp;Ji, Xiangdong is the Professor and Director of Department of Physics and \nAstronomy at Shanghai Jiao Tong University and University of Maryland. A few of \nhis notable courses are:&nbsp;<br>\n</p><ul>\n<li>Phys 741: Quarks, Nuclei and the Cosmos: An Introduction to Modern Nuclear \nPhysics (Spring 2007)<br>\n</li><li>Phys 622: Introduction to Quantum Mechanics (Fall, 2003-2006)<br>\n</li><li>Phys 273: Physics of Waves (Spring, 2006)<br>\n</li><li>Phys 106: Light, Vision, Photography, and Holography (Spring, \n2004)<br></li></ul>",
+            "department": "Physics and Astronomy",
+            "fullName": "",
+            "id": "5218072",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/82/20285101996be89ab549860984ca5b/_____2.jpg",
+            "title": "Chair Professor"
+        },
+        {
+            "bio": "James Taylor is the Ralph S. O'Connor Associate Professor of Biology and Associate Professor of Computer Science at Johns Hopkins University. Until 2014 he was an Associate Professor in the departments of Biology and Mathematics &amp; Computer Science at Emory University. He is one of the original developers of the Galaxy platform for data analysis, and his group continues to work on extending the Galaxy platform. His group also works on understanding genomic and epigenomic regulation of gene transcription through integrated analysis of functional genomic data. James received a PhD in Computer Science from Penn State University, where he was involved in several vertebrate genome projects and the ENCODE project.",
+            "department": "",
+            "fullName": "",
+            "id": "12148228",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2f/54ae70d3f311e49daea1732a64cf6e/JamesTaylor.jpg",
+            "title": "Associate Professor of Biology and Computer Science"
+        },
+        {
+            "bio": "<strong>Rachel A. Smith</strong>, PhD is an Associate Professor of <a href=\"http://cas.la.psu.edu/\">Communication Arts &amp; Sciences</a> and <a href=\"http://www.hhdev.psu.edu/hdfs\">Human Development &amp; Family Studies</a>, and an Investigator in the <a href=\"http://www.cidd.psu.edu//\">Center for Infectious Disease Dynamics</a> and the <a href=\"http://methodology.psu.edu/\">Methodology Center </a>at the Pennsylvania State University. Smith studies social influences in health.<br><br>Her research program focuses on how social identities, social interactions, and social memberships shape and are shaped by communication. She uses a variety of quantitative methods, including dyadic analysis and social network analysis, to study patterns of relationships as well as interpersonal or intergroup influences in persuasion and compliance. She tends to focus on social health conditions, such as infectious diseases and genomics. Her current research centers on building and testing theories focusing on the relationships and dynamics among stigmas, communication, and health.<br><br>She has expertise in health message design and evaluation, and extensive experience with the evaluation of funded programs nationally and internationally. For example, she led the community-characteristics research arm of PEPFAR program evaluations with JHUCCP for Namibia (2004-2007), including network mapping and analysis, completed formative research to inform the development of two innovations for malaria and food security in Mozambique (2009-2011), and contributed to a working team focused on scale up for impact for the Gates Foundation (2012). She has made numerous presentations in scientific, technical, policy, and advocacy fora, and authored over 50 scientific, technical, and public health articles and chapters, the majority in peer-reviewed journals.<br><br>Her specific CIDD-related interests include:<br><ul><li>Identifying critical message features and critical people within social networks that facilitate and inhibit the diffusion of beliefs, attitudes, or behaviors related to managing health and well-being<br></li><li>Identifying impacts of social influence (e.g., social networks, support, norms, and stigma) on communicators' susceptibility to health aliments and immunity<br></li><li>Developing and extending theoretical models of stigma communication and label management<br></li><li>Optimizing network-based interventions (e.g., opinion leader designs), entertainment-education interventions, and the diffusion and adaptation of evidence-based interventions to new target audiences and communities.<br></li></ul>",
+            "department": "Department of Communication Arts & Sciences and Human Development & Family Studies",
+            "fullName": "",
+            "id": "2687752",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/64/d28e7ab4c90637b01d9b66b154e931/smith150x150.jpg",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "<p>Richard\nSomerville is Distinguished Professor Emeritus and Research Professor at\nScripps Institution of Oceanography, University of California, San Diego. He is\na theoretical meteorologist and an expert on computer simulations of the\natmosphere. He earned a B. S. in meteorology from Pennsylvania State University\nand a Ph. D. in meteorology from New York University. He has been a professor\nat Scripps since 1979.</p>\n\n<p><span>His interests\ninclude all aspects of climate, including climate science outreach and the\ninterface between science and public policy. He was an organizer and signer of\nthe <i>Bali Climate Declaration by\nScientists</i>. He is also a co-author of <i>The\nCopenhagen Diagnosis</i>, a report by 26 climate science experts from 8\ncountries, summarizing important new research results.</span></p>\n\n<p><span>He has received awards from the American\nMeteorological Society for both his research and his popular book, <i>The\nForgiving Air: Understanding Environmental</i><i> Change</i>. Among many\nhonors, he is a Fellow of both the American Association for the Advancement of\nScience and the American Meteorological Society. Richard Somerville is a\nCoordinating Lead Author of the Fourth Assessment Report of the\nIntergovernmental Panel on Climate Change.</span></p>",
+            "department": "",
+            "fullName": "",
+            "id": "4181598",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/92/7f7d1e22ec04c8c5a43723bee8d84e/Somerville-photo-sq-2.jpg",
+            "title": ""
+        },
+        {
+            "bio": "Lori Rosenkopf is the Vice Dean and Director of Wharton's Undergraduate Division and the Simon and Midge Palley Professor at the Wharton School of the University of Pennsylvania.  She earned her B.S. and M.S. in Operations Research from Cornell University and Stanford University respectively. Lori also worked as a systems engineer for Eastman Kodak and AT&T Bell Laboratories before earning her Ph.D. in Management of Organizations from Columbia University.  Since joining the faculty in 1993, Lori has taught courses for undergraduates, MBAs, doctoral students, and executive education participants, receiving the Hauck Award for distinguished teaching in the undergraduate program.  She has served as a Senior Editor for the journal Organization Science and as a consultant for the National Academy of Sciences, and she has been elected as the Chair of the Technology and Innovation Management Division of the Academy of Management and also a member of the Macro-Organizational Behavior Society.\n\nLori\u2019s research examines technological communities and social networks across several high-tech industries.  She analyzes how and when knowledge may flow between technical professionals and between firms, mapping these flows in order to estimate which people, firms, and technologies are more likely to succeed.  This research has been published in leading journals including Administrative Science Quarterly, Academy of Management Journal, Academy of Management Review, Management Science, Organization Science, and Strategic Management Journal.\n",
+            "department": "Simon and Midge Palley Professor of Management",
+            "fullName": "Lori Rosenkopf",
+            "id": "16532472",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/45/d4d8809dd511e5b6acc76f28d353dd/LoriR.jpg",
+            "title": "Vice Dean and Director, Wharton Undergraduate Division"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Patrick Pettyjohn",
+            "id": "11967455",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4683258",
+            "title": ""
+        },
+        {
+            "bio": "<p>After graduating with a veterinary\ndegree from the University of Liverpool in 1984, Dr. Brian Aldridge completed\nan internship in food animal medicine and surgery at Louisiana State University\nbefore returning to general practice in the UK. Following a two-year stint as a\nlecturer in large animal medicine at the Royal Dick School of Veterinary\nStudies in Edinburgh, Dr. Aldridge completed a food animal medicine and surgery\nresidency and master\u2019s degree at Colorado State University and became a\ndiplomat in the American College of Veterinary Internal Medicine. He then\nreturned to general practice for a time before enrolling in a PhD program at\nthe University of Wisconsin-Madison, where he studied the transfer of colostral\nleukocytes to the newborn calf. On completion of his graduate studies in 1999,\nDr. Aldridge worked as a post-doctoral scientist in the Department of\nPathology, Microbiology, and Immunology at the University of California-Davis\nand in association with the Marine Mammal Centre, Sausalito, studying marine\nmammal immunology and immunogenetics. During this period he also worked as a\nlarge animal clinician in the UC Davis Veterinary Teaching Hospital. In 2003 he\njoined the founding faculty of the Western University of Health Sciences\nCollege of Veterinary Medicine as an associate professor of large animal\nmedicine and an adjunct professor at the California State Polytechnic\nUniversity College of Agriculture. In 2005 Dr. Aldridge returned with his\nfamily to the UK, where he held the post of professor of farm animal health and\nproduction at the Royal Veterinary College, and then worked as farm animal\nclinician at the University of Cambridge. He now works as a clinical professor\nin rural animal health management at the University of Illinois College of\nVeterinary Medicine. Dr. Aldridge\u2019s main clinical interests are in farm animal\nmedicine and the interface between health and production in growing animals. His\nprimary research interests are in adaptive and transitional health in young\nanimals. He also has a strong enthusiasm for teaching and learning,\nparticularly as it relates to the advancement of animal health, welfare, and\nproduction globally.</p>",
+            "department": "Integrated Food Animal Medicine Systems, College of Veterinary Medicine",
+            "fullName": "",
+            "id": "5184784",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5f/a0e694779abf6e5f8552c779ae273c/brian.jpg",
+            "title": "Clinical Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "7246568",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "7013857",
+            "title": ""
+        },
+        {
+            "bio": "La carrera profesional de Teresa Serra est\u00e1 estrechamente ligada al IE Business School, donde lleva 25 a\u00f1os como profesora de Marketing y ha ocupado diversos puestos directivos. Experta en el sector de la distribuci\u00f3n, ha vivido la evoluci\u00f3n de este mercado desde 1986, cuando realiz\u00f3 un proyecto de consultor\u00eda para la cadena de distribuci\u00f3n Simago. \u201cConsisti\u00f3 en el reenfoque estrat\u00e9gico de la marca propia\u201d, recuerda la profesora Serra, que tambi\u00e9n ha asesorado a compa\u00f1\u00edas como la cadena Continente (actual Carrefour), el peri\u00f3dico Segunda Mano y el grupo Ofita.\n\n\u201cAhora estoy profundizando en arquitectura y estrategia de marcas de la distribuci\u00f3n. Me interesa comprender c\u00f3mo se construyen y comportan estas marcas\u201d, explica la profesora Serra, que tambi\u00e9n ha dirigido su investigaci\u00f3n hacia la comunicaci\u00f3n, el comportamiento de los consumidores y comercio electr\u00f3nico. Miembro del Comit\u00e9 Editorial de Marketing y Ventas de la revista Harvard-Deusto y del consejo de Superbrands Espa\u00f1a, es autora de numerosos casos, notas t\u00e9cnicas y art\u00edculos de investigaci\u00f3n.\n\nLicenciada en Sociolog\u00eda y MBA por el IE Business School, la profesora Serra estuvo un a\u00f1o trabajando en Babson College, donde imparti\u00f3 diversos talleres y asisti\u00f3 a seminarios sobre canales de distribuci\u00f3n y comportamiento de los consumidores. Diplomada en Estrategia Internacional por London Business School, realiz\u00f3 el International Teachers Program (ITP) en Bocconi y el CPCL en Harvard Business School.",
+            "department": "Marketing",
+            "fullName": "Teresa Serra",
+            "id": "16123047",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/dd/06a8e0885f11e58fe52b33c777c38b/Teresa-Serra.jpg",
+            "title": "Profesora"
+        },
+        {
+            "bio": "Ralph Lydic, Ph.D., is the Bert La Du Professor of Anesthesiology and\nProfessor of Molecular and Integrative Physiology. He co-founded and co-directs\nthe University of Michigan sleep class. More than 1,000 undergraduates,\ngraduate students, and Sleep Medicine Fellows have completed that class.\nProfessor Lydic\u2019s research has been continually funded since 1989 by grants\nfrom the National Heart, Lung, and Blood Institute. His research program\nuses the tools of cellular and molecular neuroscience to study states of\nconsciousness caused by sleep, anesthetics, and other arousal state-altering\nmolecules. The results of these studies led him to propose the shared circuits\nhypothesis, postulating that neural networks that evolved to generate sleep,\ncomprise the brain substrates that are most likely to generate and maintain\nstates of anesthesia. Understanding the similarities and differences between\nthese states is essential for developing counter measures aiming to diminish\nor eliminate unwanted side effects of drugs that depress or eliminate wakefulness.\nLydic has served as President of the Sleep Research Society, as a founding\nmember of the Society for Anesthesia and Sleep Medicine, and he is recipient\nof the Excellence in Research Award from the American Society of Anesthesiologists.\n<br>",
+            "department": "University of Michigan Medical School",
+            "fullName": "",
+            "id": "1748705",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/3a9c4af7e87d55f674f108489c59d0/Lydic-Ralph-Studio-Shot_Edit_4.jpg",
+            "title": "Professor Emeritus, Molecular and Integrative Physiology, Professor Emeritus, Anesthesiology "
+        },
+        {
+            "bio": "<p>Peter Keegan<span>\n(Waikato-Maniapoto, Ngati Porou) received his PhD in Applied Linguistics from\nVictoria University of Wellington in 2003. He coordinated the M\u0101ori language\ndevelopments of Project asTTle (<i>Assessment Tools for Teaching and Learning</i>).\nPeter\u2019s research interests include M\u0101ori language (in particular M\u0101ori word\nformation and changes in M\u0101ori pronunciation), M\u0101ori and indigenous-medium\neducation and M\u0101ori achievement (in both English and M\u0101ori-medium contexts). He\nis also interested in research methods in M\u0101ori and indigenous education,\nespecially involving measurement and quantitative approaches. He is a senior\nlecturer in Te Puna W\u0101nanga, the Faculty of Education, University of Auckland.</span></p>",
+            "department": "University of Auckland, New Zealand",
+            "fullName": "",
+            "id": "6022603",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f3/880e807c4311e3ad35136c75f93968/Peter-photo-2.jpg",
+            "title": "Senior Lecturer, Te Puna W\u0101nanga, Faculty of Education"
+        }
+    ],
+    "linked": {},
+    "paging": {
+        "next": "4000",
+        "total": 4152
+    }
+}

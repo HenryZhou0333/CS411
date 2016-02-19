@@ -1,0 +1,168 @@
+{
+    "elements": [
+        {
+            "courseType": "v1.session",
+            "description": "Did you miss the course when it ran in 2014? Now you can join up for the next offering.\n\nLearn about ways to assess and teach new and emerging 21st century skills: we cover the nature of these skills, methods of assessment, interpretation and reporting of assessments, and their implications for teaching.\n",
+            "domainTypes": [
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "education"
+                }
+            ],
+            "id": "v1-1213",
+            "instructorIds": [
+                "3883758"
+            ],
+            "name": "Assessment and Teaching of 21st Century Skills",
+            "partnerIds": [
+                "33"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/38/f3c25082fe11e3b87251c6cd715871/21cSkills_web.jpg",
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "atc21s",
+            "workload": "4-5 hours/week"
+        },
+        {
+            "courseType": "v1.session",
+            "description": "Using publicly available data from NASA of actual satellite observations of astronomical  x-ray sources, we explore some of the mysteries of the cosmos, including neutron stars, black holes, quasars and supernovae.",
+            "domainTypes": [
+                {
+                    "domainId": "physical-science-and-engineering",
+                    "subdomainId": "physics-and-astronomy"
+                }
+            ],
+            "id": "v1-462",
+            "instructorIds": [
+                "2650348"
+            ],
+            "name": "Analyzing the Universe",
+            "partnerIds": [
+                "67"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e0/0ca6c0356518a9bb53d5de418c54db/supernova-black-hole.jpg",
+            "previewLink": "https://class.coursera.org/analyze-003/lecture/preview",
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "analyze",
+            "workload": "5-7 hours/week"
+        },
+        {
+            "courseType": "v1.session",
+            "description": "This course provides students an understanding of important human parasitic diseases, including their life cycles, vectors of transmission, distribution and epidemiology, pathophysiology and clinical manifestations, treatment, and prevention and control.  ",
+            "domainTypes": [
+                {
+                    "domainId": "life-sciences",
+                    "subdomainId": "clinical-science"
+                }
+            ],
+            "id": "v1-1428",
+            "instructorIds": [
+                "2235117",
+                "6704272",
+                "6704288"
+            ],
+            "name": "Tropical Parasitology: Protozoans, Worms, Vectors and Human Diseases",
+            "partnerIds": [
+                "7",
+                "245"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/83/bd9370352c11e4b89cffcbd250fdc9/ParaLogo.png",
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "parasitology",
+            "startDate": 1452470400000,
+            "workload": "8-10 hours/week"
+        },
+        {
+            "courseType": "v2.ondemand",
+            "description": "When John F. Kennedy entered the presidential limousine at Love Field in Dallas, Texas on November 22, 1963, he began his ride into history. That journey continues even today and we call it the Kennedy legacy. \n\nThis course will explore the Presidency, assassination, and lasting legacy of President John F. Kennedy. Students will learn how JFK\u2019s life, administration, and tragic death have influenced the general public, the media, and each of the nine U.S. presidents who followed.\n\nUnderstanding the Kennedy legacy and being able to identify elements of his legacy within the context of modern politics helps understand many of the vexing problems that developed over the last half century as well as many of the challenges that confront us today.    \n    \nNovember 22, 1963 was so powerful a moment that in the fifty years since the assassination, every U.S. President that followed JFK has used Kennedy\u2019s words and actions in an effort to craft their own political image. Why does Kennedy\u2019s influence persist, and will it continue? What are the effects? \n\nWe\u2019ll address these questions and more as we explore The Kennedy Half Century. \n\nFollow on Twitter: @JFKclass.",
+            "domainTypes": [
+                {
+                    "domainId": "arts-and-humanities",
+                    "subdomainId": "history"
+                },
+                {
+                    "domainId": "social-sciences",
+                    "subdomainId": "governance-and-society"
+                }
+            ],
+            "id": "lf2q-R6UEeSzvSIAC0KYCQ",
+            "instructorIds": [
+                "5282186"
+            ],
+            "name": "The Kennedy Half Century",
+            "partnerIds": [
+                "18"
+            ],
+            "photoUrl": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/80/49c970352c11e4a20a15dee8e65a23/JFK-Titile-Page-with-words.png",
+            "primaryLanguages": [
+                "en"
+            ],
+            "slug": "kennedy",
+            "startDate": 1413345154368,
+            "workload": "9 hours of videos and quizzes"
+        }
+    ],
+    "linked": {
+        "instructors.v1": [
+            {
+                "fullName": "Franklin Mosha, Ph.D.",
+                "id": "6704272"
+            },
+            {
+                "fullName": "",
+                "id": "2235117"
+            },
+            {
+                "fullName": "",
+                "id": "3883758"
+            },
+            {
+                "fullName": "",
+                "id": "5282186"
+            },
+            {
+                "fullName": "",
+                "id": "2650348"
+            },
+            {
+                "fullName": "Mramba Nyindo, Ph.D.",
+                "id": "6704288"
+            }
+        ],
+        "partners.v1": [
+            {
+                "id": "33",
+                "name": "The University of Melbourne",
+                "shortName": "unimelb"
+            },
+            {
+                "id": "18",
+                "name": "University of Virginia",
+                "shortName": "uva"
+            },
+            {
+                "id": "67",
+                "name": "Rutgers the State University of New Jersey",
+                "shortName": "rutgers"
+            },
+            {
+                "id": "7",
+                "name": "Duke University",
+                "shortName": "duke"
+            },
+            {
+                "id": "245",
+                "name": "Kilimanjaro Christian Medical University College",
+                "shortName": "kcmuc"
+            }
+        ]
+    },
+    "paging": {
+        "total": 1804
+    }
+}

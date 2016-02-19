@@ -1,0 +1,770 @@
+{
+    "elements": [
+        {
+            "bio": "<a href=\"http://leighthompson.com/\">Leigh Thompson</a> is an internationally recognized scholar on negotiation, group decision making, team creativity, teamwork and collaboration.  Thompson is the J. Jay Gerber Professor of Dispute Resolution at the <a href=\"http://www.kellogg.northwestern.edu/\">Kellogg School of Management</a> at Northwestern University.  She is the author of 11 books including: <a href=\"http://www.amazon.com/Creative-Conspiracy-Rules-Breakthrough-Collaboration/\u2026\">Creative Conspiracy: The New Rules of Breakthrough Collaboration, <a href=\"http://www.amazon.com/Making-Team-Edition-Leigh-Thompson/dp/0132968088/ref=\u2026\">Making the Team: A Guide for Managers</a>, <a href=\"http://www.amazon.com/The-Mind-Heart-Negotiator-Edition/dp/0133571777/ref=d\u2026\">The Mind and Heart of the Negotiator,</a> and <a href=\"http://www.amazon.com/The-Truth-About-Negotiations-Edition/dp/0133353443/re\u2026\">The Truth about Negotiations</a>.\n \nThompson is the director of the <a href=\"http://www.kellogg.northwestern.edu/execed/Programs/TEAM.aspx?utm_source=mooc&utm_medium=website&utm_campaign=eecoursera&utm_content=team\">Leading High Impact Teams</a> executive program, the <a href=\"http://www.kellogg.northwestern.edu/execed/Programs/NEG.aspx?utm_source=mooc&utm_medium=website&utm_campaign=eecoursera&utm_content=neg\">Negotiation Strategies</a> executive program, and the <a href=\"http://www.kellogg.northwestern.edu/execed/Programs/COLLABORATE.aspx?utm_source=mooc&utm_medium=website&utm_campaign=eecoursera&utm_content=col\">Constructive Collaboration</a> executive program. Thompson does research and teaching around the globe and her book, <a href=\"http://www.amazon.com/The-Truth-About-Negotiations-Edition/dp/0133353443/re\u2026\">The Truth about Negotiations </a> is a best-seller and has been translated into 7 languages. Her book, <a href=\"http://www.amazon.com/The-Mind-Heart-Negotiator-Edition/dp/0133571777/ref=d\u2026\">The Mind and Heart of the Negotiator </a>has been translated into 4 languages, and <a href=\"http://www.amazon.com/Making-Team-Edition-Leigh-Thompson/dp/0132968088/ref=\u2026\">Making the Team: A Guide for Managers </a> has been translated into 2 languages.\n \nThompson created the popular on-line video-teaching series:  <a href=\"http://www.kellogg.northwestern.edu/news_articles/2014/08012014-negotiation\u2026\">Negotiation 101 </a> and <a href=\"http://www.kellogg.northwestern.edu/news_articles/2014/12202014-teamwork-10\u2026\">Teamwork 101 </a> for managers and executives.   In addition, Thompson created 3-minute animated videos:   <a href=\"https://www.kellogg.northwestern.edu/news_articles/2015/05112015-video-thom\u2026\">Is Your Team Slacking?</a>, <a href=\"http://www.kellogg.northwestern.edu/news_articles/2015/06232015-video-thomp\u2026\">Managing Virtual Teams</a>, <a href=\"http://www.kellogg.northwestern.edu/news_articles/2015/05292015-video-thomp\u2026\">High-Performance Negotiation Skills for Women</a>, and <a href=\"http://www.kellogg.northwestern.edu/news_articles/2014/06262014-video-thomp\u2026\">How Brainstorming can Neutralize the Loudmouths</a>. Her work on team creativity has appeared on Fast Company and BusinessWeek.  She serves on the editorial boards of several academic journals and is a member of the Academy of Management.\n \nFor more information about Dr. Leigh Thompson, visit her website: <a href=\"http://leighthompson.com/\">http://leighthompson.com/</a>",
+            "department": "Kellogg School of Management",
+            "fullName": "Leigh Thompson",
+            "id": "14353252",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d4/31bd30693911e58306d9cb69e934cf/LThompson_BioPic-_1_.jpg",
+            "title": "J. Jay Gerber Distinguished Professor of Dispute Resolution and Organizations "
+        },
+        {
+            "bio": "Kevin Drinkard is a Program Consultant for the New Teacher Center.&nbsp; Kevin\u2019s 25 years of educational leadership include teaching all levels of high school math, mentoring new and veteran teachers and principals, and designing and facilitating STEM-focused professional development for teachers, mentors, administrators and program leaders in Silicon Valley and across the United States. Kevin has lead NTC\u2019s&nbsp; work with Math Design Collaborative (MDC) including developing professional development for new teachers and facilitating of math department Professional Learning Communities focused on MDC implementation.&nbsp; <br><br>",
+            "department": "",
+            "fullName": "",
+            "id": "3360852",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/96/285d68ffdf9a262b66395f27034fc3/KevinCoursera.jpg",
+            "title": "Program Consultant"
+        },
+        {
+            "bio": "John Hancock was an American merchant, smuggler, statesman, and prominent Patriot of the American Revolution. He served as president of the Second Continental Congress and was the first and third Governor of the Commonwealth of Massachusetts. He is remembered for his large and stylish signature on the United States Declaration of Independence, so much so that the term \"John Hancock\" has become, in the United States, a synonym for a signature.",
+            "department": "American History",
+            "fullName": "Meera Ramakrishnan",
+            "id": "13319310",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/61/550950737c11e59064dfa12a3ef2ec/Screen-Shot-2015-10-16-at-4.35.56-AM.jpg",
+            "title": "Patriot of the American Revolution"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2695924",
+            "title": ""
+        },
+        {
+            "bio": "<p dir=\"ltr\">Les recherches de Philippe Lorino, professeur distingu\u00e9, portent sur les m\u00e9thodes de contr\u00f4le des co\u00fbts et de la performance, bas\u00e9es sur l'analyse de l'activit\u00e9 collective. Philippe a publi\u00e9 des ouvrages et des articles en contr\u00f4le de gestion et th\u00e9orie des organisations. Il a re\u00e7u le prix du meilleur article lors de la conf\u00e9rence internationale OLKC en 2006. Il a \u00e9t\u00e9 chercheur invit\u00e9 dans les universit\u00e9s Keio, Stanford, Stuttgart, Helsinski. Il a fait du consulting pour de nombreuses entreprises et est expert aupr\u00e8s de l'Autorit\u00e9 de s\u00fbret\u00e9 nucl\u00e9aire. Philippe est docteur en sciences de gestion de l'Universit\u00e9 Paris XII et est aussi dipl\u00f4m\u00e9 de l'\u00c9cole Polytechnique et de l'\u00c9cole des mines de Paris.<br></p>",
+            "department": "D\u00e9partement Comptabilit\u00e9-Contr\u00f4le de Gestion",
+            "fullName": "",
+            "id": "9316966",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/8b/072ff03e7411e4936bedd6353e4722/CP-philippe-lorino-professeur-eminent.jpg",
+            "title": "Professeur"
+        },
+        {
+            "bio": "<a href=\"http://www.princeton.edu/sociology/faculty/duneier/\" target=\"_blank\">Mitchell Duneier</a><span>&nbsp;is Maurice P. During Professor of Sociology at Princeton University, where he has received the President's Award for Distinguished Teaching. He has also taught at the University of Wisconsin-Madison, the University of California, Santa Barbara, and the City University of New York. Duneier is the author of&nbsp;</span><i>Slim's Table</i><span>&nbsp;and&nbsp;</span><i>Sidewalk</i><span>, and the co-author (with Anthony Giddens, et. al) of the textbooks&nbsp;</span><i>Introduction to Sociology</i><span>&nbsp;and&nbsp;</span><i>Essentials of Sociology</i><span>.</span><br>",
+            "department": "Sociology",
+            "fullName": "",
+            "id": "239857",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ae/59fedca25e5abcb071fe56a2b5194b/instructor-1-2.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "<p><span>Hi,&nbsp; I am an Assistant\nPrincipal for Global Health and Director of the Global Health Academy at the\nUniversity of Edinburgh. I am involved in a number of inter-disciplinary online\ntraining programmes, eg the Masters in Family Medicine run with CMC Vellore,\nIndia and ICMDA,&nbsp; the MSc Global Health Non Communicable Diseases and the Certificate\nin &nbsp;Global Health Challenges.</span></p>\n\n<p><span>I am passionate about equitable access to healthcare,\nespecially for those who get left behind by society.&nbsp; Much of my work is in integrating palliative care\nservices into health systems in African and Asian countries, and in increasing healthcare provision\nat primary care level.&nbsp;&nbsp; I have worked in\nGovernment services in international development,&nbsp;in Kenya as a Community Health\nAdvisor, and for the MRC as a Research Fellow in&nbsp;the Department of Psychiatry. </span></p>",
+            "department": "Global Health Academy and Cente for Population Health Sciences ",
+            "fullName": "",
+            "id": "8654795",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/15/785f907ba811e49ab4ff6b628d1970/mgrant1--photo.jpg",
+            "title": "Assistant Principal Global Health "
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4256668",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5063600",
+            "title": ""
+        },
+        {
+            "bio": "<p><strong>Profesor de la Escuela de Administraci\u00f3n de la Pontificia Universidad\nCat\u00f3lica de Chile</strong><strong></strong></p>\n\n<p>Ingeniero Comercial, P. Universidad Cat\u00f3lica de Chile; MBA\nJ.L.Kellogg School, Northwestern University; diversos cursos de\nperfeccionamiento en Harvard, Kellogg y UCLA.</p>\n\n<p>Imparte curso de Precios y Promociones en el MBA-UC, cursos en\nel Diplomado en Marketing, Diplomado en Marketing digital y Diplomado en Ventas\nEstrat\u00e9gicas, Programa Pyme UC.</p>",
+            "department": "Pontificia Universidad Cat\u00f3lica de Chile",
+            "fullName": "",
+            "id": "12482592",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/dc/f10810e39a11e49006eb8af920d0f6/1.png",
+            "title": "Acad\u00e9mico Escuela Administraci\u00f3n "
+        },
+        {
+            "bio": "Daniel Egger has more than seventeen years experience creating new software products and services, as founder and CEO of a series of venture-backed information technology companies, and as Managing Partner in a venture capital fund. Egger is Executive in Residence in Duke University\u2019s Master of Engineering Management Program and has taught courses in entrepreneurship and venture capital at Duke since 2003. He was formerly the Howard Johnson Foundation Entrepreneur-in-Residence in Duke\u2019s Markets and Management Program for undergraduates.",
+            "department": "Pratt School of Engineering, Duke University",
+            "fullName": "Daniel Egger",
+            "id": "13723820",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d2/8dd470500f11e5a78fd13a80a4d3b4/Egger_Daniel_web.jpg",
+            "title": "Executive in Residence and Director, Center for Quantitative Modeling"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "6867022",
+            "title": ""
+        },
+        {
+            "bio": "<p>Kenny\nis a Reader in Linguistics, at Edinburgh, where he works in the Language\nEvolution and Computation Research Unit. His research focuses on the evolution\nof human language and experimental models of cultural evolution. He is a member\nof the Royal Society of Edinburgh Young Academy of Scotland.</p>",
+            "department": "School of Philosophy, Psychology & Language Sciences",
+            "fullName": "",
+            "id": "5193768",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/74/2290690e121c75f92d13c342a55db9/kenny.jpeg",
+            "title": ""
+        },
+        {
+            "bio": "<p>Rene\u00e9 A. King, MD, MPH is an Assistant Professor in Emergency Medicine at the University of Colorado School of Medicine. Beside her clinical work in the emergency department, Dr. King is a mentor for diversity awareness within the residency program as well as a co-mentor for the international emergency medicine residency track. She has served as director for the Global Health track at the School of Medicine as well as an executive board member for the UCD Center for Global Health.</p><p>She did her residency in Emergency Medicine at St John Hospital &amp; Medical Center in Detroit, Michigan, and then completed an International Emergency Medicine Fellowship at the University of Illinois, Chicago (UIC). While at UIC, she received her Master\u2019s of Public Health.</p><div dir=\"ltr\">Her international work has included complex humanitarian care, program evaluation, training of trainers and patient care. Her work has included projects in India, Thailand, Guatemala, Nicaragua, and Haiti. Currently her focus has been work in Haiti. She was active in relief efforts in Haiti after the devastating earthquake in January 12, 2010. Her work in Haiti also includes clinic evaluation, Emergency medicine training, training of trainers and community health workers, disaster preparedness, and community engagement.</div>",
+            "department": "Emergency Medicine",
+            "fullName": "",
+            "id": "11511884",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/3f/5cbf20b4e911e4bc5455cddb9a041a/King.jpg",
+            "title": "MD, MPH"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1105766",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "6751319",
+            "title": ""
+        },
+        {
+            "bio": "<a href=\"http://jqi.umd.edu/fellows-gallery-view/136-charles-clark.html\" target=\"_blank\">Charles W. Clark</a>&nbsp;is a Fellow of&nbsp;<a href=\"http://www.nist.gov/pml/div684/index.cfm\" target=\"_blank\">the National Institute of Standards and Technology (NIST)</a>&nbsp;and\nis Co-Director of&nbsp;<a href=\"http://jqi.umd.edu/\" target=\"_blank\">the Joint Quantum Institute</a>&nbsp;of NIST and&nbsp;<a href=\"http://www.umd.edu/\" target=\"_blank\">the University of Maryland</a>.&nbsp; He has a Ph.D. in theoretical atomic, molecular\nand optical physics from the University of Chicago and has spent most of his career at NIST.&nbsp; Since 1997 he has run a summer course on solution of physics problems for first-year graduate students of UMD, and he is co-editor of&nbsp;<a title=\"Link: http://dlmf.nist.gov/\" href=\"http://dlmf.nist.gov/\" target=\"_blank\">the NIST Digital Library of Mathematical Functions</a>, which will be used as a primary reference in some parts of the course.&nbsp;\n<br>\n<div>\n    <br>\n</div>",
+            "department": "National Institute of Standards and Technology (NIST)",
+            "fullName": "",
+            "id": "324786",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2c/1646f1a08d3d818bf000827499be78/Charles-W.-Clark.jpeg",
+            "title": "Fellow"
+        },
+        {
+            "bio": "\u6bd5\u4e1a\u4e8e\u5317\u4eac\u5927\u5b66\u7269\u7406\u7cfb\u7269\u7406\u4e13\u4e1a\uff0c\u73b0\u4efb\u5317\u4eac\u5927\u5b66\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662\u6559\u6388\uff0c\u535a\u58eb\u751f\u5bfc\u5e08\uff0c\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u5b66\u4f1a\u79bb\u6563\u6570\u5b66\u4e13\u59d4\u4f1a\u59d4\u5458\u3002\u4e3b\u8bb2\u79bb\u6563\u6570\u5b66\u3001\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5206\u6790\u8bfe\u7a0b\uff0c\u4e3b\u8981\u7814\u7a76\u65b9\u5411\u662f\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5206\u6790\u3002\u53d1\u8868\u591a\u7bc7\u8bba\u6587\uff0c\u51fa\u7248\u591a\u90e8\u6559\u6750\u3001\u6559\u5b66\u53c2\u8003\u4e66\u4e0e\u8bd1\u8457\uff0c\u5176\u4e2d\u5305\u542b\u56fd\u5bb6\u7ea7\u89c4\u5212\u6559\u6750\u3001\u5317\u4eac\u5e02\u7cbe\u54c1\u6559\u6750\u548c\u6559\u80b2\u90e8\u7cbe\u54c1\u6559\u6750\u3002\u6240\u8bb2\u6388\u7684\u79bb\u6563\u6570\u5b66\u8bfe\u7a0b\u88ab\u8bc4\u4e3a\u56fd\u5bb6\u7ea7\u7cbe\u54c1\u8bfe\u7a0b\uff0c\u5e76\u63a8\u8350\u4e3a\u56fd\u5bb6\u7ea7\u89c6\u9891\u8d44\u6e90\u5171\u4eab\u8bfe\u3002\u4e24\u6b21\u88ab\u8bc4\u4e3a\u5317\u4eac\u5927\u5b66\u5341\u4f73\u6559\u5e08\uff0c\u5e76\u83b7\u5f97\u5317\u4eac\u5e02\u4f18\u79c0\u6559\u5e08\u79f0\u53f7\u3002\u66fe\u4e3b\u6301\u8fc7\u591a\u9879\u56fd\u5bb6\u6559\u6750\u548c\u8bfe\u7a0b\u5efa\u8bbe\u9879\u76ee\uff0c\u5e76\u83b7\u5f97\u5317\u4eac\u5e02\u6559\u80b2\u6559\u5b66\u6210\u679c\uff08\u9ad8\u7b49\u6559\u80b2\uff09\u4e00\u7b49\u5956\u3002",
+            "department": "School of EECS, Peking University",
+            "fullName": "",
+            "id": "11201583",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/80/3851f0a86711e483ea5d50dfab3892/quwanling.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1219287",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "Broad College of Business",
+            "fullName": "Ken Szymusiak",
+            "id": "15486079",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a6/bde450b48911e59eaffdd1e3640396/Kenny_twitter_400x400.jpg",
+            "title": "Managing Director, Institute for Entrepreneurship & Innovation"
+        },
+        {
+            "bio": "<strong>Darden Faculty Profile: Jared D. Harris</strong>\n<br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Fv9Y__6akRk?autoplay=0&modestbranding=1&rel=0&showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>\n<p></p>\n<strong>Coursera Courses</strong>\n<br>\nThe <a href=\"https://www.coursera.org/specializations/business-strategy\">Business Strategy Specialization</a>, a 5-course series including:\n<br>\nFoundations of Business Strategy\n<br>\nAdvanced Business Strategy\n<br>\nBusiness Growth Strategy\n<br>\nStrategic Planning and Execution\n<br> \nBusiness Strategy Capstone\n<p></p>\n<a href=\"mailto:moocs@darden.virginia.edu\">Contact the Specialization Course Team</a>\n<p></p>\n<strong>Education</strong>\n<br>\nB.S. and MAcc, Brigham Young University; Ph.D., University of Minnesota\n<p></p>\n<strong>Biography</strong>\n<br>\nJared D. Harris is a faculty member at the University of Virginia\u2019s Darden School of Business and a Senior Fellow at Darden\u2019s Olsson Center for Applied Ethics. He is a celebrated professor who teaches courses and workshops on strategic thinking and ethical decision making to graduate students in business, military officers, leaders in education, legislative leaders, and business executives. In the Darden curriculum, Jared teaches both the required MBA strategy course and the required MBA business ethics course.   \n<p></p>\nJared's research centers on the interplay between ethics and strategy, with a particular focus on the topics of corporate governance, business ethics, and interorganizational trust. His work has been published in Strategic Management Journal, Academy of Management Review, Organization Science, Journal of Business Venturing, Business Ethics Quarterly, and Journal of Business Ethics, and his research insights have been highlighted in the New York Times, the Washington Post, and The New Yorker, as well as other media outlets in the United States, Canada, Germany, India, Portugal, and the U.K. Recent books include Public Trust in Business (Cambridge University Press, 2014), The Strategist\u2019s Toolkit (Darden Business Publishing, 2013), and Kantian Business Ethics: Critical Perspectives (Edward Elgar, 2013). \n<p></p>\nJared's academic career follows a distinguished business career, first in consulting at several global public accounting firms, followed by a stint as a CFO for a small technology startup.",
+            "department": "Darden School of Business",
+            "fullName": "Jared D. Harris",
+            "id": "14790769",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/6f/c91440524811e5a5072321239ff4d4/HarrisJared.jpg",
+            "title": "Samuel L. Slover Research Professor of Business"
+        },
+        {
+            "bio": "<p>Dr. Adalja is a Senior Associate at the UPMC Center for Health Security, Clinical Assistant Professor in the Department of Critical Care Medicine, Clinical Assistant Professor in the Department of Emergency Medicine, and Adjunct Instructor in the Department of Medicine\u2019s Division of Infectious Diseases at the University of Pittsburgh School of Medicine and UPMC. He also serves on the City of Pittsburgh's HIV Commission. He is board certified in internal medicine, emergency medicine, infectious diseases, and critical care medicine.</p>\n<p>Dr. Adalja is a member of the Infectious Disease Society of America's (IDSA) Public Health Committee, the American College of Emergency Physicians Pennsylvania Chapter\u2019s EMS &amp; Terrorism and Disaster Preparedness Committee, the Allegheny County Medical Reserve Corps, and the US Department of Health and Human Services\u2019 National Disaster Medical System Disaster Medical Assistance Team (PA-1), with which he was deployed to Haiti after the earthquake in 2010. He previously was a member of Allegheny County's Metropolitan Medical Response System. He has also served on U.S. government panels tasked with developing guidelines for the treatment of botulism and anthrax in mass casualty settings as well as a FEMA working group on nuclear disaster recovery.</p>\n<p>Dr. Adalja is an Associate Editor of the journal Biosecurity and Bioterrorism. He was a contributing author for the Handbook of Bioterrorism and Disaster Medicine, and he has published in such journals as Journal of Infectious Diseases, Emerging Infectious Diseases, and Annals of Emergency Medicine. He also served as a book reviewer for JAMA.</p>\n<p>Dr. Adalja is a fellow of the American College of Physicians and the American College of Emergency Physicians. He is  a member of various medical societies, including the American Medical Association, the Infectious Diseases Society of America, the HIV Medical Association, and the Society of Critical Care Medicine.</p>\n<p>Education and Background</p>\n<ul>\n  <li>  American University of the Caribbean School of Medicine - MD<br>\n  </li>\n  <li>Carnegie Mellon University - BS\n  </li>\n</ul>",
+            "department": "UPMC Center for Health Security",
+            "fullName": "",
+            "id": "10534626",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ef/fbf800817211e4b689695bd24f8f36/amesh_400x400.png",
+            "title": "Senior Associate"
+        },
+        {
+            "bio": "Amy Giaculli is a Coordinator of Student Services at the State University of New York/Empire State College.&nbsp; In her role she has contributed to the development of the colleges online orientation. She is also an Advisor for the Center for Distance Learning\u2019s Student and Alumni Advisory Group. She is especially interested in the use of virtual tools to help engage learners at a distance. <br><br>",
+            "department": "SUNY Empire State College",
+            "fullName": "Amy Giaculli",
+            "id": "9775195",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c0/724ed0c99e11e4878b5199c49dcdd2/Amy-Giaculli.jpeg",
+            "title": "Coordinator of Student Services"
+        },
+        {
+            "bio": "<p><span>Michael Horn is a co-founder of the <a href=\"http://www.christenseninstitute.org\" target=\"_blank\">Clayton Christensen Institute</a> and serves as\nthe executive director of its education program. He leads a team that educates\npolicymakers and community leaders on the power of disruptive innovation in the\nK-12 and higher education spheres through its research. His team aims to\ntransform monolithic, factory-model education systems into student-centric\ndesigns that educate every student successfully and enable each to realize his\nor her fullest potential. In 2008, Michael co-authored the award-winning\nDisrupting Class: How Disruptive Innovation Will Change the Way the World\nLearns with Harvard Business School Professor Clayton M. Christensen and Curtis\nW. Johnson. Newsweek cited the book 14th on its list of \u201cFifty Books for Our\nTimes.\u201d Michael has written several white papers about blended learning and is\ncoeditor with Frederick Hess of the book Private Enterprise and Public\nEducation. He has also written articles for numerous publications including\nForbes, The Washington Post, The Economist, The Huffington Post, and Education\nWeek. He testifies regularly at state legislative sessions and is a frequent\nkeynote speaker at education conferences and planning sessions around the U.S.\nTech&amp;Learning magazine named him to its list of the 100 most important\npeople in the creation and advancement of the use of technology in education.\nIn addition, he serves on a variety of boards, including as an executive editor\nof&nbsp;Education Next, a journal of opinion and research about education\npolicy; and he sits on the boards of&nbsp;Fidelis, inBloom, and the Silicon\nSchools Fund. Michael is also a member of the&nbsp;Education Innovation\nAdvisory Board&nbsp;at Arizona State University and is a member of\nthe&nbsp;advisory committee for The Hechinger Institute on Education and the\nMedia&nbsp;at Teachers College, Columbia University. Michael holds a BA in\nhistory from Yale University and an MBA from the Harvard Business School.</span></p>",
+            "department": "",
+            "fullName": "",
+            "id": "4125203",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a7/4c1784bcbc428b87a4406d41b6ccb2/CC-Institute-Gala-9-of-32-1.jpg",
+            "title": ""
+        },
+        {
+            "bio": "<p>Since qualifying as a clinical psychologist at the University of Edinburgh I have specialised in clinical practice and research with children and young people, with a particular focus on adolescents, attachment, risk and resilience in clinical and vulnerable populations.<br></p>    <p>I joined the \nSchool of Health in Social Science in September 2010, where I am \nProgramme Director for the postgraduate programme in <a title=\"Link: http://www.ed.ac.uk/schools-departments/health/clinical-psychology/studying/cyp-mental-health\" target=\"_blank\" href=\"http://www.ed.ac.uk/schools-departments/health/clinical-psychology/studying/cyp-mental-health\">Children and Young \nPeople\u2019s Mental Health and Psychological Practice</a> and the <a title=\"Link: http://www.ed.ac.uk/schools-departments/health/clinical-psychology/studying/pgcert-cycbt\" target=\"_blank\" href=\"http://www.ed.ac.uk/schools-departments/health/clinical-psychology/studying/pgcert-cycbt\">Postgraduate Certificate in Cognitive Behaviour Therapy (CBT) for Children and Young People.</a></p><br>",
+            "department": "School of Health in Social Science",
+            "fullName": "",
+            "id": "5297290",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/44/c6a160e1c211e3b9d261a248deca60/Profile-Picture-EPT.jpg",
+            "title": "Lecturer in Clinical Psychology"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2173121",
+            "title": ""
+        },
+        {
+            "bio": "Walter Sinnott-Armstrong is Chauncey Stillman Professor of Practical Ethics in the Philosophy Department and the Kenan Institute for Ethics at Duke University and Core Faculty in the Duke Institute for Brain Sciences. He has served as vice-chair of the Board of Officers of the American Philosophical Association and co-director of the MacArthur Project on Law and Neuroscience. He has published books on moral theory, philosophy of religion, theory of knowledge, and informal logic. His current research focuses on ways that psychology and neuroscience can illuminate moral beliefs and moral responsibility. He has regularly taught a course on reasoning for three decades.",
+            "department": "Philosophy",
+            "fullName": "",
+            "id": "932346",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/70/4422b8e7cd544fdce1812794dba951/Ram_Walter_pic.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "<span>Jessica Baldenhofer oversees School Visits and Partnerships at The Museum of Modern Art. She considers working with the Museum\u2019s diverse student and teacher populations extremely rewarding and strives to make modern and contemporary art accessible and useful for teaching many subject areas, while also providing students with meaningful experiences with works of art. In 2002, Jessica wrote Come Look with Me: Exploring Modern Art, a book designed to help teachers and parents talk about art with children. Prior to working at MoMA, she oversaw on-site school visits at the Guggenheim Museum and the New-York Historical Society. She has a BA in Art History from William & Mary, an MA in Art History from Richmond University in London, and an MS.Ed in Museum Education from Bank Street College.</span>",
+            "department": "Education",
+            "fullName": "",
+            "id": "3562624",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/0d/9278f9432cf6ff86cc8e0eb5177b05/21.JPG",
+            "title": "Associate Educator, School Visits & Partnerships"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3440227",
+            "title": ""
+        },
+        {
+            "bio": "<p>\n<span>Tim White is a\nProfessor of Materials Science at Nanyang Technological University where he teaches crystallography,\nelectron microscopy and X-ray diffraction to undergraduate and graduate\nstudents.\u00a0 His research encompasses mineralogy, clean\nenergy materials, environmental remediation, nuclear waste disposal and\ncatalysis, where synchrotron X-ray and neutron scattering methods probe atomic-scale\nsymmetry.\u00a0 In 2006,\nhe introduced a suite of teaching modules for materials scientists called <i>On-line Micro- and Nano-characterisation Instruction</i></span><span><span> (OMNI) that were extended by the Australian Learning\nand Teaching Council to create <i>MyScope</i>, a national curriculum for\nblended learning in microscopy and imaging (</span><a href=\"http://www.ammrf.org.au/myscope/\">http://www.ammrf.org.au/myscope/</a><span> ).\n<span>Tim developed the first comprehensive\non-line course at NTU called Symmetry and Crystals from which this MOOC on <i>Beauty,\nForm and Function: An Exploration of Symmetry</i> evolved.</span></span></span></p><p>\n\n</p>",
+            "department": "School of Materials Science & Engineering ",
+            "fullName": "",
+            "id": "3874110",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/22/f638b017edf6fddd92189a5522a5a6/TimWhite.png",
+            "title": "Professor of Materials Science "
+        },
+        {
+            "bio": "Misty COOK is a lecturer at the Centre for English Language Communication, National University of Singapore. She has extensive experience in teaching English academic writing courses, and has strong interests in teaching spoken and written professional communication and intercultural communication skills.\n\nAs an educator, Misty believes in motivating her students to learn by instilling knowledge that they can apply to the real world, and using technology to strengthen an inside-outside class continuum in students\u2019 learning. \n\nMisty grew up in a very multicultural environment, and has lived in and travelled to several areas in Asia Pacific and Europe. She likes to learn about different customs, try food from different cultures, and learn about different facets of intercultural communication. ",
+            "department": "Centre for English Language Communication",
+            "fullName": "Misty So-Sum Wai-Cook",
+            "id": "16799906",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/fe/f23030ca1f11e59e95bd0cc6d48e17/DSC_5587.jpg",
+            "title": "Dr"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9198727",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Ryan Paterson attended the University of Vermont School of Medicine and completed his Emergency Medicine residency and fellowship in Wilderness Medicine at Denver Health Medical Center. Academic interests include mountain medicine and international/global health ethics.<br><br>Dr. Paterson serves as an assistant course director of the Wilderness Medical Society and Universities of Colorado and Utah\u2019s Diploma in Mountain Medicine Course. He is the current United States Delegate to the International Society of Mountain Medicine and serves as an SAEM National Ethics Committee member focused on International/Global Health Ethics.",
+            "department": "Emergency Medicine",
+            "fullName": "",
+            "id": "11510983",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/d5/df39c0b4c911e4bb8a5f2047db2916/ryanpatterson.jpg",
+            "title": "MD, DTMH"
+        },
+        {
+            "bio": "Dr. Frick received his PhD in Economics and Health Services Organization and Policy from the University of Michigan in 1996 and has been with the Johns Hopkins Bloomberg School of Public Health's Department of Health Policy and Management since that time. In his research, he combines his knowledge of economic analysis with clinical and epidemiological insights from his colleagues to produce burden of disease and cost-effectiveness analyses that bring the tools of economic decision making to policy-makers. He has focused on community-based interventions such as the Experience Corps volunteer program for older adults, nursing interventions such as an intervention to increase breastfeeding duration among low-income women, and medical interventions such as surgery for dysfunctional uterine bleeding. His burden of disease studies have focused on eye care and obesity.  He has published numerous international cost-benefit and cost-effectiveness studies or framework papers on eye care and related to nursing.<br>",
+            "department": "Bloomberg School of Public Health",
+            "fullName": "",
+            "id": "681157",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a1/273d09a752cd76089c0e5d43645731/Frick_Kevin.jpg",
+            "title": "Professor, Health Policy and Management"
+        },
+        {
+            "bio": "<p>Dan Dickrell is an Assistant Engineer in the College of Engineering at the University of Florida in Gainesville, FL.&nbsp;He is also a member of the graduate research faculty in the Department of Mechanical and Aerospace Engineering (MAE). He holds a PhD in Mechanical Engineering from the University of Florida and has worked as a mechanical engineer at Argonne National Laboratory in Argonne, IL, Sandia National Laboratory in Albuquerque, NM, and in private industry.&nbsp;</p>\n\n<p>Since 2007, Dr. Dickrell has taught various\nengineering design and mechanics courses in the MAE department (Statics, Mechanics of Materials, Introduction to Mechanical Design). He also teaches first-year course: Introduction to Engineering Design and Programming for the College of\nEngineering. In 2012-2013 academic year he was voted \"Teacher of the\nYear\" in the MAE department by students and faculty.</p>\n\n<p>His scientific research interests include: soft\ncontact lens tribology, electrical contact resistance of composite thin films,\nand design and fabrication of experimental tribometers. His academic research concentrates on the application of online technology in very-large enrollment engineering classes.&nbsp;</p><p>He is an avid Brazilian jiu-jitsu player, photographer, and rock climber.</p>",
+            "department": "Mechanical and Aerospace Engineering",
+            "fullName": "",
+            "id": "3397716",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/8c/e64a03cb572059bb17002b36270bc2/dan-dickrell.jpg",
+            "title": "Engineer"
+        },
+        {
+            "bio": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u8bb2\u5e08\uff0c\u8d1f\u8d23\u4eba\u8ba1\u7b97\u673a\u6559\u5b66\u5b9e\u9a8c\u4e2d\u5fc3\u7684\u5efa\u8bbe\u5de5\u4f5c\uff0c\u4ee5\u53ca\u56fd\u5bb6\u5e08\u8303\u4e2d\u5fc3\u7684\u5efa\u8bbe\u5de5\u4f5c\u3002\u5177\u4f53\u8d1f\u8d23\u6587\u3001\u7ba1\u3001\u533b\u79d1\u7c7b\u7684\u8ba1\u7b97\u673a\u8bfe\u7a0b\u5efa\u8bbe\u4e0e\u6559\u7814\u3002\u8d1f\u8d23\u94b1\u5b66\u68ee\u73ed\uff0c\u5c11\u5e74\u73ed\u3001\u7269\u7406\u6570\u5b66\u5b9e\u9a8c\u73ed\u7684\u8bfe\u7a0b\u5efa\u8bbe\u5de5\u4f5c\u3002\u5b8c\u6210\u7701\u91cd\u70b9\u653b\u5173\u9879\u76ee\u201c\u8ba1\u7b97\u673a\u57fa\u7840\u8bfe\u7a0b\u5b9e\u9a8c\u9879\u76ee\u6559\u5b66\u8d44\u6e90\u7684\u7814\u7a76\u4e0e\u5efa\u8bbe\u201d\uff08\u7b2c2\uff09\u3001\u6559\u6267\u59d4\u9879\u76ee\u201c\u878d\u5165\u8ba1\u7b97\u601d\u7ef4\u7684\u300a\u5927\u5b66\u8ba1\u7b97\u673a\u300b\u4e0e\u300a\u7a0b\u5e8f\u8bbe\u8ba1\u300b\u5b9e\u65bd\u65b9\u6848\u5728\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u7684\u8bd5\u70b9\u7814\u7a76\u201d\uff08\u9879\u76ee\u7f16\u53f7 IZW201101\uff09\u4ee5\u53ca\u6821\u6559\u6539\u9879\u76ee4\u9879\u3002\u83b7\u5f97\u56fd\u5bb6\u6559\u5b66\u6210\u679c\u59561\u9879\uff0c\u83b7\u5f97\u7701\u6559\u5b66\u6210\u679c\u59562\u9879\uff0c\u51fa\u7248\u6559\u67503\u672c\uff0c\u53c2\u7f167\u672c\u3002\n",
+            "department": "\u7535\u4fe1\u5b66\u9662\u8ba1\u7b97\u673a\u6559\u5b66\u5b9e\u9a8c\u4e2d\u5fc3",
+            "fullName": "\u5d14\u8212\u5b81",
+            "id": "16120530",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/76/4393e0b9a911e5b253bb3385b9afdb/310.jpg",
+            "title": "\u8bb2\u5e08"
+        },
+        {
+            "bio": "Robert Ghrist is the Andrea Mitchell University Professor of Mathematics and Electrical & Systems Engineering at the University of Pennsylvania. Prof. Ghrist is an applied mathematician whose expertise consists of finding novel applications for previously un-applied branches of Mathematics to Engineering Systems. Examples include applications of algebraic topology to sensor networks, sheaf theory to optimization and network data, CAT(0) geometry to robot motion planning, and braid theory to dynamical systems. His work has been honored by Scientific American as a \"SciAm50 Top for Research Innovation\" in 2007 and a Presidential Early Career Award for Scientists and Engineers (PECASE) in 2004. The S. Reid Warren, Jr. Award was granted to Prof. Ghrist by Penn students in 2009 for exceptional teaching. Prof. Ghrist is the 2013 recipient of the Chauvenet prize, the highest award for mathematical expository writing.",
+            "department": "Mathematics and Electrical & Systems Engineering ",
+            "fullName": "",
+            "id": "227062",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/45/9a93f4b6a7a096a9c2cab55c385d87/Robert-Ghrist.jpeg",
+            "title": " Professor "
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "14",
+            "title": ""
+        },
+        {
+            "bio": "<p>Edgard Cornacchione \u00e9 Professor\nTitular da FEA/USP. Possui t\u00edtulos de Bacharel, Mestre, Doutor e Livre-Docente\nem Ci\u00eancias Cont\u00e1beis pela FEA/USP e Ph.D. em Human Resource Education pela\nUniversity of Illinois of Urbana-Champaign (EUA). Foi chefe do Departamento de\nContabilidade e Atu\u00e1ria da FEA/USP, onde atua como professor desde 1992; Membro\ndo Conselho do IAAER (2013-2015), Presidente do Conselho Curador da FIPECAFI e coordenador\ndo programa eLearning da FIPECAFI. Foi Diretor de Pesquisa da ANPCONT e coordenador\ndo Programa de P\u00f3s-Gradua\u00e7\u00e3o em Controladoria e Contabilidade da USP. Acumula experi\u00eancia\nprofissional nas \u00e1reas de sistemas e tecnologia de informa\u00e7\u00e3o, controladoria,\ncustos, contabilidade gerencial, or\u00e7amento e modelos de precifica\u00e7\u00e3o, al\u00e9m desenho\ne avalia\u00e7\u00e3o de programas educacionais, bem como treinamento corporativo, em\norganiza\u00e7\u00f5es no Brasil e nos EUA. Autor de livros e artigos publicados e\napresentados no Brasil e no exterior. Atual pesquisador PQ 1D do CNPq, possui\nregistro expressivo de financiamentos de projetos e pesquisas, tais como FAPESP\nPQEX (2003), CNPq AVG (2010 e 2012), UNIVERSAL (2013-2015), USP PROJETO 1\n(2013) e FIPSE/CAPES parceria bilateral EUA-BRASIL (2008-2012). Sua \u00e1rea de\npesquisa envolve o reposicionamento da Contabilidade relativamente \u00e0s rupturas\nsociot\u00e9cnicas de longo prazo com grande impacto nos neg\u00f3cios e na capacita\u00e7\u00e3o\nprofissional tanto em ambientes universit\u00e1rios, quanto corporativos, incluindo\nefeitos de tecnologias avan\u00e7adas.</p>\n\n\n\n\n\n<br>",
+            "department": "Faculdade de Economia, Administra\u00e7\u00e3o e Contabilidade",
+            "fullName": "",
+            "id": "8891317",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/51/fb52803a7411e499b37f617766226a/ED_2014_A.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "8591368",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "8021408",
+            "title": ""
+        },
+        {
+            "bio": "<span>\n \n <span>\n\n  I am a\n  computational scientist. My work draws from applied mathematics, nonlinear\n  mechanics, and thermodynamics. Of specific interest to me are problems in\n  mathematical biology, biophysics and materials physics. In mathematical\n  biology and biophysics, my group, our collaborators and I work on models of\n  tumor growth, and cell mechanics. In materials physics we are particularly\n  interested in phase transformations in structural and battery materials. In\n  all of these problems we develop physical models, their mathematical forms,\n  numerical methods for their solution, and also write open source computer\n  code with these algorithms. I obtained my PhD from Stanford in 1996, and\n  joined the faculty at University of Michigan in 2000.\n\n \n</span></span>",
+            "department": "",
+            "fullName": "",
+            "id": "2697942",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/86/0cdefae02ac9637efa80250f21ed3c/krishna_Portrait_Crop_120213.jpg",
+            "title": "Professor of Mechanical Engineering, College of Engineering - Professor of Mathematics, College of Literature, Science and the Arts"
+        },
+        {
+            "bio": "\u0421\u0435\u0440\u0433\u0435\u0439 \u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447 \u041c\u0443\u0440\u0430\u0432\u044c\u0435\u0432 \u2013 \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0444\u0438\u0437\u0438\u043a\u043e-\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0443\u043a, \u0434\u043e\u0446\u0435\u043d\u0442 \u043a\u0430\u0444\u0435\u0434\u0440\u044b \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u044f\u0434\u0435\u0440\u043d\u043e\u0439 \u0444\u0438\u0437\u0438\u043a\u0438 \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u044f\u0434\u0435\u0440\u043d\u043e\u0433\u043e \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u00ab\u041c\u0418\u0424\u0418\u00bb. \u0410\u0432\u0442\u043e\u0440 \u0440\u044f\u0434\u0430 \u0441\u0442\u0430\u0442\u0435\u0439 \u043f\u043e \u043a\u0432\u0430\u043d\u0442\u043e\u0432\u043e\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0435 \u0438 \u044f\u0434\u0435\u0440\u043d\u043e\u0439 \u0444\u0438\u0437\u0438\u043a\u0435. \u0410\u0432\u0442\u043e\u0440 \u0443\u0447\u0435\u0431\u043d\u0438\u043a\u0430 \u00ab\u041d\u0430\u0447\u0430\u043b\u0430 \u0444\u0438\u0437\u0438\u043a\u0438\u00bb \u0438 \u043c\u043d\u043e\u0433\u0438\u0445 \u0441\u0431\u043e\u0440\u043d\u0438\u043a\u043e\u0432 \u0437\u0430\u0434\u0430\u0447 \u043f\u043e \u0444\u0438\u0437\u0438\u043a\u0435 \u0434\u043b\u044f \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432 \u0438 \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u0432. \u041c\u043d\u043e\u0433\u043e \u043b\u0435\u0442 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0442\u043e\u0440\u043e\u043c \u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0435\u043c \u0437\u0430\u0434\u0430\u043d\u0438\u0439 \u0434\u043b\u044f \u043c\u043d\u043e\u0433\u043e\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0445 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434 \u043f\u043e \u0444\u0438\u0437\u0438\u043a\u0435 \u0438 \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0438\u0438. \u0427\u043b\u0435\u043d \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0436\u044e\u0440\u0438 \u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u043e\u043b\u0438\u043c\u043f\u0438\u0430\u0434\u044b \u0448\u043a\u043e\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u043f\u043e \u0444\u0438\u0437\u0438\u043a\u0435.",
+            "department": "\u041a\u0430\u0444\u0435\u0434\u0440\u0430 \u0442\u0435\u043e\u0440\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u044f\u0434\u0435\u0440\u043d\u043e\u0439 \u0444\u0438\u0437\u0438\u043a\u0438",
+            "fullName": "\u041c\u0443\u0440\u0430\u0432\u044c\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447 ",
+            "id": "16558156",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/11/854260a49011e5b39e8fb33b8a68a0/_________.jpg",
+            "title": "\u0414\u043e\u0446\u0435\u043d\u0442"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5314615",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "11769374",
+            "title": ""
+        },
+        {
+            "bio": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u043e\u043a\u043e\u043b\u043e\u0432 \u2014 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0433\u0440\u0443\u043f\u043f\u044b \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u043d\u0435\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 Yandex Data Factory. \u041e\u043a\u043e\u043d\u0447\u0438\u043b \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442 \u0412\u041c\u041a \u041c\u0413\u0423 \u0432 2013 \u0433\u043e\u0434\u0443, \u0441\u0435\u0439\u0447\u0430\u0441 \u043f\u0438\u0448\u0435\u0442 \u0434\u0438\u0441\u0441\u0435\u0440\u0442\u0430\u0446\u0438\u044e \u043f\u0440\u043e \u043c\u0430\u0442\u0440\u0438\u0447\u043d\u044b\u0435 \u0440\u0430\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 \u0430\u0441\u043f\u0438\u0440\u0430\u043d\u0442\u0443\u0440\u0435 \u0442\u0430\u043c \u0436\u0435. \u0412\u0435\u0434\u0435\u0442 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0430\u043d\u044f\u0442\u0438\u044f \u043f\u043e \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u043c\u0443 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044e \u043d\u0430 \u0412\u041c\u041a \u041c\u0413\u0423 \u0438 \u0447\u0438\u0442\u0430\u0435\u0442 \u043b\u0435\u043a\u0446\u0438\u0438 \u043d\u0430 \u0424\u041a\u041d \u0412\u0428\u042d. \u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u0428\u043a\u043e\u043b\u044b \u0410\u043d\u0430\u043b\u0438\u0437\u0430 \u0414\u0430\u043d\u043d\u044b\u0445 \u042f\u043d\u0434\u0435\u043a\u0441\u0430.",
+            "department": "Yandex Data Factory",
+            "fullName": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u043e\u043a\u043e\u043b\u043e\u0432",
+            "id": "143601",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/90/8d7a80990711e5be006341069a2ff8/DSC_3788_av.jpg",
+            "title": "\u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b"
+        },
+        {
+            "bio": "Richard Moore is a lecturer in the International and English Language Programs at the University of Washington in Seattle. He has been a teacher for over 20 years. He is originally from England just outside of London, and has taught English in the U.K., Australia and Korea. Richard decided to become a teacher of English because he loves languages, travelling and working with different groups of people from around the world.",
+            "department": "UW Educational Outreach ",
+            "fullName": "Richard Moore",
+            "id": "15471184",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/60/fa7ef0b01111e5a1a0b959ffd9dd6a/Richard-Moore.jpg",
+            "title": "Extension Lecturer, International & English Language Programs"
+        },
+        {
+            "bio": "Dr. Wenger is an instructional technologist with Steward Observatory at the University of Arizona. &nbsp;He has a PhD in astronomy education and over 15 years of experience working in informal science education and free-choice learning. &nbsp;Prior to his current position, Matthew completed a postdoctoral position in free-choice STEM (science, technology, engineering, and math) learning at Oregon State University.",
+            "department": "Steward Observatory",
+            "fullName": "",
+            "id": "3580141",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/6b/0a86d07f0a11e4a2371f1d7f7f23e9/buddy03.jpg",
+            "title": "Instructional Technologist"
+        },
+        {
+            "bio": "\u0417\u0430\u0432\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043a\u0430\u0444\u0435\u0434\u0440\u043e\u0439 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u043a\u0430\u043a \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u043e\u0433\u043e \u041d\u0418\u042f\u0423 \u041c\u0418\u0424\u0418, \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0444\u0438\u043b\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043d\u0430\u0443\u043a \u043f\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u00ab\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a\u00bb. \u0410\u043b\u0435\u0432\u0442\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0451\u0442 \u0442\u0430\u043a\u0438\u0435 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b, \u043a\u0430\u043a \u00ab\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043a\u0430\u043a \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439: \u043d\u0430\u0443\u0447\u043d\u044b\u0439 \u0441\u0442\u0438\u043b\u044c \u0440\u0435\u0447\u0438\u00bb, \u00ab\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430 \u043d\u0430\u0443\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u043d\u0438\u044f\u00bb, \u00ab\u042d\u0442\u0438\u043a\u0430 \u0434\u0435\u043b\u043e\u0432\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u043d\u0438\u044f\u00bb, \u00ab\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430 \u0440\u0435\u0447\u0438\u00bb. \u0412 \u0441\u0444\u0435\u0440\u0443 \u0435\u0451 \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432 \u0432\u0445\u043e\u0434\u0438\u0442 \u043c\u0435\u0442\u043e\u0434\u0438\u043a\u0430 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0443 \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0445 \u0443\u0447\u0430\u0449\u0438\u0445\u0441\u044f \u043d\u0430\u0432\u044b\u043a\u043e\u0432 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0442\u0435\u043a\u0441\u0442\u043e\u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0436\u0430\u043d\u0440\u043e\u0432.\n\u0421\u0438\u0446\u044b\u043d\u0430-\u041a\u0443\u0434\u0440\u044f\u0432\u0446\u0435\u0432\u0430 \u0410\u043b\u0435\u0432\u0442\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u0432\u0442\u043e\u0440\u043e\u043c \u0431\u043e\u043b\u0435\u0435 20 \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0440\u0430\u0431\u043e\u0442, 5\u00a0\u0443\u0447\u0435\u0431\u043d\u044b\u0445 \u043f\u043e\u0441\u043e\u0431\u0438\u0439 \u043f\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u043c\u0443 \u044f\u0437\u044b\u043a\u0443 \u043a\u0430\u043a \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u043e\u043c\u0443 \u0434\u043b\u044f \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432-\u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u0446\u0435\u0432 \u0440\u0430\u0437\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f \u044f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438, \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440\u043e\u043c \u0441\u0431\u043e\u0440\u043d\u0438\u043a\u043e\u0432 \u0441\u0442\u0430\u0442\u0435\u0439 \u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0439. \u0412 2014\u00a0\u0433\u043e\u0434\u0443 \u043e\u043d\u0430 \u0441\u0442\u0430\u043b\u0430 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0435\u043c \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0430 \u00ab\u041b\u0443\u0447\u0448\u0438\u0439 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u041d\u0418\u042f\u0423 \u041c\u0418\u0424\u0418\u00bb. \u0412 \u0442\u043e\u043c \u0436\u0435 \u0433\u043e\u0434\u0443 \u0435\u0435 \u0443\u0441\u0438\u043b\u0438\u044f\u043c\u0438 \u0431\u044b\u043b\u0430 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043d\u0430 \u0438 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0430 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u044f \u00ab\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u0432 \u0435\u0434\u0438\u043d\u043e\u043c \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u043c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435 (\u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u043c\u0435\u0436\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u043e\u0433\u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f)\u00bb.",
+            "department": "\u041a\u0430\u0444\u0435\u0434\u0440\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u043a\u0430\u043a \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u043e\u0433\u043e",
+            "fullName": "\u0421\u0438\u0446\u044b\u043d\u0430-\u041a\u0443\u0434\u0440\u044f\u0432\u0446\u0435\u0432\u0430 \u0410\u043b\u0435\u0432\u0442\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043d\u0430",
+            "id": "14853568",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/22/42c080559b11e584d2f53f071a9306/______-__________-________-___________-_._._.____.-________.jpg",
+            "title": "\u041a\u0430\u043d\u0434\u0438\u0434\u0430\u0442 \u0444\u0438\u043b\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0443\u043a, \u0437\u0430\u0432\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u043a\u0430\u0444\u0435\u0434\u0440\u043e\u0439 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u043a\u0430\u043a \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u043e\u0433\u043e "
+        },
+        {
+            "bio": "Professor King L. Chow is a Professor of Life Science and Biomedical Engineering. He is the Director of the Molecular Biomedical Sciences Program. Prof. Chow researches on a broad spectrum of biological science areas from molecular genetics, cell developmental biology, genomics of human diseases and evolutionary biology set on an experimental platform of model organisms. He is active in organizing courses to promote interdisciplinary research that integrates engineering, mathematics and biological sciences. He teaches foundation courses in life science, specialized graduate courses as well as general education.  He has taught a dozen different undergraduate and postgraduate courses in Hong Kong tertiary institutions, where he has been active in course and curriculum development. He was awarded the Michael G. Gale Medal of Distinguished Teaching of HKUST. He is currently the Associate Dean of Students and Academic Director overseeing the development of the Common Core courses at HKUST.<br/>",
+            "department": "Life Science and Biomedical Engineering",
+            "fullName": "",
+            "id": "1358517",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/70/4b2c0cf65b2b411e1e24b4b8d4b16c/King-L.-Chow.png",
+            "title": "Professor"
+        },
+        {
+            "bio": "Fataneh Taghaboni-Dutta is a Professor of Business Administration the University of Illinois at Urbana-Champaign.  She earned a Ph.D. in Industrial Engineering from the Purdue University and has been in academia from more than two decades. \n\nProfessor Taghaboni-Dutta has great reputation of teaching excellence in face to face and online classes. Besides teaching online, she also conducted cutting edge research on online learning pedagogy and technologies. Professor Taghaboni-Dutta is recognized multiple times for her great teaching. She has been awarded Professor of the Year in the Executive MBA (EMBA) program for 2014. She consistently appears in List of Teachers Ranked as Excellent by Their Students, 2009-2014. \n\nHer research focus is on of integration of technology with management and process improvement. Currently, the focus has been on the development and deployment of Radio Frequency Identification (RFID) technology in manufacturing and global supply chain. Teaching interests are mainly in the area of Operations/Process Management including: product development and design, and operations and technology strategy, and project management.\n\nProfessor Taghaboni-Dutta has multiple scholarly achievements. She published extensively in Management, Engineering, Process Improvement and data analysis journals. She has highly cited papers in Academy of Management Journals, The International Journal of Product Research, International Journal of Knowledge, Culture and Change Management, and many other notable journals. \n",
+            "department": "University of Illinois, Urbana-Champaign College of Business Department of Business Administration",
+            "fullName": "Fataneh Taghaboni-Dutta",
+            "id": "12639351",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e4/4f7fe0a2af11e5b3003bc0db0b0a9b/Fataneh.jpg",
+            "title": "Clinical Professor of Business Administration"
+        },
+        {
+            "bio": "Kris V. Plachy is the CEO and Founder of Leadership Coach, LLC. She is a 20+ year veteran of leading and managing high performing teams. During her leadership tenure, Kris was consistently recognized as one of the top management performers in her organization. She attributes her success to a strong belief that the only way to achieve outstanding results is by investing greatly in individual and team development.  \n\nKris has a Bachelor\u2019s degree from San Diego State and a Masters in Organizational Management from the University of Phoenix and is a Certified Master Coach. She is the published author of \u201cChange Your Think: An Unexpected Way to Think About Managing People\u201d,  \u201c5 Truths for Thinking About Difficult People\u201d and \u201cHow to Coach Difficult People in Six Steps.\u201d Through her work at Leadership Coach, LLC, Kris teaches exceptional coaching skills to people who manage and coach others. She also teaches management and leadership coursework for UC Davis Extension.\n\nThrough Leadership Coach, LLC, Kris offers her clients executive coaching for individuals, dynamic group workshops and engaging keynote speaking sessions. She has developed a unique niche, in that she helps leaders deal with and handle what\u2019s \u201cdifficult\u201d. Our ability to negotiate our challenges lie within the very definition we give them. Her coaching work is informed by the belief that everyone has the capacity to improve their leadership performance, if provided ongoing tools, resources and perspective. She believes that the key to transforming organizational performance is through the sustainability measures that are offered through effective coaching.   \n\nWe can do a much better job at developing coaching, management and leadership skills in our leaders Kris realized the depth of need we have in our management ranks for development and investment. Leadership at work and in our lives is paramount if we are going to achieve the results we desire. Her goal is to work with organizations, teams and individuals to develop strategies for immediate and exceptional results!\n",
+            "department": "Leadership Coach, LLC & UC Davis Exetnsion",
+            "fullName": "Kris Plachy",
+            "id": "15497711",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/08/56a5c0a98c11e5ac6bb5302c181b58/IMG_4177-PRINT.jpg",
+            "title": "CEO and Founder & Instructor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "12240222",
+            "title": ""
+        },
+        {
+            "bio": "<div><p>\u041c\u0430\u0440\u0438\u044f \u041a\u043e\u043a\u043e\u0440\u0435\u0432\u0430 \u2013 \u0434\u043e\u0446\u0435\u043d\u0442 <a href=\"http://economics.hse.ru/defin/\">  \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432 </a> \u041d\u0418\u0423 \u00ab\u0412\u044b\u0441\u0448\u0430\u044f \u0448\u043a\u043e\u043b\u0430 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438\u00bb (\u041c\u043e\u0441\u043a\u0432\u0430). \u0417\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0430 \u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0438\u0430\u0442 (2006) \u043f\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044e \u00ab\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u044b \u0444\u0438\u0440\u043c\u044b\u00bb \u0438 \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0443 (2008) \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u00ab\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0444\u0438\u043d\u0430\u043d\u0441\u0430\u043c\u0438 \u0444\u0438\u0440\u043c\u044b\u00bb \u0412\u044b\u0441\u0448\u0435\u0439 \u0448\u043a\u043e\u043b\u044b \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438. \u0412 2012 \u0433\u043e\u0434\u0443 \u0437\u0430\u0449\u0438\u0442\u0438\u043b\u0430 \u0434\u0438\u0441\u0441\u0435\u0440\u0442\u0430\u0446\u0438\u044e \u043d\u0430 \u0441\u043e\u0438\u0441\u043a\u0430\u043d\u0438\u0435 \u0441\u0442\u0435\u043f\u0435\u043d\u0438 \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442\u0430 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0443\u043a \u043f\u043e \u0442\u0435\u043c\u0435 \u00ab\u0424\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u043a\u0430\u043f\u0438\u0442\u0430\u043b\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u043c\u0438 \u043d\u0430 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0449\u0438\u0445\u0441\u044f \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0445 \u0440\u044b\u043d\u043a\u0430\u0445\u00bb. </p><p>\n\n\u041c\u0430\u0440\u0438\u044f \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0435\u0442 \u043d\u0430 \u0444\u0430\u043a\u0443\u043b\u044c\u0442\u0435\u0442\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0443\u043a \u0438 \u0432 \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u043c \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438 \u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432 (\u041c\u0418\u042d\u0424). \u0412 \u043d\u0430\u0443\u0447\u043d\u043e-\u0443\u0447\u0435\u0431\u043d\u043e\u0439 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432 \u041c\u0430\u0440\u0438\u044f \u043a\u0443\u0440\u0438\u0440\u0443\u0435\u0442 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0435 \u0432\u044b\u0431\u043e\u0440\u0443 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u043a\u0430\u043f\u0438\u0442\u0430\u043b\u0430. \u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u043e\u043c \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e\u0439 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u0431\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u043e\u0432 \u0423\u0440\u0424\u0423 \u0438 \u041d\u0418\u0423 \u0412\u0428\u042d.  \u0410\u0432\u0442\u043e\u0440 \u0431\u043e\u043b\u0435\u0435 20 \u0441\u0442\u0430\u0442\u0435\u0439, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u043e\u0430\u0432\u0442\u043e\u0440 \u0434\u0432\u0443\u0445 \u043c\u043e\u043d\u043e\u0433\u0440\u0430\u0444\u0438\u0439 \u00ab\u0424\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u0430\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439. \u0421\u0440\u0430\u0432\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 \u0440\u0430\u0437\u0432\u0438\u0442\u044b\u0445 \u0438 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0449\u0438\u0445\u0441\u044f \u0440\u044b\u043d\u043a\u0430\u0445\u00bb \u0438 \u00ab\u041a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f. \u042d\u043c\u043f\u0438\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 (\u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u043d\u0430 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044e\u0449\u0438\u0445\u0441\u044f \u0440\u044b\u043d\u043a\u0430\u0445 \u043a\u0430\u043f\u0438\u0442\u0430\u043b\u0430)\u00bb.</p>\n<p>\u0412 2012 \u0438 2013 \u0433\u043e\u0434\u0430\u0445 \u041c\u0430\u0440\u0438\u044f \u041a\u043e\u043a\u043e\u0440\u0435\u0432\u0430 \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0430 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u0435\u043c \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0430 \u00ab\u041b\u0443\u0447\u0448\u0438\u0439 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c\u00bb \u043f\u043e \u0438\u0442\u043e\u0433\u0430\u043c \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432 \u041d\u0418\u0423 \u0412\u0428\u042d.</p>\n<p>\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0430 \u043f\u043e\u0440\u0442\u0430\u043b\u0435 \u041d\u0418\u0423 \u0412\u0428\u042d - <a href=\"http://www.hse.ru/staff/mkokoreva\">http://www.hse.ru/staff/mkokoreva</a></p><p>\n\n<p>Maria Kokoreva is an Associate Professor of the Department of Finance at NRU \"Higher School of Economics\" (Moscow). She graduated from Higher School of Economics: Bachelor in \"Economics and Finance\" (2006) and Master \"Strategic Corporate Finance\" programme (2008). In 2012 she defended her Ph.D. (Candidate of Sciences) thesis on the topic \"Capital structure choice in emerging financial markets\". </p>\n<p>Maria is currently teaching at the Faculty of Economic Sciences and the International College of Economics and Finance (ICEF). Maria is a head of research direction on the capital structure choice at Corporate Finance Center. He is also a director of the joint bachelor programme of the Ural Federal University and NRU HSE. Maria is the author of more than 20 articles and a co-author of two monographs: \"The corporate financial architecture. Comparative studies in developed and emerging markets\" and \"Corporate financial decisions. An Empirical Analysis of Russian companies (corporate financial decisions in emerging capital markets).\"</p>\n<p>In 2012 and 2013 Maria Kokoreva was the winner of the \"The best teacher\" contest as voted by the students of HSE.</p>\n<p>Personal page (HSE site)  - <a href=\"http://www.hse.ru/staff/mkokoreva\">http://www.hse.ru/staff/mkokoreva</a></p>\n",
+            "department": "\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0424\u0438\u043d\u0430\u043d\u0441\u043e\u0432",
+            "fullName": "\u041a\u043e\u043a\u043e\u0440\u0435\u0432\u0430 \u041c\u0430\u0440\u0438\u044f \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043d\u0430",
+            "id": "5569831",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f1/035240a95111e5a66fc325ecd229ce/_____-________-_____.jpg",
+            "title": "\u043a.\u044d.\u043d., \u0434\u043e\u0446\u0435\u043d\u0442"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3342714",
+            "title": ""
+        },
+        {
+            "bio": "Bronwyn Bevan is Associate Director of Program at the Exploratorium, a museum in San Francisco.  Bevan serves as Principal Investigator on the NSF-funded MSP Research+Practice Collaboratory; the California Tinkering Afterschool Network; and the NSF-funded Relating Research to Practice project.  Bevan\u2019s work focuses on how institutional settings shape opportunities for learning.   She is co-editor of the Science Learning in Everyday Life section of the journal Science Education.  Bevan holds a doctorate in urban education from the CUNY Graduate Center.",
+            "department": "",
+            "fullName": "",
+            "id": "3228961",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/90/54c826ddd1101f664b9036a06d1b3d/BB_pic_2008.jpg",
+            "title": "Associate Director of Program"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1983568",
+            "title": ""
+        },
+        {
+            "bio": "Debra Virtue is a Lecturer in the Melbourne School of Health Sciences and holds a Doctor of Clinical Physiotherapy, Graduate Diploma in Manipulative Physiotherapy and Graduate Certificate in University Teaching. She has lectured both locally and internationally as part of her academic appointment. She currently divides her time between clinical practice and teaching in the Department of Physiotherapy where she co-ordinates the Women's Health programs. Her special interest area is the role of exercise on the maintenance and improvement of health in the ageing individual, particularly women.",
+            "department": "Melbourne School of Health Sciences",
+            "fullName": "Debra Virtue",
+            "id": "9887819",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a2/856a00b12b11e4a48811efc3e4aaca/debra-virtue.jpg",
+            "title": "Lecturer"
+        },
+        {
+            "bio": "<p>\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u7f51\u7edc\u6559\u80b2\u5b66\u9662</p>",
+            "department": "Xi'an Jiaotong University",
+            "fullName": "",
+            "id": "4565385",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4e/4dc7906b0b11e483d3054d184b8cd0/icon.jpg",
+            "title": ""
+        },
+        {
+            "bio": "B.S. Seoul National University, M.S. Stanford University, Ph.D. Stanford University, Associate Editor, The Journal of American Helicopter Society, Vice President, American Society of Helicopter, 1st General Chair, Asian/Australian Rotorcraft Forum, Academy Director, The Society of Education for Human Completion, 1st Organizing Chair &amp; 2nd co-chair, International Conference on Human Completion, Vice President, Korea Drone Industry Association.",
+            "department": "Aerospace Engineering",
+            "fullName": "",
+            "id": "14979462",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b0/8d135056d011e5a9bcbd7910b81ca9/djlee_2_.png",
+            "title": "Professor"
+        },
+        {
+            "bio": "Bruce Holsinger teaches in the Department of English at the University of Virginia in Charlottesville. He is the author&nbsp;of<a href=\"http://www.amazon.com/A-Burnable-Book-Novel/dp/0062240323/ref=sr_1_1?ie=UTF8&amp;qid=1376668446&amp;sr=8-1&amp;keywords=Burnable+Book\" target=\"_blank\">&nbsp;</a><i><a href=\"http://www.amazon.com/A-Burnable-Book-Novel/dp/0062240323/ref=sr_1_1?ie=UTF8&amp;qid=1376668446&amp;sr=8-1&amp;keywords=Burnable+Book\" target=\"_blank\">A Burnable Book</a></i>, a historical novel set in London in 1385 (forthcoming from HarperCollins and William Morrow early in 2014). He is the author or&nbsp;editor of six nonfiction books as well, beginning with <i>Music, Body, and Desire in Medieval Culture</i>, which garnered major awards from the Modern Language Association, the American Musicological Society, and the Medieval Academy of America.&nbsp; His work has been recognized with a Guggenheim Fellowship, and he is the recipient of research fellowships from the National Endowment for the Arts and the American Council of Learned Societies. Holsinger's scholarly books have been published by the university presses of Chicago, Columbia, and Stanford. &nbsp;<br>\n<p>Much of Holsinger\u2019s academic writing examines the persistence of the Middle Ages in the modern imagination, a subject that embraces the intellectual history of postwar France, the political rhetoric of the War on Terror, and the manuscript inheritance of the medieval world.&nbsp; This is a topic he\u2019s pursuing in a book called&nbsp;<i>Archive of the Animal</i>, which begins with Shakespeare\u2019s meditations on parchment and thinks about the central role of animal skin in the transmission and preservation of medieval writing. Holsinger has also written widely on modern culture (he is the co-author, with Mark Winokur, of <i>The Complete Idiot\u2019s Guide to Movies, Flicks, and Film</i>), and in his classes he pushes students to recognize the endurance of medieval mentalities as they shape modern expressions of violence, power, and love.</p>\n<p>Trained as a classical clarinetist, Holsinger graduated from the University of Michigan School of Music in 1989. He went on to pursue doctoral work in medieval literature and culture, earning his Ph.D. in English and Comparative Literature from Columbia University in New York. He spent the first nine years of his teaching career at the University of Colorado in Boulder.</p><p>Holsinger's blog, <a href=\"http://www.burnablebooks.com\" target=\"_blank\">Burnable Books</a>, brings together his passions for medieval studies and historical fiction. He will be blogging actively about his Coursera class in the coming months, and he can also be found on Twitter (<a href=\"https://twitter.com/burnablebooks\" target=\"_blank\">@burnablebooks</a>). &nbsp;</p>",
+            "department": "English",
+            "fullName": "",
+            "id": "2929456",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/a1/2b5fabae0651c5d2e5631b68858844/holsinger.photo.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "11772297",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "1315711",
+            "title": ""
+        },
+        {
+            "bio": "Dr. Justin Shewell has a Ph.D. in Educational Technology from Arizona State University, and a Master\u2019s degree in TESOL from Brigham Young University. He has taught English for more than 15 years in several countries and in several states in the United States. He has published articles and book chapters on the use of technology in teaching English and improving teacher performance. His research interests include effective integration of technology into various curricular settings, the use of video in improving teacher and student performance, teaching pronunciation and vocabulary, and effective online instructional methods.",
+            "department": "Arizona State University",
+            "fullName": "Dr. Justin Shewell",
+            "id": "13625507",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7f/bb21405bd511e58c23716de41c3d9e/JustinS.jpg",
+            "title": "Senior International Educator"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "James Short",
+            "id": "8038390",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "2676471",
+            "title": ""
+        },
+        {
+            "bio": "<p>Nick Feamster is a professor in the <a href=\"http://www.cs.princeton.edu/\" target=\"_blank\" title=\"Link: http://www.cs.princeton.edu/\">Department of Computer Science</a>. He received his PhD in Computer Science from MIT\nin 2005, and his SB and MEng degrees in Electrical Engineering and Computer\nScience from MIT in 2000 and 2001, respectively. His research focuses on many aspects\nof computer networking and networked systems, including the design,\nmeasurement, and analysis of network routing protocols, network operations and\nsecurity, and anonymous communication systems.&nbsp;</p><p>In December 2008, Feamster received\nthe Presidential Early Career Award for Scientists and Engineers (PECASE) for\nhis contributions to cybersecurity, notably spam filtering. His other honors include\na Sloan Research Fellowship, the NSF CAREER award, the IBM Faculty Fellowship,\nand award papers at SIGCOMM 2006 (network-level behavior of spammers), the NSDI\n2005 conference (fault detection in router configuration), Usenix Security 2002\n(circumventing web censorship using Infranet), and Usenix Security 2001 (web\ncookie analysis).</p>\n\n<p>&nbsp;</p>",
+            "department": "Computer Science",
+            "fullName": "",
+            "id": "1743955",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/97/e4f8104fc861c1057419f00bc5b02b/nick_feamster.png",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "Centre for English Language Communication",
+            "fullName": "Lee Kooi Cheng",
+            "id": "3843095",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/17/ffdaa0b2b011e5aa599f8de75ca699/leekooicheng.jpg",
+            "title": "Dr"
+        },
+        {
+            "bio": "<span>Con\nm\u00e1s de 10 a\u00f1os de experiencia profesional en las \u00e1reas de Innovaci\u00f3n\nEmpresarial, Desarrollo Sustentable y Planeaci\u00f3n Estrat\u00e9gica, el Ing. Salm\u00f3n\nFolgueras ha estado involucrado en el desarrollo de m\u00e1s de 50 proyectos\ntecnol\u00f3gicos para el desarrollo de numerosas patentes y secretos industriales\nque han resultado en la generaci\u00f3n de empresas de base tecnol\u00f3gica y social.\nTiene una maestr\u00eda en Econom\u00eda y Pol\u00edtica P\u00fablica (TEC de\nMonterrey-Georgetown), una maestr\u00eda y una carrera en Materiales Avanzados (\u00c9cole\nPolytechnique) y la carrera de Ingeniero F\u00edsico Industrial (TEC de Monterrey),\ny ha participado en congresos e impartido talleres y cursos de capacitaci\u00f3n y\ndesarrollo para diversas empresas nacionales e internacionales. Lo que\ncaracteriza al Ing. Salm\u00f3n Folgueras es su enfoque global, su visi\u00f3n innovadora\ny su naturaleza para liderar y dar un enfoque integrador a cualquier proyecto\nque emprende ya sea en el campo personal o profesional. Su perfil creativo y su\nhabilidad para procesar informaci\u00f3n simult\u00e1neamente complementada con su\nformaci\u00f3n acad\u00e9mica le dan cualidades anal\u00edticas orientadas a resultados que se\ntraducen en su estilo de resoluci\u00f3n de problemas y la toma de decisiones\nefectivas y r\u00e1pidas. En el ambiente laboral, sus habilidades convergen para\nintegrar y dirigir eficaz y colaborativamente m\u00faltiples equipos de trabajo con\nla capacidad para identificar los recursos y aspectos necesarios para llevar\nexitosamente a t\u00e9rmino cualquier proyecto. Actualmente, es miembro del Centro\nExperimental de Energ\u00edas Renovables: Casa Solar del Tecnol\u00f3gico de Monterrey, y\nha sido finalista de los premios TECNOS Nuevo Le\u00f3n, CNN Expansi\u00f3n y TR35 del\nMIT para j\u00f3venes emprendedores.</span><br>",
+            "department": "Departamento de F\u00edsica, Escuela de Ingenier\u00eda y Tecnolog\u00edas de Informaci\u00f3n",
+            "fullName": "",
+            "id": "3473689",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/8b/94e6e483bdfbf86b6f6d7354512268/profesor3.jpg",
+            "title": "Profesor del Departamento de F\u00edsica"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "13649983",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Isaac Guttman ",
+            "id": "12807413",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "5260164",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "9820923",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4531451",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Lisa Smith",
+            "id": "13781232",
+            "title": ""
+        },
+        {
+            "bio": "\u5317\u4eac\u5927\u5b66\u5730\u7403\u4e0e\u7a7a\u95f4\u79d1\u5b66\u5b66\u9662\u6559\u5e08\uff0c\u4e3b\u8bb2\u8bfe\u7a0b\u4e3a\u300a\u79bb\u6563\u6570\u5b66\u300b\u300a\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u300b\u300a\u7a7a\u95f4\u6570\u636e\u5e93\u300b\u548c\u300a\u5f00\u6e90\u7a7a\u95f4\u4fe1\u606f\u8f6f\u4ef6\u300b\uff0c\u7814\u7a76\u65b9\u5411\u662f\u5206\u5e03\u5f0f\u7a7a\u95f4\u4fe1\u606f\u8ba1\u7b97\u53ca\u865a\u62df\u5730\u7406\u73af\u5883\uff0c\u5e76\u5bf93D\u6253\u5370\u7b49\u667a\u80fd\u5236\u9020\u6280\u672f\u7684\u5e94\u7528\u6709\u6d53\u539a\u5174\u8da3\u3002",
+            "department": "\u5730\u7403\u4e0e\u7a7a\u95f4\u79d1\u5b66\u5b66\u9662",
+            "fullName": "",
+            "id": "11511889",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/25/a1d660507f11e5973d752aa4fa15a2/chenbin4.jpg",
+            "title": "\u526f\u6559\u6388"
+        },
+        {
+            "bio": "I have been a faculty member at Rutgers since 2010, and am currently \ndirector of the General Chemistry program and the graduate program in \nComputational Biology and Molecular Biophysics.  I received my Ph.D. at \nUNC-Chapel Hill, and did postdoctoral work at Duke, Harvard, and ULP in \nStrasbourg, France. My research aims to develop and apply new multiscale\n modeling tools to understand the mechanisms of biocatalysis, and gain \ninsight that will enable the rational design of new biotechnology.&nbsp; <br><br>...and my pathway through science all started with my first general chemistry class!<br>",
+            "department": "Deptartment of Chemistry & Chemical Biology",
+            "fullName": "Dr. Darrin M. York",
+            "id": "5557208",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/9a/c2fb30853411e3815a9df972b8069e/york2.jpg",
+            "title": "Professor"
+        },
+        {
+            "bio": "",
+            "department": "MIIETL",
+            "fullName": "Chris Lombardo",
+            "id": "12224404",
+            "title": "Digital Media Specialist"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "3641786",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "Psychology - University at Albany",
+            "fullName": "Kevin Williams",
+            "id": "17128976",
+            "title": "Vice Provost and Professor"
+        },
+        {
+            "bio": "<div>Dr. Jennifer Golbeck&nbsp;is Director of the Human-Computer Interaction Lab and an&nbsp;Associate Professor in the College of Information Studies at the&nbsp;University of Maryland, College Park.&nbsp;<br></div><div><br>Her research focuses on analyzing and computing with social media. This&nbsp;includes building models of social relationships, particularly trust, as&nbsp;well as user preferences and attributes, and using the results to design&nbsp;and build systems that improve the way people interact with information&nbsp;online. She is a Research Fellow of the Web Science Research Initiative and in&nbsp;2006, she was selected as one of IEEE Intelligent Systems' Top Ten to&nbsp;Watch, a list of their top young AI researchers.<br></div>",
+            "department": "Human-Computer Interaction Lab",
+            "fullName": "",
+            "id": "5953384",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e1/26f810823211e388e9cb6bcd1740f6/jennifergolbeck.jpg",
+            "title": "Director"
+        },
+        {
+            "bio": "Karen Charron is an Associate Lecturer and Assistant Director of Academic Programs of the Global Disease Epidemiology Control program in the Department of International Health at the Bloomberg School of Public Health. She earned a bachelor of science in nursing degree from Towson State University in 1985 and completed her MPH degree at JHSPH in 1991. She is a Certified Clinical Research coordinator (CCRC) through the Association of Clinical Research Professionals (ACRP). <br/><br/>Ms. Charron is a vaccine trials expert who has been involved in the clinical investigation, management and operational conduct for multiple phase I and II clinical trials of adult and pediatric experimental vaccines with the Johns Hopkins University Center for Immunization Research (CIR) since 1992. Vaccines studied include hepatitis B vaccines, preventive and therapeutic HIV vaccines, respiratory syncytial virus vaccines, rotavirus vaccines, human papilloma vaccine (HPV) and influenza virus vaccines. She currently is the Principal Investigator for the Center for Immunization Research healthy adult screening protocol. Ms. Charron served as clinical research coordinator (CRC) for Abt Associates, Inc., the Domestic Master Contractor for the HIV Network for Prevention Trials (HIVNET) responsible for the clinical and operational oversight and training for a multicenter Phase II AIDS vaccine trial. Ms. Charron is focused on training and education. She developed a graduate online course at JHSPH entitled Clinical Vaccine Trials and Good Clinical Practices (GCP) course offered every spring which provides GCP certification; developed and directed a program of applied face to face GCP training workshops in the US, Africa, Asia and Europe, directs a Master of Science in Public Health (MSPH) program in Global Disease Epidemiology and Control Program in the Department of International Health. <br/>",
+            "department": "Bloomberg School of Public Health",
+            "fullName": "",
+            "id": "598777",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2c/bdc4f20dda7d54a93ecdf95c1b69a4/Charron_Karin.jpg",
+            "title": "Associate Lecturer, Center for Immunization Research"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Wayne Anderson",
+            "id": "13780649",
+            "title": ""
+        },
+        {
+            "bio": "<p>Geoffroy Mauvais est v\u00e9t\u00e9rinaire, sp\u00e9cialis\u00e9 en d\u00e9veloppement et en gestion\ndes aires prot\u00e9g\u00e9es en Afrique. Il coordonne le Programme Aires Prot\u00e9g\u00e9es\nd\u2019Afrique &amp; Conservation de l\u2019Union Internationale pour la Conservation de\nla Nature (UICN-Papaco), depuis 2006. Apr\u00e8s 6 ans pass\u00e9s \u00e0 Ouagadougou et 3 \u00e0\nNairobi,&nbsp; il est d\u00e9sormais bas\u00e9 \u00e0 Johannesburg, en Afrique du Sud. Le\nPapaco a pour objectif d\u2019am\u00e9liorer la gouvernance et la gestion des aires\nprot\u00e9g\u00e9es du continent, pour contribuer \u00e0 une meilleure conservation de la\nbiodiversit\u00e9.&nbsp; Il s'adresse donc aussi bien \u00e0 la pr\u00e9servation des esp\u00e8ces\nqu'au maintien des \u00e9cosyst\u00e8mes et de toutes leurs fonctions. Il s'int\u00e9resse\naussi \u00e0 la valorisation de cette biodiversit\u00e9, lorsqu'elle est durablement\npossible et qu\u2019elle renforce la conservation. Et dans ce cas, il essaye de\npromouvoir l'utilisation raisonnable des ressources naturelles qui permettra le\nplus juste \u00e9quilibre entre conservation et valorisation, et un partage\n\u00e9quitable des b\u00e9n\u00e9fices, quels qu'ils soient, aux niveaux local, national ou\nau-del\u00e0.&nbsp; Pour y parvenir, le Papaco travaille essentiellement sur\nl\u2019\u00e9valuation des sites et r\u00e9seaux, l\u2019appui technique et l\u2019information des\ngestionnaires, et la formation des personnels et des partenaires des parcs et\nr\u00e9serves.</p><p>Il a rejoint le Coll\u00e8ge des Humanit\u00e9s de l'EPFL dans le courant de 2015.<br></p>\n\n<br>",
+            "department": "Coll\u00e8ge des Humanit\u00e9s",
+            "fullName": "",
+            "id": "13717415",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/65/6259a0509d11e596ea0b9e2b14fde1/GEOFFROY-MAUVAIS-670x589.jpg",
+            "title": ""
+        },
+        {
+            "bio": "Alberto G\u00fcijosa es investigador de tiempo completo en el \n<a href=\"http://www.nucleares.unam.mx\">Instituto de Ciencias Nucleares</a> \nde la \n<a href=\"http://www.unam.mx\">Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)</a>.\nEstudi\u00f3 el doctorado en f\u00edsica en la \n<a href=\"http://www.princeton.edu\">Universidad de Princeton</a>, especializ\u00e1ndose en teor\u00eda de cuerdas. \nPor su trabajo en esta \u00e1rea, fue distinguido en el 2010 con el Premio de Investigaci\u00f3n de la \n<a href=\"http://www.amc.edu.mx\">Academia Mexicana de Ciencias</a>. \nSu investigaci\u00f3n se centra en la\n<a href=\"http://www.nucleares.unam.mx/~alberto/articulos/espejismos.pdf\">correspondencia hologr\u00e1fica o AdS/CFT</a>, \nun sorprendente enunciado de equivalencia entre teor\u00edas con y sin gravedad. Ha impartido m\u00e1s de 80 pl\u00e1ticas especializadas, 20 cursos de posgrado y 10 cursos de licenciatura. \n<br>\nTiene tambi\u00e9n un gran inter\u00e9s en la divulgaci\u00f3n de la ciencia. Ha dado m\u00e1s de 100 charlas para todo p\u00fablico y escrito 10 art\u00edculos de divulgaci\u00f3n. Cuenta con m\u00e1s de 20 apariciones en radio y televisi\u00f3n. Particip\u00f3 como asesor y guionista de <i>El Nuevo Universo</i>, una serie televisiva multipremiada de divulgaci\u00f3n sobre f\u00edsica moderna, y tambi\u00e9n de \n<a href=\"https://www.youtube.com/watch?v=LKMuWY_EiiI\"><i>Los 5 Secretos del Oficinista</i></a>, \nun programa televisivo multipremiado sobre los trabajos de Albert Einstein en 1905.  ",
+            "department": "Instituto de Ciencias Nucleares ",
+            "fullName": "Alberto G\u00fcijosa",
+            "id": "11580417",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/7a/52f2b046cb11e5a9348b6c0eb1986a/guijosa.jpg",
+            "title": "Investigador Titular"
+        },
+        {
+            "bio": "<p>Paul Robbins holds a PhD in Geography from Clark University and has years of experience as a researcher and educator, specializing in human interactions with nature and the politics of natural resource management. He has taught topics ranging from environmental studies and natural resource policy to social theory. His research addresses questions spanning conservation conflicts, urban ecology, and environment and health interactions.&nbsp;</p><p>He has done extensive fieldwork in rural India, where he has focused his work on the politics surrounding forestry and wildlife conservation in north India, as well as recent research examining the wealth of biodiversity (frogs, birds and mammals) in commercial coffee and rubber plantations throughout south India.&nbsp;</p><p>Robbins has also led national studies of consumer chemical risk behaviors in America, including research on the abiding passion of Americans for their lawns and mosquito management policies in the Southwest. In addition, he has studied the complexities of elk management policy on the settled fringes of Yellowstone Park.</p>",
+            "department": "The Nelson Institute for Environmental Studies",
+            "fullName": "",
+            "id": "9091367",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e1/ed6690442811e4a283e120981cf424/paul.jpg",
+            "title": "Director"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "16366493",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Parth Upadhyay",
+            "id": "154861",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4567077",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "158494",
+            "title": ""
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "600325",
+            "title": ""
+        },
+        {
+            "bio": "I am an engineer working at DTU Wind Energy, where I divide my time between research into wind power integration, consulting on wind farm projects and doing some teaching.\nAlthough I consider myself British I was actually born in Boston, USA and am, therefore, strictly speaking an American. But...as I spent most of my childhood and education in Britain, I am now more British than American and have long since lost my American accent (as you can hear on the presentations!). \nI currently live in Denmark with my own family and enjoy the international environment at DTU Wind Energy. In my spare time I play tennis, spend time with my family and feel myself lucky to be able to cycle to work at the Ris\u00f8 Campus. ",
+            "department": "Department of Wind Energy",
+            "fullName": "Tom Cronin",
+            "id": "15383423",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/39/cf0bc0832f11e5b277772aa5255765/Tom-Cronin.jpg",
+            "title": "Special advisor"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "Jos\u00e9 Dutra de Oliveira Neto",
+            "id": "10634627",
+            "title": ""
+        },
+        {
+            "bio": "Jenny Young has taught English Language Learners for thirteen years. Her students have come from over 35 different countries, have ranged from ages 12-83, spoken 24 languages and been  very basic to advanced speakers.  She received a degree in English Education from Brigham Young University followed by a M.Ed. in Curriculum and Instructional Design from Grand Canyon University.\n\nBefore teaching English in Taiwan, Jenny studied both Mandarin Chinese and Spanish.  She currently teaches online in a Pathways program where her students are from Ghana, Mexico, Colombia, Peru, Ecuador, Guatemala, Chile, and Russia.\n",
+            "department": "Arizona State University Global Launch",
+            "fullName": "Jenny Young",
+            "id": "13774774",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/ee/b2f0005be911e58c6eb78bb927b79d/Jenny.jpg",
+            "title": "International Educator"
+        },
+        {
+            "bio": "I am an Assistant Professor in the Physics Department&nbsp;at the University of Campinas (UNICAMP).&nbsp;I received my B.Sc. (Physics) from UNICAMP in 2002, and my Ph.D. from the same university in 2009. I also received a degree on Licentiate in Physics in 2009.&nbsp;My research interests range from applications of optics in Medicine and Biology to Physics learning and teaching.",
+            "department": "Physics",
+            "fullName": "",
+            "id": "614684",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/8c0e304a4311e4bcdf3f8df5b1cbd9/10004060_10152461867453890_3824923264268925476_n.jpg",
+            "title": "Assistant Professor"
+        },
+        {
+            "bio": "D. Scott DeRue is the Associate Dean of Executive Education, director of the Sanger Leadership Center, director of the Emerging Leaders Program, and Professor of Management at the University of Michigan\u2019s Stephen M. Ross School of Business.\n \nScott has been reported to be among the 50 most influential business professors in the world, and among the top 40 business professors under the age of 40. He conducts research and teaches in the areas of leadership, team performance, and human resource management. His most recent book, Experience-driven Leader Development, uncovers best practices for developing leadership talent at all levels of organizations. His award-winning research has been published in journals such as the Academy of Management Review, Academy of Management Journal, Journal of Applied Psychology, Organization Science, Organizational Behavior & Human Decision Processes, Personnel Psychology, Research in Organizational Behavior, Leadership Quarterly, and the Human Resource Management Journal. Scott is a frequent speaker for companies and organizations throughout the world, and is often featured in media outlets ranging from BusinessWeek, Harvard Business Review, the Washington Post, and the New York Times. He is also the Associate Editor of the Journal of Applied Psychology, a leading journal for research on psychology and human behavior at work.\n \nDrawing upon his thought leadership, Scott is often sought out to advise organizations on issues related to leadership, change management, team development, executive selection and succession, and human resource management. His clients span five continents and include Fortune 100 companies, startup enterprises, championship-winning sports teams, and non-profit organizations. Scott is also a managing partner at ChiBor Angels, an angel investment firm.\n \nPrior to joining the University of Michigan faculty, Scott served in leadership positions at the Monitor Group (now Monitor Deloitte) and Hinckley Yacht Company. He received his Bachelor of Science in Business Administration from the University of North Carolina at Chapel Hill, and his PhD. in Management at Michigan State University.\n",
+            "department": "Management and Organizations, Ross School of Business",
+            "fullName": "Scott DeRue, Ph.D.",
+            "id": "14413061",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/81/e24bf0502d11e59f213758f6dd88ba/Scott_DeRue_Temp_SQUARE.jpg",
+            "title": "Associate Dean and Professor of Management"
+        },
+        {
+            "bio": "",
+            "department": "",
+            "fullName": "",
+            "id": "4256136",
+            "title": ""
+        },
+        {
+            "bio": "<p>Rebecca Shunk is currently the physician co-director of the\nCenter of Excellence in Primary Care Education at the San Francisco VA Medical\nCenter. She is also the Associate Director of the PRIME Program as well as an\nAssociate Professor at the University of California San Francisco (UCSF). Her\nacademic interests are in resident education and in teaching the cardiac\nphysical exam. During her tenure as a\nJohns Hopkins faculty member she participated and facilitated in the Johns\nHopkins Faculty Development Course as well as participated in the Curriculum\nDevelopment Course. The UCSF Teaching Scholars course further fostered her\ncurriculum development skills. Her favorite projects have included medical\nstudent and resident cardiac physical exam curricula, performance improvement\ncurricula and the team-based continuity practice. Her work in developing a\nteam-based model of ambulatory internal medicine residency training led her to\nher current role. She and her\nteam innovate to develop strategies to improve interprofessional,\nteam-based health professions education in patient-centered primary care. In this model Nurse Practitioner students\nand Internal Medicine residents along with other interprofessional trainees\npartner with clinic staff to provide team-based care.</p>\n\n<p>&nbsp;</p>",
+            "department": "School of Medicine",
+            "fullName": "",
+            "id": "8509337",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b5/8ae7800c6f11e4b94c5f37b8709755/shunk.png",
+            "title": "Associate Professor"
+        },
+        {
+            "bio": "Professor Dennin has been Professor of Physics and Astronomy at UCI for 18 years, and was appointed the Vice Provost for Teaching and Learning and Dean, Division of Undergraduate Education in May 2015. He received his Bachelor\u2019s Degree in Physics from Princeton University, and his PhD and Masters in Physics from UCSB.  His research focuses on the dynamics of foams, Langmuir monolayers, and modeling of ice m\u00e9lange. These studies in complex fluids are crucial for many applications including foam use in oil recovery as well as granular matter in the form of powders and pills in the medical industry. He is a Sloan Research Fellow and a Research Corporation Cottrell Scholar. He is a recipient of UCI Senate awards in all three categories: UCI Senate Distinguished mid-Career Award for Service, UCI Senate Distinguished Faculty Award for Teaching, and UCI Senate Distinguished Assistant Professor Award for Research. Professor Dennin has been very active in translating educational research to practical applications within the university.  He is dedicated to public outreach in the area of science \u2013 teaching a number of Massive Open Online Courses (MOOCs), including co-teaching one based on the AMC television program The Walking Dead. He has appeared on numerous television programs \u2013 including Science of Superman, Spider-man Tech, Batman Tech, Star Wars Tech, and Ancient Aliens. Recently, he published a science outreach book on the intersection between science and faith: Divine Science: Finding Reason at the Heart of Faith, from Franciscan Media.",
+            "department": "Physics; Office of Teaching and Learning",
+            "fullName": "Michael Dennin",
+            "id": "1321950",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/5d/77025d999ead9b1bfae7b36254fbd0/dennin-headshot-small.jpg",
+            "title": "Professor of Physics and Astronomy; Vice Provost for Teaching and Learning"
+        },
+        {
+            "bio": "1986\u5e74\uff0c\u5728\u7f8e\u56fd\u53f2\u8482\u6587\u65af\u7406\u5de5\u5b66\u9662\u8ba1\u7b97\u673a\u7cfb\u83b7\u5f97\u535a\u58eb\u5b66\u4f4d\uff0c\u540e\u5728\u4e2d\u56fd\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66\u505a\u535a\u58eb\u540e\u3001\u6559\u6388\u30021995\uff0d1997\u5728\u7f8e\u56fd\u9521\u62c9\u4e18\u8328\u5927\u5b66\u4e1c\u5317\u5e76\u884c\u8ba1\u7b97\u4e2d\u5fc3\uff08NPAC\uff09\u505a\u9ad8\u7ea7\u8bbf\u95ee\u5b66\u8005\u30021997\u5e749\u6708\u81f3\u73b0\u5728\uff0c\u4e3a\u5317\u4eac\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u6559\u6388\u3002<br><br>Got his Ph.D. in the EECS Department of Stevens Institute of Technology, 1986. After working as a post doc and professor in Harbin Institute of Technology from 1988-1995, he worked as a visiting scientist with NPAC at Syracuse University for two years. He has been a professor of computer science at Peking University since 1997.",
+            "department": "\u4fe1\u606f\u79d1\u5b66\u6280\u672f\u5b66\u9662\uff08School of Electronics Engineering and Computer Science\uff09",
+            "fullName": "",
+            "id": "2363791",
+            "photo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/1b/fa37a6b76eaf0d5e25efb9fab404b7/20120131.JPG",
+            "title": "\u6559\u6388\uff08Professor\uff09"
+        }
+    ],
+    "linked": {},
+    "paging": {
+        "next": "2500",
+        "total": 4152
+    }
+}
