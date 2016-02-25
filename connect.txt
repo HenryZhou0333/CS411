@@ -4,3 +4,7 @@ run on VM:
 first kill old process 'lsof -i :8000'
 
 python manage.py runserver 0.0.0.0:8000
+
+superuse:ubuntu
+pw: cs411cs411
+解决乱码问题
