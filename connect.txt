@@ -7,4 +7,3 @@ python manage.py runserver 0.0.0.0:8000
 
 superuse:ubuntu
 pw: cs411cs411
-解决乱码问题

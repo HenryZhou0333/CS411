@@ -64,6 +64,7 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+				'django.core.context_processors.static',
             ],
         },
     },
@@ -82,6 +83,13 @@ DATABASES = {
         'USER': 'root',
         'PASSWORD': 'cs411',
         'HOST': 'localhost',
+        'OPTIONS': {
+            'charset': 'utf8',
+            'init_command': 'SET '
+                'storage_engine=INNODB,'
+                'character_set_connection=utf8,'
+                'collation_connection=utf8_bin'
+        }
         #'ENGINE': 'django.db.backends.sqlite3',
         #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
