@@ -1,22 +1,16 @@
-"""RecoUrse URL Configuration
+from django.conf.urls import url
 
-The `urlpatterns` list routes URLs to views. For more information please see:
-    https://docs.djangoproject.com/en/1.9/topics/http/urls/
-Examples:
-Function views
-    1. Add an import:  from my_app import views
-    2. Add a URL to urlpatterns:  url(r'^$', views.home, name='home')
-Class-based views
-    1. Add an import:  from other_app.views import Home
-    2. Add a URL to urlpatterns:  url(r'^$', Home.as_view(), name='home')
-Including another URLconf
-    1. Import the include() function: from django.conf.urls import url, include
-    2. Add a URL to urlpatterns:  url(r'^blog/', include('blog.urls'))
-"""
-from django.conf.urls import url,include
-from django.contrib import admin
+from . import views
 
+app_name = 'recourse'
 urlpatterns = [
-    url(r'^recourse/', include('recourse.urls')),
-    url(r'^admin/', admin.site.urls),
+	url(r'^$', views.index, name='index'),
+	url(r'^course_(?P<course_id>.+)/$', views.course_detail, name='course_detail'),
+	url(r'^courseQuery/$', views.course_search, name='course_search'),
+	url(r'^ListInstructor/$', views.instructor_list, name='instructor_list'),
+	url(r'^instructor_(?P<instructor_id>.+)/$', views.instructor_detail, name='instructor_detail'),
+	url(r'^instructorQuery/$', views.instructor_search, name='instructor_search'),
+	url(r'ListUniversity/$', views.university_list, name='university_list'),
+	url(r'university_(?P<university_id>.+)/$', views.university_detail, name='university_detail'),
+	url(r'ListCategory_(?P<category_id>[0-9]+)/$', views.category_list, name='category_list'),
 ]

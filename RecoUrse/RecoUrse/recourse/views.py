@@ -3,6 +3,7 @@ from django.http import Http404
 from django.http import HttpResponse
 from .models import Courses,Instructors,Institutions,Users,Like,Teach,Offer
 from django.db import connection
+from django.views.decorators.csrf import csrf_protect
 
 def dictfetchall(cursor):
 	columns = [col[0] for col in cursor.description]
@@ -106,7 +107,7 @@ def university_detail(request, university_id):
 	else:
 		raise Http404("Invalid university id.")
 	
-	cursor.execute("SELECT id, name FROM recourse_courses WHERE id IN (SELECT course_id FROM recourse_offer WHERE institution_id = %s);", university_id)
+	cursor.execute("SELECT DISTINCT id, name FROM recourse_courses WHERE id IN (SELECT course_id FROM recourse_offer WHERE institution_id = %s);", university_id)
 	course_list = dictfetchall(cursor)
 	context = {
 	'university': university,
@@ -144,7 +145,7 @@ def category_list(request, category_id):
 	if pattern == "":
 		course_list = []
 	else:
-		cursor.execute("SELECT recourse_courses.id, recourse_courses.name FROM recourse_courses, recourse_categories \
+		cursor.execute("SELECT DISTINCT recourse_courses.id, recourse_courses.name FROM recourse_courses, recourse_categories \
 			WHERE recourse_courses.id = recourse_categories.course_id AND recourse_categories.category_name LIKE %s;", pattern)
 		course_list = dictfetchall(cursor)
 
@@ -152,3 +153,63 @@ def category_list(request, category_id):
 	'course_list': course_list
 	}
 	return render(request, 'recourse/category.html', context)
+
+# admin user
+def admin_user(request):
+	cursor = connection.cursor()
+	cursor.execute("SELECT * FROM recourse_users;")
+	user_list = dictfetchall(cursor)
+	context = {
+	'user_list': user_list
+	}
+	return render(request, 'recourse/admin/admin_users.html', context)
+
+def admin_userDetail(request, username):
+	cursor = connection.cursor()
+	cursor.execute("SELECT * FROM recourse_users WHERE username LIKE %s;", username)
+	user = dictfetchall(cursor)
+	user = user[0]
+	context = {
+	'user' : user
+	}
+	return render(request, 'recourse/admin/admin_userDetail.html', context)
+
+def admin_deleteUser(request, username):
+	cursor = connection.cursor()
+	cursor.execute("DELETE FROM recourse_users WHERE username LIKE %s;", username)
+	cursor.execute("SELECT * FROM recourse_users;")
+	user_list = dictfetchall(cursor)
+	context = {
+	'user_list': user_list
+	}
+	return render(request, 'recourse/admin/admin_users.html', context)
+
+def admin_updateUser(request, username):
+	username_n = request.POST.get('username')
+	email = request.POST.get('email')
+	password = request.POST.get('password')
+	cursor = connection.cursor()
+	cursor.execute("""UPDATE recourse_users SET username = %s, email = %s, password = %s WHERE username LIKE %s;""", (username_n, email, password, username))
+	cursor.execute("SELECT * FROM recourse_users;")
+	user_list = dictfetchall(cursor)
+	context = {
+	'user_list': user_list
+	}
+	return render(request, 'recourse/admin/admin_users.html', context)
+
+@csrf_protect
+def admin_addUser(request):
+	if 'username' in request.POST:
+		username = request.POST.get('username')
+		email = request.POST.get('email')
+		password = request.POST.get('password')
+		cursor = connection.cursor()
+		cursor.execute("""INSERT INTO recourse_users VALUES (%s, %s, %s);""", (username, email, password))
+		cursor.execute("SELECT * FROM recourse_users;")
+		user_list = dictfetchall(cursor)
+		context = {
+		'user_list': user_list
+		}
+		return render(request, 'recourse/admin/admin_users.html', context)
+	else:
+		return render(request, 'recourse/admin/admin_addUser.html')
