@@ -213,3 +213,24 @@ def admin_addUser(request):
 		return render(request, 'recourse/admin/admin_users.html', context)
 	else:
 		return render(request, 'recourse/admin/admin_addUser.html')
+
+def user_login(request):
+	return render(request, 'recourse/login.html')
+
+def user_check(request):
+	if 'username' in request.POST:
+		username = request.POST.get('username')
+		password = request.POST.get('password')
+		if username == "admin" and password == "123456":
+			cursor = connection.cursor()
+			cursor.execute("SELECT * FROM recourse_users;")
+			user_list = dictfetchall(cursor)
+			context = {
+			'user_list': user_list
+			}
+			return render(request, 'recourse/admin/admin_users.html', context)
+		else:
+			return render(request, 'recourse/index.html')
+
+	else:
+		return render(request, 'recourse/login.html')

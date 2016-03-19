@@ -1,3 +1,5 @@
+import os
+os.environ['DJANGO_SETTINGS_MODULE']='RecoUrse.settings'
 import re
 import django
 django.setup()
