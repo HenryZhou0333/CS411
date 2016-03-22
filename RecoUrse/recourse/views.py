@@ -4,16 +4,25 @@ from django.http import HttpResponse
 from .models import Courses,Instructors,Institutions,Users,Like,Teach,Offer
 from django.db import connection
 from django.views.decorators.csrf import csrf_protect
+from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth.models import User
+from django.contrib.auth.decorators import login_required
 
 def dictfetchall(cursor):
 	columns = [col[0] for col in cursor.description]
 	return [dict(zip(columns, row)) for row in cursor.fetchall()]
 
 # Create your views here.
+@login_required
 def index(request):
+	# how to retrieve current user's data
+	#context = {
+	#'username': request.user.username,
+	#}
 	return render(request, 'recourse/index.html')
 
 # courses
+@login_required
 def course_search(request):
 	list = request.GET.get('courseName')
 	list = '%' + list + '%'
@@ -25,6 +34,7 @@ def course_search(request):
 	}
 	return render(request, 'recourse/course_list.html', context)
 
+@login_required
 def course_detail(request, course_id):
 	cursor = connection.cursor()
 	cursor.execute("SELECT * FROM recourse_courses WHERE id = %s;", course_id)
@@ -40,6 +50,7 @@ def course_detail(request, course_id):
 
 
 # instructor
+@login_required
 def instructor_list(request):
 	pageNum = 1
 	if 'instrPage' in request.GET:
@@ -56,6 +67,7 @@ def instructor_list(request):
 	}
 	return render(request, 'recourse/instructor_list.html', context)
 
+@login_required
 def instructor_detail(request, instructor_id):
 	cursor = connection.cursor()
 	cursor.execute("SELECT * FROM recourse_instructors WHERE id = %s;", instructor_id)
@@ -73,6 +85,7 @@ def instructor_detail(request, instructor_id):
 	}
 	return render(request, 'recourse/instructor_details.html', context)
 
+@login_required
 def instructor_search(request):
 	list = request.GET.get('instrName')
 	list = '%' + list + '%'
@@ -88,6 +101,7 @@ def instructor_search(request):
 	return render(request, 'recourse/instructor_list.html', context)
 
 # university
+@login_required
 def university_list(request):
 	cursor = connection.cursor()
 	cursor.execute("SELECT id, name FROM recourse_institutions ORDER BY id;")
@@ -97,7 +111,7 @@ def university_list(request):
 	}
 	return render(request, 'recourse/university_list.html', context)
 
-
+@login_required
 def university_detail(request, university_id):
 	cursor = connection.cursor()
 	cursor.execute("SELECT * FROM recourse_institutions WHERE id = %s;", university_id)
@@ -116,8 +130,8 @@ def university_detail(request, university_id):
 	return render(request, 'recourse/university_details.html', context)
 
 
-
 # category
+@login_required
 def category_list(request, category_id):
 	cursor = connection.cursor()
 	pattern = ""
@@ -154,83 +168,49 @@ def category_list(request, category_id):
 	}
 	return render(request, 'recourse/category.html', context)
 
-# admin user
-def admin_user(request):
-	cursor = connection.cursor()
-	cursor.execute("SELECT * FROM recourse_users;")
-	user_list = dictfetchall(cursor)
-	context = {
-	'user_list': user_list
-	}
-	return render(request, 'recourse/admin/admin_users.html', context)
-
-def admin_userDetail(request, username):
-	cursor = connection.cursor()
-	cursor.execute("SELECT * FROM recourse_users WHERE username LIKE %s;", username)
-	user = dictfetchall(cursor)
-	user = user[0]
-	context = {
-	'user' : user
-	}
-	return render(request, 'recourse/admin/admin_userDetail.html', context)
-
-def admin_deleteUser(request, username):
-	cursor = connection.cursor()
-	cursor.execute("DELETE FROM recourse_users WHERE username LIKE %s;", username)
-	cursor.execute("SELECT * FROM recourse_users;")
-	user_list = dictfetchall(cursor)
-	context = {
-	'user_list': user_list
-	}
-	return render(request, 'recourse/admin/admin_users.html', context)
-
-def admin_updateUser(request, username):
-	username_n = request.POST.get('username')
-	email = request.POST.get('email')
-	password = request.POST.get('password')
-	cursor = connection.cursor()
-	cursor.execute("""UPDATE recourse_users SET username = %s, email = %s, password = %s WHERE username LIKE %s;""", (username_n, email, password, username))
-	cursor.execute("SELECT * FROM recourse_users;")
-	user_list = dictfetchall(cursor)
-	context = {
-	'user_list': user_list
-	}
-	return render(request, 'recourse/admin/admin_users.html', context)
-
-@csrf_protect
-def admin_addUser(request):
-	if 'username' in request.POST:
-		username = request.POST.get('username')
-		email = request.POST.get('email')
-		password = request.POST.get('password')
-		cursor = connection.cursor()
-		cursor.execute("""INSERT INTO recourse_users VALUES (%s, %s, %s);""", (username, email, password))
-		cursor.execute("SELECT * FROM recourse_users;")
-		user_list = dictfetchall(cursor)
-		context = {
-		'user_list': user_list
-		}
-		return render(request, 'recourse/admin/admin_users.html', context)
-	else:
-		return render(request, 'recourse/admin/admin_addUser.html')
-
-def user_login(request):
+def login_page(request):
 	return render(request, 'recourse/login.html')
 
-def user_check(request):
-	if 'username' in request.POST:
-		username = request.POST.get('username')
-		password = request.POST.get('password')
-		if username == "admin" and password == "123456":
-			cursor = connection.cursor()
-			cursor.execute("SELECT * FROM recourse_users;")
-			user_list = dictfetchall(cursor)
-			context = {
-			'user_list': user_list
-			}
-			return render(request, 'recourse/admin/admin_users.html', context)
-		else:
+def user_login(request):
+	if 'username_l' in request.POST:
+		username = request.POST.get('username_l')
+		password = request.POST.get('password_l')
+		user = authenticate(username=username, password=password)
+		if user is not None:
+			login(request, user)
 			return render(request, 'recourse/index.html')
+		else:
+			context = {
+			'message': 'invalid username and password'
+			}
+			return render(request, 'recourse/login.html', context)
+
+	elif 'username_r':
+		username = request.POST.get('username_r')
+		password = request.POST.get('password_r')
+		email = request.POST.get('email_r')
+		cursor = connection.cursor()
+		cursor.execute("SELECT * FROM auth_user WHERE username = %s;", username)
+		user = dictfetchall(cursor)
+		if len(user)>0:
+			context = {
+			'message': 'username already exist'
+			}
+			return render(request, 'recourse/login.html', context)
+		else:
+			context = {
+			'message': 'create user successful'
+			}
+			user = User.objects.create_user(username, email, password)
+			return render(request, 'recourse/login.html', context)
 
 	else:
 		return render(request, 'recourse/login.html')
+
+@login_required
+def user_logout(request):
+	logout(request)
+	context = {
+		'message': 'logout successfully'
+	}
+	return render(request, 'recourse/login.html')

@@ -17,20 +17,21 @@
     <div class="login-page">
   <div class="form" id = "input_form">
     <p class='title'>Recourse</p>
-    <form class="register-form">
+    <form class="register-form" action = "/recourse/user_login/", method="POST">
       {% csrf_token %}
-      <input type="text" placeholder="name"/>
-      <input type="password" placeholder="password"/>
-      <input type="text" placeholder="email address"/>
+      <input type="text" id="username_r" name="username_r" placeholder="name"/>
+      <input type="password" id="password_r" name="password_r" placeholder="password"/>
+      <input type="text" id="email_r" name="email_r" placeholder="email address"/>
       <button>create</button>
       <p class="message">Already registered? <a href="#">Sign In</a></p>
     </form>
-    <form class="login-form" action = "/recourse/userscheck/", method="POST">
+    <form class="login-form" action = "/recourse/user_login/", method="POST">
       {% csrf_token %}
-      <input type="text" id="username" name="username" placeholder="username"/>
-      <input type="password" id="password" name="password" placeholder="password"/>
+      <input type="text" id="username_l" name="username_l" placeholder="username"/>
+      <input type="password" id="password_l" name="password_l" placeholder="password"/>
       <button>login</button>
       <p class="message">Not registered? <a href="#">Create an account</a></p>
+      <p class="message">{{message}}</p>
     </form>
   </div>
 </div>
