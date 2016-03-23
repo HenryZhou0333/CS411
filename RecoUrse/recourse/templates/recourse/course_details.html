@@ -66,6 +66,9 @@
     </header>
 
 	<div class="container">
+        <div class="col-xs-1 col-sm-1">
+            <button class="btn btn-mini btn-primary" type="button" onclick="LikeDislike()"> {% if like %} <p id="likes"> Dislike </p> {% else %} <p id="likes"> Like </p> {% endif %} </button>
+        </div>
 		<div class="row row-content">
 			<div class="col-xs-15 col-sm-4">
                 <img src={{course.photo}} class="img-responsive">
@@ -115,6 +118,22 @@
             </div>
         </div>
     </footer>
+
+    <script>
+    function LikeDislike (){
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (xhttp.readyState == 4 && xhttp.status == 200) {
+                document.getElementById("likes").innerHTML = xhttp.responseText;
+            }
+        };
+        xhttp.open("POST", "/recourse/like_dislike/", true);
+        var formData = new FormData();
+        formData.append("csrfmiddlewaretoken", "{{ csrf_token }}");
+        formData.append("course_id", "{{course.id}}");
+        xhttp.send(formData);
+    }
+    </script>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

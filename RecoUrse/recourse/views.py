@@ -43,9 +43,19 @@ def course_detail(request, course_id):
 		course = course[0]
 	else:
 		raise Http404("Invalid course id.")
+	cursor.execute("SELECT * FROM recourse_like WHERE username = %s AND course_id = %s;", (request.user.username,course_id))
+	likes = dictfetchall(cursor)
+	like = True
+	if len(likes)>0:
+		like = True
+	else:
+		like = False
+
 	context = {
 	'course': course,
+	'like' : like,
 	}
+
 	return render(request, 'recourse/course_details.html', context)
 
 
@@ -214,3 +224,17 @@ def user_logout(request):
 		'message': 'logout successfully'
 	}
 	return render(request, 'recourse/login.html')
+
+@login_required
+def like_dislike(request):
+	course_id = request.POST.get("course_id")
+	cursor = connection.cursor()
+	cursor.execute("SELECT * FROM recourse_like WHERE username = %s AND course_id = %s;", (request.user.username,course_id))
+	likes = dictfetchall(cursor)
+	if len(likes)>0:
+		cursor.execute("DELETE FROM recourse_like WHERE username = %s AND course_id = %s;", (request.user.username,course_id))
+		return HttpResponse("Like")
+	else:
+		cursor.execute("INSERT INTO recourse_like(username, course_id) VALUES (%s, %s);", (request.user.username,course_id))
+		return HttpResponse("Dislike")
+
