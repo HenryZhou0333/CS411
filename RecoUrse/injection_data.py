@@ -3,7 +3,7 @@ os.environ['DJANGO_SETTINGS_MODULE']='RecoUrse.settings'
 import re
 import django
 django.setup()
-from recourse.models import Courses,Categories,Instructors,Institutions,Users,Like,Teach,Offer
+from recourse.models import Courses,Categories,Instructors,Institutions,Users,Like,Teach,Offer,Similar
 
 def remove_html_tags(data):
 	p = re.compile(r'<.*?>')
@@ -102,7 +102,19 @@ def inject_categories():
 				obj = Categories(category_name=_domain_type, course_id=_course_id)
 				obj.save()
 
-_type = (int)(raw_input("what to inject what data? (1--courses, 2--instructors, 3--institutions, 4--teach, 5--offer, 6--categories, 7--user, 8--like)\n"))
+
+def inject_similar():
+	name = "../coursera_data/similar"
+	file_ = open(name, "r")
+	line = file_.readline()
+	while(line!=""):
+		words = line.split()
+		obj = Similar(course1_id = words[0], course2_id = words[1])
+		obj.save()
+		line = file_.readline()
+
+
+_type = (int)(raw_input("what to inject what data? (1--courses, 2--instructors, 3--institutions, 4--teach, 5--offer, 6--categories, 7--similar_courses, 8--user, 9--like, )\n"))
 if _type==1:
 	inject_courses()
 elif _type==2:
@@ -115,6 +127,8 @@ elif _type==5:
 	inject_offer()
 elif _type==6:
 	inject_categories()
+elif _type==7:
+	inject_similar()
 #else:
 #
 

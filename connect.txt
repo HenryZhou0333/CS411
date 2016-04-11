@@ -3,7 +3,7 @@ ssh -i ./aws_key/cs411.pem ubuntu@52.36.81.226
 run on VM:
 first kill old process 'lsof -i :8000'
 
-python manage.py runserver 0.0.0.0:8000
+python manage.py runserver 0.0.0.0:8080
 
 superuse:ubuntu
 pw: cs411cs411

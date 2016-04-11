@@ -106,6 +106,19 @@
 				</div>
 			</div>
 		</div>
+
+        {% if similar %}
+        <div class="row row-content">
+            <h3> Similar Courses</h3>
+            {% for course in similar %}
+                <div class="col-xs-8 col-sm-2">
+                    <img src={{course.photo}} class="img-responsive">
+                    <h3 class="panel-title"><a href="/recourse/course_{{course.id}}">{{course.name}}</a></h3>
+                </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
 	</div>
 
     <footer>

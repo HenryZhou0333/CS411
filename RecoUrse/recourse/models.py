@@ -68,3 +68,9 @@ class Offer(models.Model):
 	institution_id =  models.CharField(max_length = 50)
 	course_id = models.CharField(max_length = 50)
 
+
+class Similar(models.Model):
+	course1_id = models.CharField(max_length = 50)
+	course2_id = models.CharField(max_length = 50)
+
+

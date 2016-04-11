@@ -1,7 +1,7 @@
 from django.shortcuts import render,get_object_or_404
 from django.http import Http404
 from django.http import HttpResponse
-from .models import Courses,Instructors,Institutions,Users,Like,Teach,Offer
+from .models import Courses,Instructors,Institutions,Users,Like,Teach,Offer,Similar
 from django.db import connection
 from django.views.decorators.csrf import csrf_protect
 from django.contrib.auth import authenticate, login, logout
@@ -51,9 +51,13 @@ def course_detail(request, course_id):
 	else:
 		like = False
 
+	cursor.execute("SELECT * FROM recourse_courses WHERE id IN (SELECT course2_id FROM recourse_similar WHERE course1_id = %s);",course_id)
+	similar = dictfetchall(cursor)
+
 	context = {
 	'course': course,
 	'like' : like,
+	'similar': similar,
 	}
 
 	return render(request, 'recourse/course_details.html', context)
