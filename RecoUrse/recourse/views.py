@@ -227,7 +227,7 @@ def user_logout(request):
 	context = {
 		'message': 'logout successfully'
 	}
-	return render(request, 'recourse/login.html')
+	return render(request, 'recourse/login.html', context)
 
 @login_required
 def like_dislike(request):
@@ -241,4 +241,19 @@ def like_dislike(request):
 	else:
 		cursor.execute("INSERT INTO recourse_like(username, course_id) VALUES (%s, %s);", (request.user.username,course_id))
 		return HttpResponse("Dislike")
+
+@login_required
+def change_password(request):
+	if 'password_n' in request.POST:
+		n_password = request.POST.get('password_n')
+		user = User.objects.get(username__exact=request.user.username)
+		user.set_password(n_password)
+		user.save()
+		logout(request)
+		context = {
+			'message': 'change password successfully, please login again'
+		}
+		return render(request, 'recourse/login.html', context)
+	else:
+		return render(request, 'recourse/password_change.html')
 
