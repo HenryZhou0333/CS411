@@ -16,6 +16,7 @@ class Courses(models.Model):
 	def __str__(self):
 		return self.name
 
+
 class Categories(models.Model):
 	category_name = models.CharField(max_length = 100)
 	course_id = models.CharField(max_length = 50)
@@ -57,6 +58,7 @@ class Users(models.Model):
 class Like(models.Model):
 	username = models.CharField(max_length = 50)
 	course_id = models.CharField(max_length = 50)
+	time = models.DateField(auto_now_add=False)
 
 
 class Teach(models.Model):

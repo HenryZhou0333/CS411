@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <!-- saved from url=(0077)https://d396qusza40orc.cloudfront.net/phoenixassets/web-frameworks/index.html -->
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script> 
+<script type="text/javascript">google.load("jquery", "1.4.2");</script>
+
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -70,10 +74,96 @@
             <button class="btn btn-mini btn-primary" type="button" onclick="LikeDislike()"> {% if like %} <p id="likes"> Dislike </p> {% else %} <p id="likes"> Like </p> {% endif %} </button>
         </div>
 		<div class="row row-content">
-			<div class="col-xs-15 col-sm-4">
+			<div class="col-xs-15 col-sm-5">
                 <img src={{course.photo}} class="img-responsive">
+
+
+
+            <h3> Hotness over time</h3>
+                <svg id="visualisation" width="500" height="300"></svg>
+                <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+                <script>
+
+                var numPeopleTakingCourse = [];
+                var _data = '{{ data|escapejs }}';
+                var parsed = jQuery.parseJSON(_data);
+                for(i = 0; i< parsed.length; i++){
+                    numPeopleTakingCourse.push(parsed[i]['count']);
+                }
+                //console.log(numPeopleTakingCourse);
+                console.log(parsed);
+
+                function InitChart() {
+                    var data2 = null;
+
+                    //console.log(numPeopleTakingCourse);
+                    var min = Math.min(...numPeopleTakingCourse);
+                    var max = Math.max(...numPeopleTakingCourse);
+                    console.log(min, max);
+
+                    var vis = d3.select("#visualisation"),
+                        WIDTH = 500,
+                        HEIGHT = 300,
+                        MARGINS = {
+                            top: 20,
+                            right: 20,
+                            bottom: 20,
+                            left: 50
+                        },
+
+                        xScale = d3.time.scale().domain([new Date(2013, 12), new Date(2016, 4)]).range([MARGINS.left, WIDTH - MARGINS.right]);
+                        yScale = d3.scale.linear().range([HEIGHT - MARGINS.top, MARGINS.bottom]).domain([0, max]),
+
+                        xAxis = d3.svg.axis()
+                        .scale(xScale),
+
+                        yAxis = d3.svg.axis()
+                        .scale(yScale)
+                        .ticks(max + 1)
+                        .orient("left");
+
+                    vis.append("svg:g")
+                        .attr("class", "time span")
+                        .attr("transform", "translate(0," + (HEIGHT - MARGINS.bottom) + ")")
+                        .call(xAxis);
+
+                    vis.append("svg:g")
+                        .attr("class", "number of people taking this course")
+                        .attr("transform", "translate(" + (MARGINS.left) + ",0)")
+                        .call(yAxis);
+
+                    var lineGen = d3.svg.line()
+                        .x(function(d) {
+                            year = d.year;
+                            month = d.month;
+                            return xScale(new Date(year, month));
+                        })
+                        .y(function(d) {
+                            console.log(d);
+                            return yScale(d.count);
+                        })
+                        .interpolate("basis");
+
+                    vis.append('svg:path')
+                        .attr('d', lineGen(parsed))
+                        .attr('stroke', 'green')
+                        .attr('stroke-width', 2)
+                        .attr('fill', 'none');
+
+                    if(data2 != null){
+                    vis.append('svg:path')
+                        .attr('d', lineGen(data2))
+                        .attr('stroke', 'blue')
+                        .attr('stroke-width', 2)
+                        .attr('fill', 'none');
+                    
+                    }
+                }
+            InitChart();
+            </script>
+
             </div>
-			<div class="col-xs-12 col-sm-8">
+			<div class="col-xs-12 col-sm-7">
 				<div class="table-responsive">
                 	<table class="table table-striped">
                 	    <tr>
@@ -116,10 +206,9 @@
                     <h3 class="panel-title"><a href="/recourse/course_{{course.id}}">{{course.name}}</a></h3>
                 </div>
             {% endfor %}
+
         </div>
         {% endif %}
-
-	</div>
 
     <footer>
         <div class="container">

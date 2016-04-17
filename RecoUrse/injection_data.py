@@ -4,6 +4,9 @@ import re
 import django
 django.setup()
 from recourse.models import Courses,Categories,Instructors,Institutions,Users,Like,Teach,Offer,Similar
+from django.contrib.auth.models import User
+from django.db import connection
+import json
 
 def remove_html_tags(data):
 	p = re.compile(r'<.*?>')
@@ -113,6 +116,30 @@ def inject_similar():
 		obj.save()
 		line = file_.readline()
 
+def inject_user():
+	name = "../coursera_data/userPassword.txt"
+	file_ = open(name, "r")
+	line = file_.readline()
+	while (line!=""):
+		words = line.split(':', 1)
+		cursor = connection.cursor()
+		cursor.execute("REPLACE INTO auth_user (username, password) VALUES (%s, %s);",(words[0],words[1].replace("\n", "")))
+		line = file_.readline()
+
+def inject_like():
+	name = "../coursera_data/userCourse.txt"
+	file_ = open(name, "r")
+	data = json.load(file_)
+	for item in data:
+		key = item
+		value = data[item]
+		for course in value:
+			course_id = course
+			time = value[course_id]
+			times = time.split('/')
+			new_time = times[2] + "-" + times[0] + "-" + times[1]
+			obj = Like(username=key,course_id=course_id,time=new_time)
+			obj.save()
 
 _type = (int)(raw_input("what to inject what data? (1--courses, 2--instructors, 3--institutions, 4--teach, 5--offer, 6--categories, 7--similar_courses, 8--user, 9--like, )\n"))
 if _type==1:
@@ -129,6 +156,10 @@ elif _type==6:
 	inject_categories()
 elif _type==7:
 	inject_similar()
+elif _type==8:
+	inject_user()
+else:
+	inject_like()
 #else:
 #
 

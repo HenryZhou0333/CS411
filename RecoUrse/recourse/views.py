@@ -7,6 +7,8 @@ from django.views.decorators.csrf import csrf_protect
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
+import json
+import datetime
 
 def dictfetchall(cursor):
 	columns = [col[0] for col in cursor.description]
@@ -54,10 +56,25 @@ def course_detail(request, course_id):
 	cursor.execute("SELECT * FROM recourse_courses WHERE id IN (SELECT course2_id FROM recourse_similar WHERE course1_id = %s);",course_id)
 	similar = dictfetchall(cursor)
 
+	cursor.execute("SELECT YEAR(time) AS year, MONTH(time) AS month, COUNT(*) AS count from recourse_like where course_id=%s GROUP BY YEAR(time), MONTH(time);", course_id)	
+	data_pts = dictfetchall(cursor)
+	data_= [{'year':2014,'month':1, 'count':0},{'year':2014,'month':2, 'count':0},{'year':2014,'month':3, 'count':0},{'year':2014,'month':4, 'count':0},
+			{'year':2014,'month':5, 'count':0},{'year':2014,'month':6, 'count':0},{'year':2014,'month':7, 'count':0},{'year':2014,'month':8, 'count':0},
+			{'year':2014,'month':9, 'count':0},{'year':2014,'month':10, 'count':0},{'year':2014,'month':11, 'count':0},{'year':2014,'month':12, 'count':0},
+			{'year':2015,'month':1, 'count':0},{'year':2015,'month':2, 'count':0},{'year':2015,'month':3, 'count':0},{'year':2015,'month':4, 'count':0},
+			{'year':2015,'month':5, 'count':0},{'year':2015,'month':6, 'count':0},{'year':2015,'month':7, 'count':0},{'year':2015,'month':8, 'count':0},
+			{'year':2015,'month':9, 'count':0},{'year':2015,'month':10, 'count':0},{'year':2015,'month':11, 'count':0},{'year':2015,'month':12, 'count':0},
+			{'year':2016,'month':1, 'count':0},{'year':2016,'month':2, 'count':0},{'year':2016,'month':3, 'count':0},{'year':2016,'month':4, 'count':0},
+			]
+	for i in range(0,len(data_pts)):
+		index = 12 * (data_pts[i]['year'] - 2014) + data_pts[i]['month']
+		data_[index - 1]['count'] += data_pts[i]['count']
+
 	context = {
 	'course': course,
 	'like' : like,
 	'similar': similar,
+	'data': json.dumps(data_)
 	}
 
 	return render(request, 'recourse/course_details.html', context)
@@ -199,7 +216,7 @@ def user_login(request):
 			}
 			return render(request, 'recourse/login.html', context)
 
-	elif 'username_r':
+	elif 'username_r' in request.POST:
 		username = request.POST.get('username_r')
 		password = request.POST.get('password_r')
 		email = request.POST.get('email_r')
@@ -239,7 +256,7 @@ def like_dislike(request):
 		cursor.execute("DELETE FROM recourse_like WHERE username = %s AND course_id = %s;", (request.user.username,course_id))
 		return HttpResponse("Like")
 	else:
-		cursor.execute("INSERT INTO recourse_like(username, course_id) VALUES (%s, %s);", (request.user.username,course_id))
+		cursor.execute("INSERT INTO recourse_like(username, course_id, time) VALUES (%s, %s, %s);", (request.user.username,course_id, datetime.date.today()))
 		return HttpResponse("Dislike")
 
 @login_required
@@ -256,4 +273,6 @@ def change_password(request):
 		return render(request, 'recourse/login.html', context)
 	else:
 		return render(request, 'recourse/password_change.html')
+
+#@login_required
 
