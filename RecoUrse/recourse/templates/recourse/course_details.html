@@ -70,16 +70,61 @@
     </header>
 
 	<div class="container">
-        <div class="col-xs-1 col-sm-1">
-            <button class="btn btn-mini btn-primary" type="button" onclick="LikeDislike()"> {% if like %} <p id="likes"> Dislike </p> {% else %} <p id="likes"> Like </p> {% endif %} </button>
-        </div>
 		<div class="row row-content">
 			<div class="col-xs-15 col-sm-5">
                 <img src={{course.photo}} class="img-responsive">
+                <button class="btn btn-mini btn-primary" type="button" align="center" onclick="LikeDislike()"> {% if like %} <p id="likes"> Dislike </p> {% else %} <p id="likes"> Like </p> {% endif %} </button>
+            </div>
+			<div class="col-xs-12 col-sm-7">
+				<div class="table-responsive">
+                	<table class="table table-striped">
+                	    <tr>
+							<th>Course Id</th>
+							<td>{{course.id}}</td>                 	    
+                	    </tr>
+                	    <tr>
+                	   		<th>Course Name</th>
+                	   		<td>
+								{% if course.previewLink %}
+									<a href="{{course.previewLink}}">{{course.name}}</a>
+								{% else %}
+									{{course.name}}
+								{% endif %}
+							</td> 	    
+                	    </tr>
+                	    <tr>
+                	    	<th>Primary Language</th>
+                	    	<td>{{course.language}}</td>  
+                	    </tr>
+                	    <tr>
+                	    	<th>Workload</th>
+                	    	<td>{{course.workload}}</td>
+                	   	</tr>
+						<tr>
+                	    	<th>Description</th>
+                	    	<td>{{course.description}}</td>
+                	   	</tr>
+                	</table>
+				</div>
+			</div>
+		</div>
 
+        {% if similar %}
+        <div class="row row-content">
+            <h3> Similar Courses</h3>
+            {% for course in similar %}
+                <div class="col-xs-8 col-sm-2">
+                    <img src={{course.photo}} class="img-responsive">
+                    <h3 class="panel-title"><a href="/recourse/course_{{course.id}}">{{course.name}}</a></h3>
+                </div>
+            {% endfor %}
 
+        </div>
+        {% endif %}
 
-            <h3> Hotness over time</h3>
+        <div class="row row-content">
+            <div class="col-xs-15 col-sm-5">
+                <h3> Hotness over time</h3>
                 <svg id="visualisation" width="500" height="300"></svg>
                 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
                 <script>
@@ -106,7 +151,7 @@
                         HEIGHT = 300,
                         MARGINS = {
                             top: 20,
-                            right: 20,
+                            right: 50,
                             bottom: 20,
                             left: 50
                         },
@@ -159,56 +204,85 @@
                     
                     }
                 }
-            InitChart();
-            </script>
-
+                InitChart();
+                </script>
             </div>
-			<div class="col-xs-12 col-sm-7">
-				<div class="table-responsive">
-                	<table class="table table-striped">
-                	    <tr>
-							<th>Course Id</th>
-							<td>{{course.id}}</td>                 	    
-                	    </tr>
-                	    <tr>
-                	   		<th>Course Name</th>
-                	   		<td>
-								{% if course.previewLink %}
-									<a href="{{course.previewLink}}">{{course.name}}</a>
-								{% else %}
-									{{course.name}}
-								{% endif %}
-							</td> 	    
-                	    </tr>
-                	    <tr>
-                	    	<th>Primary Language</th>
-                	    	<td>{{course.language}}</td>  
-                	    </tr>
-                	    <tr>
-                	    	<th>Workload</th>
-                	    	<td>{{course.workload}}</td>
-                	   	</tr>
-						<tr>
-                	    	<th>Description</th>
-                	    	<td>{{course.description}}</td>
-                	   	</tr>
-                	</table>
-				</div>
-			</div>
-		</div>
 
-        {% if similar %}
-        <div class="row row-content">
-            <h3> Similar Courses</h3>
-            {% for course in similar %}
-                <div class="col-xs-8 col-sm-2">
-                    <img src={{course.photo}} class="img-responsive">
-                    <h3 class="panel-title"><a href="/recourse/course_{{course.id}}">{{course.name}}</a></h3>
-                </div>
-            {% endfor %}
+            <div class="col-xs-15 col-sm-2">
+            </div>
 
+            <div class="col-xs-15 col-sm-5", id = "percentage_visualization"> 
+            <h3> Courses taken after taking this course by categories</h3> 
+            <script>
+                var percentage = '{{ courseTookAfter|escapejs }}';
+                var parsed = jQuery.parseJSON(percentage);
+                console.log(parsed);
+
+                parsed.sort(function(a, b) {
+                    return parseInt(b.count) - parseInt(a.count);
+                });
+
+                console.log(parsed);    
+                var width = 400;                        //width
+                var height = 400;                           //height
+                var radius = 200;                            //radius
+                var color = d3.scale.category20c();     //builtin range of colors
+                var data = [];
+                var currPer = 0.0;
+                var total = 0;
+                for(i = 0; i < parsed.length; i++){
+                    total += parsed[i].count;
+                }
+
+                for(i = 0; i < parsed.length; i++){
+                    data.push({"label": parsed[i].category_name, "value": parsed[i].count/total});
+                    currPer += parsed[i].count/total;
+                    if(currPer > 0.7){
+                        data.push({"label": "other", "value": 1 - currPer});
+                        break;
+                    }
+                }
+
+                console.log(data);  
+                var vis = d3.select("#percentage_visualization")
+                    .append("svg:svg")              //create the SVG element inside the <body>
+                    .data([data])                   //associate our data with the document
+                    .attr("width", width)           //set the width and height of our visualization (these will be attributes of the <svg> tag
+                    .attr("height", height)
+                    .append("svg:g")                //make a group to hold our pie chart
+                    .attr("transform", "translate(" + radius + "," + radius + ")")    //move the center of the pie chart from 0, 0 to radius, radius
+
+                var arc = d3.svg.arc()              //this will create <path> elements for us using arc data
+                    .outerRadius(radius);
+                var pie = d3.layout.pie()           //this will create arc data for us given a list of values
+                    .value(function(d) { return d.value; });    //we must tell it out to access the value of each element in our data array
+                var arcs = vis.selectAll("g.slice")     //this selects all <g> elements with class slice (there aren't any yet)
+                    .data(pie)                          //associate the generated pie data (an array of arcs, each having startAngle, endAngle and value properties)
+                    .enter()                            //this will create <g> elements for every "extra" data element that should be associated with a selection. The result is creating a <g> for every object in the data array
+                    .append("svg:g")                //create a group to hold each slice (we will have a <path> and a <text> element associated with each slice)
+                    .attr("class", "slice")    //allow us to style things in the slices (like text)
+                /*.on("mouseover", function() {d3.select(this)
+                        .enter()
+                        .append("text")
+                        .text(function(d) {return d.value;}) });*/
+
+                arcs.append("svg:path")
+                    .attr("fill", function(d, i) { return color(i); } ) //set the color for each slice to be chosen from the color function defined above
+                    .attr("d", arc)                                 //this creates the actual SVG path using the associated data (pie) with the arc drawing function
+
+
+                arcs.append("svg:text")                                     //add a label to each slice
+                    .attr("transform", function(d) {                    //set the label's origin to the center of the arc
+                    //we have to make sure to set these before calling arc.centroid
+                    d.innerRadius = 0;
+                    d.outerRadius = radius;
+                    return "translate(" + arc.centroid(d) + ")";        //this gives us a pair of coordinates like [50, 50]
+                })
+                .attr("text-anchor", "middle")                          //center the text on it's origin
+                    .text(function(d, i) { return data[i].label; });
+                </script>
+            </div>
         </div>
-        {% endif %}
 
     <footer>
         <div class="container">

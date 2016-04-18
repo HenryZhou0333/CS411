@@ -56,7 +56,7 @@ def course_detail(request, course_id):
 	cursor.execute("SELECT * FROM recourse_courses WHERE id IN (SELECT course2_id FROM recourse_similar WHERE course1_id = %s);",course_id)
 	similar = dictfetchall(cursor)
 
-	cursor.execute("SELECT YEAR(time) AS year, MONTH(time) AS month, COUNT(*) AS count from recourse_like where course_id=%s GROUP BY YEAR(time), MONTH(time);", course_id)	
+	cursor.execute("SELECT YEAR(time) AS year, MONTH(time) AS month, COUNT(*) AS count from recourse_like where course_id=%s GROUP BY YEAR(time), MONTH(time);", course_id)
 	data_pts = dictfetchall(cursor)
 	data_= [{'year':2014,'month':1, 'count':0},{'year':2014,'month':2, 'count':0},{'year':2014,'month':3, 'count':0},{'year':2014,'month':4, 'count':0},
 			{'year':2014,'month':5, 'count':0},{'year':2014,'month':6, 'count':0},{'year':2014,'month':7, 'count':0},{'year':2014,'month':8, 'count':0},
@@ -70,11 +70,15 @@ def course_detail(request, course_id):
 		index = 12 * (data_pts[i]['year'] - 2014) + data_pts[i]['month']
 		data_[index - 1]['count'] += data_pts[i]['count']
 
+	cursor.execute("SELECT count(*) AS count, category_name FROM recourse_categories a, (SELECT course_id FROM recourse_like c1, (SELECT username, time FROM recourse_like WHERE course_id = %s) c3  WHERE c1.username = c3.username AND c1.time > c3.time) b WHERE a.course_id = b.course_id GROUP BY category_name;",course_id)
+	courseTookAfter = dictfetchall(cursor)
+
 	context = {
 	'course': course,
 	'like' : like,
 	'similar': similar,
-	'data': json.dumps(data_)
+	'data': json.dumps(data_),
+	'courseTookAfter': json.dumps(courseTookAfter),
 	}
 
 	return render(request, 'recourse/course_details.html', context)
@@ -107,7 +111,7 @@ def instructor_detail(request, instructor_id):
 		instructor = instructor[0]
 	else:
 		raise Http404("Invalid instructor id.")
-	
+
 	cursor.execute("SELECT id, name FROM recourse_courses WHERE id IN (SELECT course_id FROM recourse_teach WHERE instructors_id = %s);", instructor_id)
 	course_list = dictfetchall(cursor)
 	context = {
@@ -151,7 +155,7 @@ def university_detail(request, university_id):
 		university = university[0]
 	else:
 		raise Http404("Invalid university id.")
-	
+
 	cursor.execute("SELECT DISTINCT id, name FROM recourse_courses WHERE id IN (SELECT course_id FROM recourse_offer WHERE institution_id = %s);", university_id)
 	course_list = dictfetchall(cursor)
 	context = {
@@ -275,4 +279,3 @@ def change_password(request):
 		return render(request, 'recourse/password_change.html')
 
 #@login_required
-
